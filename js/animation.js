@@ -10,7 +10,7 @@
 		init:function(){
 			this.initAsh();
 
-			this.AshGo.play();
+			//this.AshGo.play();
 		},
 		initAsh:function(){
 			var me = this,
@@ -38,6 +38,10 @@
 			}],1,function(){
 
 			});
+
+			window.PlayArrow = function(){
+				me.AshGo.play();
+			}
 		}
 	};
 
