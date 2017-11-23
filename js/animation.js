@@ -22,19 +22,19 @@
 				dom:me.LineTop,
 				attr:[{'stroke-dashoffset':-140},{'stroke-dashoffset':0}],
 				time:t3,
-				tween:'easeInOutInt',
+				tween:'easeInInt',
 				delay:t1+t2
 			},{
 				dom:me.LineBottom,
 				attr:[{'stroke-dashoffset':-90},{'stroke-dashoffset':0}],
 				time:t2,
-				tween:'easeOutInt',
+				tween:'easeInInt',
 				delay:t1
 			},{
 				dom:me.Line,
 				attr:[{'stroke-dashoffset':-700},{'stroke-dashoffset':0}],
 				time:t1,
-				tween:'easeOutInt'
+				tween:'easeInOutInt'
 			}],1,function(){
 
 			});
