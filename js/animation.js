@@ -4,11 +4,20 @@
 		this.Line = document.getElementById('svg_line');
 		this.LineTop = document.getElementById('svg_line_top');
 		this.LineBottom = document.getElementById('svg_line_bottom');
+
+		this.HasPlay = false;
+
 		this.init();
 	};
 	Arrow.prototype={
 		init:function(){
 			this.initAsh();
+			var me = this;
+			$(document).bind('click',function(){
+				if(!me.HasPlay){
+					me.AshGo.play();
+				}
+			});
 
 			//this.AshGo.play();
 		},
@@ -36,7 +45,7 @@
 				time:t1,
 				tween:'easeInOutInt'
 			}],1,function(){
-
+				me.HasPlay = true;
 			});
 
 			window.PlayArrow = function(){
