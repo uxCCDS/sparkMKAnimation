@@ -74,7 +74,7 @@
 	<key>hasManuallyChangedCSSPositioning</key>
 	<false/>
 	<key>lastCheckDate</key>
-	<date>2017-11-27T01:51:15Z</date>
+	<date>2017-11-27T02:02:46Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
@@ -927,6 +927,15 @@
 					<string>2</string>
 					<key>scrollViewOffset</key>
 					<string>{0, 622}</string>
+					<key>userGuides</key>
+					<array>
+						<dict>
+							<key>offset</key>
+							<real>662</real>
+							<key>orientation</key>
+							<string>horizontal</string>
+						</dict>
+					</array>
 				</dict>
 			</array>
 		</dict>
