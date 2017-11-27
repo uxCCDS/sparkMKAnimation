@@ -48,8 +48,8 @@
 	<key>displayedAttributes</key>
 	<array>
 		<string>kPropertiesMenuItemIdentifierOpacity</string>
-		<string>kPropertiesMenuItemIdentifierPosition</string>
 		<string>kPropertiesMenuItemIdentifierAnimated</string>
+		<string>kPropertiesMenuItemIdentifierPosition</string>
 	</array>
 	<key>documentVersion</key>
 	<string>574</string>
@@ -74,7 +74,7 @@
 	<key>hasManuallyChangedCSSPositioning</key>
 	<false/>
 	<key>lastCheckDate</key>
-	<date>2017-11-23T06:50:49Z</date>
+	<date>2017-11-27T01:51:15Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
@@ -84,7 +84,7 @@
 			<key>frame</key>
 			<string>{{0, 0}, {2560, 1253}}</string>
 			<key>identifier</key>
-			<string>container 170</string>
+			<string>container 166</string>
 			<key>isCustomizableViewContainer</key>
 			<true/>
 			<key>isCustomizableViewWrapper</key>
@@ -97,7 +97,7 @@
 					<key>frame</key>
 					<string>{{0, 0}, {2289, 1253}}</string>
 					<key>identifier</key>
-					<string>container 26</string>
+					<string>container 44</string>
 					<key>isCustomizableViewContainer</key>
 					<true/>
 					<key>isCustomizableViewWrapper</key>
@@ -110,7 +110,7 @@
 							<key>frame</key>
 							<string>{{0, 0}, {2018, 1253}}</string>
 							<key>identifier</key>
-							<string>container 168</string>
+							<string>container 33</string>
 							<key>isCustomizableViewContainer</key>
 							<true/>
 							<key>isCustomizableViewWrapper</key>
@@ -123,7 +123,7 @@
 									<key>frame</key>
 									<string>{{0, 0}, {135, 1253}}</string>
 									<key>identifier</key>
-									<string>container 163</string>
+									<string>container 23</string>
 									<key>isCustomizableViewContainer</key>
 									<true/>
 									<key>isCustomizableViewWrapper</key>
@@ -146,7 +146,7 @@
 									<key>frame</key>
 									<string>{{136, 0}, {1882, 1253}}</string>
 									<key>identifier</key>
-									<string>container 166</string>
+									<string>container 24</string>
 									<key>isCustomizableViewContainer</key>
 									<true/>
 									<key>isCustomizableViewWrapper</key>
@@ -157,7 +157,7 @@
 									<array>
 										<dict>
 											<key>frame</key>
-											<string>{{136, 0}, {1882, 511}}</string>
+											<string>{{136, 0}, {1882, 729}}</string>
 											<key>identifier</key>
 											<string>container 165</string>
 											<key>isCustomizableViewContainer</key>
@@ -170,7 +170,7 @@
 											<array>
 												<dict>
 													<key>frame</key>
-													<string>{{136, 0}, {1882, 511}}</string>
+													<string>{{136, 0}, {1882, 729}}</string>
 													<key>identifier</key>
 													<string>timelineCustomizableContainer</string>
 													<key>isCustomizableViewContainer</key>
@@ -180,7 +180,7 @@
 										</dict>
 										<dict>
 											<key>frame</key>
-											<string>{{136, 512}, {1882, 741}}</string>
+											<string>{{136, 730}, {1882, 523}}</string>
 											<key>identifier</key>
 											<string>container 164</string>
 											<key>isCustomizableViewContainer</key>
@@ -193,7 +193,7 @@
 											<array>
 												<dict>
 													<key>frame</key>
-													<string>{{136, 512}, {1882, 741}}</string>
+													<string>{{136, 730}, {1882, 523}}</string>
 													<key>identifier</key>
 													<string>sceneEditorCustomizableContainer</string>
 													<key>isCustomizableViewContainer</key>
@@ -209,7 +209,7 @@
 							<key>frame</key>
 							<string>{{2019, 0}, {270, 1253}}</string>
 							<key>identifier</key>
-							<string>container 167</string>
+							<string>container 32</string>
 							<key>isCustomizableViewContainer</key>
 							<true/>
 							<key>isCustomizableViewWrapper</key>
@@ -234,7 +234,7 @@
 					<key>frame</key>
 					<string>{{2290, 0}, {270, 1253}}</string>
 					<key>identifier</key>
-					<string>container 25</string>
+					<string>container 43</string>
 					<key>isCustomizableViewContainer</key>
 					<true/>
 					<key>isCustomizableViewWrapper</key>
@@ -256,7 +256,7 @@
 			</array>
 		</dict>
 		<key>keyframeTimelineHeight</key>
-		<real>221</real>
+		<real>161</real>
 		<key>mainWindowFrame</key>
 		<string>0 120 2560 1297 0 0 2560 1417 </string>
 		<key>openTabs</key>
@@ -895,7 +895,7 @@
 						<key>timeCursors</key>
 						<dict>
 							<key>kTimelineDefaultIdentifier</key>
-							<real>4.1666665077209473</real>
+							<real>10</real>
 						</dict>
 						<key>timescale</key>
 						<integer>110</integer>
@@ -926,7 +926,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>2</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 404}</string>
+					<string>{0, 622}</string>
 				</dict>
 			</array>
 		</dict>
@@ -986,10 +986,10 @@ function writeArrow(hypeDocument, element, event) {
 	<array>
 		<dict>
 			<key>documentIdentifier</key>
-			<string>D59BD07B-0E1C-443D-9065-7D7360488E6F-63614-0000A87595E8AD37</string>
+			<string>BF8FBF95-FFB6-45C6-B1F6-3364717FC3FD-4983-000000DF4C8E62C6</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>37</string>
+				<string>21</string>
 			</array>
 			<key>symbol</key>
 			<dict>
@@ -1005,9 +1005,9 @@ function writeArrow(hypeDocument, element, event) {
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>3222px</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1125,18 +1125,18 @@ function writeArrow(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>3222px</string>
 						</dict>
 					</array>
 					<key>12</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>996px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1254,9 +1254,9 @@ function writeArrow(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>996px</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>14</key>
@@ -1386,9 +1386,9 @@ function writeArrow(hypeDocument, element, event) {
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>726px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1506,18 +1506,18 @@ function writeArrow(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>726px</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>18</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>655px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1635,18 +1635,18 @@ function writeArrow(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>655px</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>20</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>1550px</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1764,9 +1764,9 @@ function writeArrow(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>1550px</string>
 						</dict>
 					</array>
 					<key>21</key>
@@ -1998,9 +1998,9 @@ function writeArrow(hypeDocument, element, event) {
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>264px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2124,36 +2124,30 @@ function writeArrow(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>264px</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>299</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
-							<key>objectValue</key>
-							<string>div</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderWidthBottom</string>
+							<string>BorderWidthLeft</string>
 							<key>objectValue</key>
 							<string>0px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderColorBottom</string>
-							<key>objectValue</key>
-							<string>#D8DDE4</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>ExplicitDimensions</string>
 							<key>objectValue</key>
 							<string>YES</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderColorBottom</string>
+							<key>objectValue</key>
+							<string>#D8DDE4</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2199,13 +2193,13 @@ function writeArrow(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderColorLeft</string>
+							<string>BorderColorTop</string>
 							<key>objectValue</key>
 							<string>#D8DDE4</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderColorTop</string>
+							<string>BorderColorLeft</string>
 							<key>objectValue</key>
 							<string>#D8DDE4</string>
 						</dict>
@@ -2284,9 +2278,15 @@ function writeArrow(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderWidthLeft</string>
+							<string>BorderWidthBottom</string>
 							<key>objectValue</key>
 							<string>0px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>35</key>
@@ -2362,9 +2362,9 @@ function writeArrow(hypeDocument, element, event) {
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>48px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2488,18 +2488,18 @@ function writeArrow(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>48px</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>39</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>48px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2623,18 +2623,18 @@ function writeArrow(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>48px</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>41</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>48px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2758,18 +2758,18 @@ function writeArrow(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>48px</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>43</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>48px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2893,18 +2893,18 @@ function writeArrow(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>48px</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>45</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>48px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3028,9 +3028,9 @@ function writeArrow(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>48px</string>
+							<string>div</string>
 						</dict>
 					</array>
 				</dict>
@@ -3159,36 +3159,7 @@ function writeArrow(hypeDocument, element, event) {
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>0.0</real>
-								<key>identifier</key>
-								<string>Opacity</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>299</string>
-								<key>startTime</key>
-								<real>0.0</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>1</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>CE076BB8-24CD-4216-A0FE-884DB95DD2A7-63614-0000AC9F5035480A</string>
-								<key>zIndex</key>
-								<integer>1</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>3.7333333492279053</real>
+								<real>3.9333333969116211</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -3224,7 +3195,7 @@ function writeArrow(hypeDocument, element, event) {
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>3.7333333492279053</real>
+								<real>3.9333333969116211</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -3260,7 +3231,7 @@ function writeArrow(hypeDocument, element, event) {
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>3.7333333492279053</real>
+								<real>3.9333333969116211</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -3296,7 +3267,7 @@ function writeArrow(hypeDocument, element, event) {
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>3.7333333492279053</real>
+								<real>3.9333333969116211</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -3365,6 +3336,35 @@ function writeArrow(hypeDocument, element, event) {
 								<string>77BD6C44-3C19-4E81-809C-2B2DBE102A3A-63614-0000AFAB54FD601A</string>
 								<key>zIndex</key>
 								<integer>1</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
+								<string>Opacity</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>299</string>
+								<key>startTime</key>
+								<real>0.0</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>1</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>CE076BB8-24CD-4216-A0FE-884DB95DD2A7-63614-0000AC9F5035480A</string>
+								<key>zIndex</key>
+								<integer>2</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -3444,88 +3444,16 @@ function writeArrow(hypeDocument, element, event) {
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
-									<string>Height</string>
-									<key>objectValue</key>
-									<string>1000px</string>
-								</dict>
-								<key>identifier</key>
-								<string>Height</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>10</string>
-								<key>startTime</key>
-								<real>0.86666667461395264</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Height</string>
-									<key>objectValue</key>
-									<string>844px</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>19CA01F9-BA6C-4A39-9FA9-67DFDA0932E6-79903-0001879C7C89B1C9</string>
-								<key>zIndex</key>
-								<integer>1</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>1.1333333253860474</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Width</string>
-									<key>objectValue</key>
-									<string>1800px</string>
-								</dict>
-								<key>identifier</key>
-								<string>Width</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>10</string>
-								<key>startTime</key>
-								<real>0.86666667461395264</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Width</string>
-									<key>objectValue</key>
-									<string>1500px</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>E9635800-7C29-434F-A2BD-C290F3E1DD8D-79903-0001879CA2C55C05</string>
-								<key>zIndex</key>
-								<integer>1</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>1.1333333253860474</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
 									<string>Top</string>
 									<key>objectValue</key>
-									<string>0px</string>
+									<string>1030px</string>
 								</dict>
 								<key>identifier</key>
 								<string>Top</string>
 								<key>isRelative</key>
 								<false/>
 								<key>referenceOid</key>
-								<string>10</string>
+								<string>21</string>
 								<key>startTime</key>
 								<real>0.86666667461395264</real>
 								<key>startValue</key>
@@ -3533,7 +3461,7 @@ function writeArrow(hypeDocument, element, event) {
 									<key>identifier</key>
 									<string>Top</string>
 									<key>objectValue</key>
-									<string>179px</string>
+									<string>217px</string>
 								</dict>
 								<key>symbolElementActionAttributesBySymbolTimeline</key>
 								<dict/>
@@ -3542,7 +3470,7 @@ function writeArrow(hypeDocument, element, event) {
 								<key>type</key>
 								<integer>0</integer>
 								<key>uuid</key>
-								<string>E39108FB-DB65-4683-9750-0D388CA55C84-79903-0001879D6696E4B8</string>
+								<string>6F51D32E-A5C5-4101-A714-49436A4D84EA-79903-00018933E790E896</string>
 								<key>zIndex</key>
 								<integer>1</integer>
 							</dict>
@@ -3554,14 +3482,14 @@ function writeArrow(hypeDocument, element, event) {
 									<key>identifier</key>
 									<string>Left</string>
 									<key>objectValue</key>
-									<string>0px</string>
+									<string>816px</string>
 								</dict>
 								<key>identifier</key>
 								<string>Left</string>
 								<key>isRelative</key>
 								<false/>
 								<key>referenceOid</key>
-								<string>10</string>
+								<string>21</string>
 								<key>startTime</key>
 								<real>0.86666667461395264</real>
 								<key>startValue</key>
@@ -3569,7 +3497,7 @@ function writeArrow(hypeDocument, element, event) {
 									<key>identifier</key>
 									<string>Left</string>
 									<key>objectValue</key>
-									<string>156px</string>
+									<string>253px</string>
 								</dict>
 								<key>symbolElementActionAttributesBySymbolTimeline</key>
 								<dict/>
@@ -3578,7 +3506,7 @@ function writeArrow(hypeDocument, element, event) {
 								<key>type</key>
 								<integer>0</integer>
 								<key>uuid</key>
-								<string>DE28A00E-26DD-4223-BBBB-21EA5314B450-79903-0001879D80B8B283</string>
+								<string>7ED61A6D-34C3-4090-AE17-9C985105FA8A-79903-00018933D0B95838</string>
 								<key>zIndex</key>
 								<integer>1</integer>
 							</dict>
@@ -3732,24 +3660,24 @@ function writeArrow(hypeDocument, element, event) {
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
-									<string>Left</string>
+									<string>Height</string>
 									<key>objectValue</key>
-									<string>816px</string>
+									<string>1000px</string>
 								</dict>
 								<key>identifier</key>
-								<string>Left</string>
+								<string>Height</string>
 								<key>isRelative</key>
 								<false/>
 								<key>referenceOid</key>
-								<string>21</string>
+								<string>10</string>
 								<key>startTime</key>
 								<real>0.86666667461395264</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
-									<string>Left</string>
+									<string>Height</string>
 									<key>objectValue</key>
-									<string>253px</string>
+									<string>844px</string>
 								</dict>
 								<key>symbolElementActionAttributesBySymbolTimeline</key>
 								<dict/>
@@ -3758,7 +3686,43 @@ function writeArrow(hypeDocument, element, event) {
 								<key>type</key>
 								<integer>0</integer>
 								<key>uuid</key>
-								<string>7ED61A6D-34C3-4090-AE17-9C985105FA8A-79903-00018933D0B95838</string>
+								<string>19CA01F9-BA6C-4A39-9FA9-67DFDA0932E6-79903-0001879C7C89B1C9</string>
+								<key>zIndex</key>
+								<integer>1</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>1.1333333253860474</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Left</string>
+									<key>objectValue</key>
+									<string>0px</string>
+								</dict>
+								<key>identifier</key>
+								<string>Left</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>10</string>
+								<key>startTime</key>
+								<real>0.86666667461395264</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Left</string>
+									<key>objectValue</key>
+									<string>156px</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>DE28A00E-26DD-4223-BBBB-21EA5314B450-79903-0001879D80B8B283</string>
 								<key>zIndex</key>
 								<integer>1</integer>
 							</dict>
@@ -3770,14 +3734,14 @@ function writeArrow(hypeDocument, element, event) {
 									<key>identifier</key>
 									<string>Top</string>
 									<key>objectValue</key>
-									<string>1030px</string>
+									<string>0px</string>
 								</dict>
 								<key>identifier</key>
 								<string>Top</string>
 								<key>isRelative</key>
 								<false/>
 								<key>referenceOid</key>
-								<string>21</string>
+								<string>10</string>
 								<key>startTime</key>
 								<real>0.86666667461395264</real>
 								<key>startValue</key>
@@ -3785,7 +3749,7 @@ function writeArrow(hypeDocument, element, event) {
 									<key>identifier</key>
 									<string>Top</string>
 									<key>objectValue</key>
-									<string>217px</string>
+									<string>179px</string>
 								</dict>
 								<key>symbolElementActionAttributesBySymbolTimeline</key>
 								<dict/>
@@ -3794,7 +3758,79 @@ function writeArrow(hypeDocument, element, event) {
 								<key>type</key>
 								<integer>0</integer>
 								<key>uuid</key>
-								<string>6F51D32E-A5C5-4101-A714-49436A4D84EA-79903-00018933E790E896</string>
+								<string>E39108FB-DB65-4683-9750-0D388CA55C84-79903-0001879D6696E4B8</string>
+								<key>zIndex</key>
+								<integer>1</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>1.1333333253860474</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Width</string>
+									<key>objectValue</key>
+									<string>1800px</string>
+								</dict>
+								<key>identifier</key>
+								<string>Width</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>10</string>
+								<key>startTime</key>
+								<real>0.86666667461395264</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Width</string>
+									<key>objectValue</key>
+									<string>1500px</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>E9635800-7C29-434F-A2BD-C290F3E1DD8D-79903-0001879CA2C55C05</string>
+								<key>zIndex</key>
+								<integer>1</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.53333330154418945</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>0</string>
+								</dict>
+								<key>identifier</key>
+								<string>Opacity</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>16</string>
+								<key>startTime</key>
+								<real>0.86666667461395264</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>1</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>31A1D930-BD9B-4856-BAC5-C4BCC3003F02-79903-0001878B2EABA74D</string>
 								<key>zIndex</key>
 								<integer>1</integer>
 							</dict>
@@ -3849,7 +3885,7 @@ function writeArrow(hypeDocument, element, event) {
 								<key>isRelative</key>
 								<false/>
 								<key>referenceOid</key>
-								<string>16</string>
+								<string>12</string>
 								<key>startTime</key>
 								<real>0.86666667461395264</real>
 								<key>startValue</key>
@@ -3866,7 +3902,7 @@ function writeArrow(hypeDocument, element, event) {
 								<key>type</key>
 								<integer>0</integer>
 								<key>uuid</key>
-								<string>31A1D930-BD9B-4856-BAC5-C4BCC3003F02-79903-0001878B2EABA74D</string>
+								<string>3347B6B2-CEDD-4945-A010-02A2D9216C8B-79903-0001878DB4712927</string>
 								<key>zIndex</key>
 								<integer>1</integer>
 							</dict>
@@ -3904,79 +3940,7 @@ function writeArrow(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>E6E7C1C5-4C6B-4961-B6A5-94980DE3FB75-79903-000187BD892D1AB1</string>
 								<key>zIndex</key>
-								<integer>1</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>1.1333333253860474</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Left</string>
-									<key>objectValue</key>
-									<string>450px</string>
-								</dict>
-								<key>identifier</key>
-								<string>Left</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>20</string>
-								<key>startTime</key>
-								<real>0.86666667461395264</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Left</string>
-									<key>objectValue</key>
-									<string>551px</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>B0F748A4-9C71-40E6-8383-6F5919FEE268-79903-000187BD5BAA53AA</string>
-								<key>zIndex</key>
-								<integer>1</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>1.1333333253860474</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Top</string>
-									<key>objectValue</key>
-									<string>120px</string>
-								</dict>
-								<key>identifier</key>
-								<string>Top</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>20</string>
-								<key>startTime</key>
-								<real>0.86666667461395264</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Top</string>
-									<key>objectValue</key>
-									<string>231px</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>1DA72947-547B-41F0-B8CD-C6843390207D-79903-000187BD7075DAFB</string>
-								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>4</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -4012,43 +3976,7 @@ function writeArrow(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>AFC33E08-B2C5-442E-8295-D84D9F21B80B-79903-000187BDA0176B91</string>
 								<key>zIndex</key>
-								<integer>1</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.53333330154418945</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>0</string>
-								</dict>
-								<key>identifier</key>
-								<string>Opacity</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>12</string>
-								<key>startTime</key>
-								<real>0.86666667461395264</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>1</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>3347B6B2-CEDD-4945-A010-02A2D9216C8B-79903-0001878DB4712927</string>
-								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>4</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -4088,6 +4016,78 @@ function writeArrow(hypeDocument, element, event) {
 							</dict>
 							<dict>
 								<key>duration</key>
+								<real>1.1333333253860474</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Left</string>
+									<key>objectValue</key>
+									<string>450px</string>
+								</dict>
+								<key>identifier</key>
+								<string>Left</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>20</string>
+								<key>startTime</key>
+								<real>0.86666667461395264</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Left</string>
+									<key>objectValue</key>
+									<string>551px</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>B0F748A4-9C71-40E6-8383-6F5919FEE268-79903-000187BD5BAA53AA</string>
+								<key>zIndex</key>
+								<integer>5</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>1.1333333253860474</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Top</string>
+									<key>objectValue</key>
+									<string>120px</string>
+								</dict>
+								<key>identifier</key>
+								<string>Top</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>20</string>
+								<key>startTime</key>
+								<real>0.86666667461395264</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Top</string>
+									<key>objectValue</key>
+									<string>231px</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>1DA72947-547B-41F0-B8CD-C6843390207D-79903-000187BD7075DAFB</string>
+								<key>zIndex</key>
+								<integer>5</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
 								<real>0.60000002384185791</real>
 								<key>endValue</key>
 								<dict>
@@ -4124,79 +4124,7 @@ function writeArrow(hypeDocument, element, event) {
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>0.60000002384185791</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>1</string>
-								</dict>
-								<key>identifier</key>
-								<string>Opacity</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>37</string>
-								<key>startTime</key>
-								<real>1.3999999761581421</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>0</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>A312285F-EA0C-4184-BF0B-63EE278B9182-79903-000189964082E239</string>
-								<key>zIndex</key>
-								<integer>1</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>7.4333330392837524</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>0</string>
-								</dict>
-								<key>identifier</key>
-								<string>Opacity</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>18</string>
-								<key>startTime</key>
-								<real>1.3999999761581421</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>0</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>2A01444C-A750-4A04-9D5F-E3386084BD04-79903-0001878FE1073DE0</string>
-								<key>zIndex</key>
-								<integer>2</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>7.4333330392837524</real>
+								<real>7.3333336114883423</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -4232,7 +4160,43 @@ function writeArrow(hypeDocument, element, event) {
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>7.1000000238418579</real>
+								<real>7.3333336114883423</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>0</string>
+								</dict>
+								<key>identifier</key>
+								<string>Opacity</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>18</string>
+								<key>startTime</key>
+								<real>1.3999999761581421</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>0</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>2A01444C-A750-4A04-9D5F-E3386084BD04-79903-0001878FE1073DE0</string>
+								<key>zIndex</key>
+								<integer>2</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>6.9666668176651001</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -4281,6 +4245,42 @@ function writeArrow(hypeDocument, element, event) {
 								<key>isRelative</key>
 								<false/>
 								<key>referenceOid</key>
+								<string>37</string>
+								<key>startTime</key>
+								<real>1.3999999761581421</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>0</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>A312285F-EA0C-4184-BF0B-63EE278B9182-79903-000189964082E239</string>
+								<key>zIndex</key>
+								<integer>10</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.60000002384185791</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>1</string>
+								</dict>
+								<key>identifier</key>
+								<string>Opacity</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
 								<string>39</string>
 								<key>startTime</key>
 								<real>1.3999999761581421</real>
@@ -4300,7 +4300,7 @@ function writeArrow(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>7C5D3B27-719D-4994-B3AF-3D9F8B709B74-79903-000189A13C42CCC8</string>
 								<key>zIndex</key>
-								<integer>10</integer>
+								<integer>14</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -4336,7 +4336,7 @@ function writeArrow(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>17D5B7A3-6538-4278-A48D-C724483F6AE9-79903-000189A88A89B835</string>
 								<key>zIndex</key>
-								<integer>11</integer>
+								<integer>15</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -4372,7 +4372,7 @@ function writeArrow(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>CA2ECB45-99EE-4D03-813A-71372EDB766F-79903-000189B17F3E4217</string>
 								<key>zIndex</key>
-								<integer>12</integer>
+								<integer>16</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -4408,7 +4408,151 @@ function writeArrow(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>67526812-8749-4873-AFA3-C782CD4D6179-79903-000189B9FFF31DE1</string>
 								<key>zIndex</key>
-								<integer>13</integer>
+								<integer>17</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>1.3666667938232422</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Top</string>
+									<key>objectValue</key>
+									<string>1030px</string>
+								</dict>
+								<key>identifier</key>
+								<string>Top</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>21</string>
+								<key>startTime</key>
+								<real>2</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Top</string>
+									<key>objectValue</key>
+									<string>1030px</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>8BD435B8-6C33-4E2D-895F-C1F35A47EE94-79903-00018A19FABFA8D2</string>
+								<key>zIndex</key>
+								<integer>2</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>1.3666667938232422</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Left</string>
+									<key>objectValue</key>
+									<string>816px</string>
+								</dict>
+								<key>identifier</key>
+								<string>Left</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>21</string>
+								<key>startTime</key>
+								<real>2</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Left</string>
+									<key>objectValue</key>
+									<string>816px</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>0A1505A7-1F59-43AA-9B46-75FD73D1BE61-79903-00018A19FABE35AC</string>
+								<key>zIndex</key>
+								<integer>2</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>6.1999998092651367</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>1</string>
+								</dict>
+								<key>identifier</key>
+								<string>Opacity</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>26</string>
+								<key>startTime</key>
+								<real>2</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>1</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>1B139A91-5F99-4BAE-B382-7FAFBDBFD8E9-79903-0001885B3A51C5C9</string>
+								<key>zIndex</key>
+								<integer>2</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>6.1999998092651367</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Height</string>
+									<key>objectValue</key>
+									<string>880px</string>
+								</dict>
+								<key>identifier</key>
+								<string>Height</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>299</string>
+								<key>startTime</key>
+								<real>2</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Height</string>
+									<key>objectValue</key>
+									<string>880px</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>2574A283-3359-4065-A09A-E3214E3E5024-63614-0000ABC672965E4F</string>
+								<key>zIndex</key>
+								<integer>2</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -4526,14 +4670,14 @@ function writeArrow(hypeDocument, element, event) {
 									<key>identifier</key>
 									<string>Height</string>
 									<key>objectValue</key>
-									<string>880px</string>
+									<string>1000px</string>
 								</dict>
 								<key>identifier</key>
 								<string>Height</string>
 								<key>isRelative</key>
 								<false/>
 								<key>referenceOid</key>
-								<string>299</string>
+								<string>10</string>
 								<key>startTime</key>
 								<real>2</real>
 								<key>startValue</key>
@@ -4541,7 +4685,7 @@ function writeArrow(hypeDocument, element, event) {
 									<key>identifier</key>
 									<string>Height</string>
 									<key>objectValue</key>
-									<string>880px</string>
+									<string>1000px</string>
 								</dict>
 								<key>symbolElementActionAttributesBySymbolTimeline</key>
 								<dict/>
@@ -4550,231 +4694,7 @@ function writeArrow(hypeDocument, element, event) {
 								<key>type</key>
 								<integer>0</integer>
 								<key>uuid</key>
-								<string>2574A283-3359-4065-A09A-E3214E3E5024-63614-0000ABC672965E4F</string>
-								<key>zIndex</key>
-								<integer>2</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>1.3666667938232422</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Left</string>
-									<key>objectValue</key>
-									<string>816px</string>
-								</dict>
-								<key>identifier</key>
-								<string>Left</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>21</string>
-								<key>startTime</key>
-								<real>2</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Left</string>
-									<key>objectValue</key>
-									<string>816px</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>0A1505A7-1F59-43AA-9B46-75FD73D1BE61-79903-00018A19FABE35AC</string>
-								<key>zIndex</key>
-								<integer>2</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>1.3666667938232422</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Top</string>
-									<key>objectValue</key>
-									<string>1030px</string>
-								</dict>
-								<key>identifier</key>
-								<string>Top</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>21</string>
-								<key>startTime</key>
-								<real>2</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Top</string>
-									<key>objectValue</key>
-									<string>1030px</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>8BD435B8-6C33-4E2D-895F-C1F35A47EE94-79903-00018A19FABFA8D2</string>
-								<key>zIndex</key>
-								<integer>2</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>6.1999998092651367</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>1</string>
-								</dict>
-								<key>identifier</key>
-								<string>Opacity</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>26</string>
-								<key>startTime</key>
-								<real>2</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>1</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>1B139A91-5F99-4BAE-B382-7FAFBDBFD8E9-79903-0001885B3A51C5C9</string>
-								<key>zIndex</key>
-								<integer>2</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.0</real>
-								<key>identifier</key>
-								<string>Height</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>20</string>
-								<key>startTime</key>
-								<real>2</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Height</string>
-									<key>objectValue</key>
-									<string>880px</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>4EFBC061-3640-49D1-93A9-E39440EC517C-79903-000187BEDD41363C</string>
-								<key>zIndex</key>
-								<integer>2</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.0</real>
-								<key>identifier</key>
-								<string>Left</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>20</string>
-								<key>startTime</key>
-								<real>2</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Left</string>
-									<key>objectValue</key>
-									<string>450px</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>8DE5F285-6D32-481A-8CD2-07DCE260CE83-79903-000187BE5F2DD3BB</string>
-								<key>zIndex</key>
-								<integer>2</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.0</real>
-								<key>identifier</key>
-								<string>Top</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>20</string>
-								<key>startTime</key>
-								<real>2</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Top</string>
-									<key>objectValue</key>
-									<string>120px</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>7F112E72-89FB-4A18-B1A8-05F2E82EFA5A-79903-000187BEC272718E</string>
-								<key>zIndex</key>
-								<integer>2</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.0</real>
-								<key>identifier</key>
-								<string>Width</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>20</string>
-								<key>startTime</key>
-								<real>2</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Width</string>
-									<key>objectValue</key>
-									<string>900px</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>46104223-6359-49F8-B700-0E282967D66E-79903-000187BEF768B58F</string>
+								<string>75718FBD-8002-4737-9A3F-6E0D279E0835-79903-0001879EFE4AE7F1</string>
 								<key>zIndex</key>
 								<integer>2</integer>
 							</dict>
@@ -4820,78 +4740,6 @@ function writeArrow(hypeDocument, element, event) {
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
-									<string>Width</string>
-									<key>objectValue</key>
-									<string>1800px</string>
-								</dict>
-								<key>identifier</key>
-								<string>Width</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>10</string>
-								<key>startTime</key>
-								<real>2</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Width</string>
-									<key>objectValue</key>
-									<string>1800px</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>A9EFF1A6-5146-4C12-9113-122B4B72DA65-79903-0001879F146F18E3</string>
-								<key>zIndex</key>
-								<integer>2</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>6.1999998092651367</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Height</string>
-									<key>objectValue</key>
-									<string>1000px</string>
-								</dict>
-								<key>identifier</key>
-								<string>Height</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>10</string>
-								<key>startTime</key>
-								<real>2</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Height</string>
-									<key>objectValue</key>
-									<string>1000px</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>75718FBD-8002-4737-9A3F-6E0D279E0835-79903-0001879EFE4AE7F1</string>
-								<key>zIndex</key>
-								<integer>2</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>6.1999998092651367</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
 									<string>Top</string>
 									<key>objectValue</key>
 									<string>0px</string>
@@ -4924,21 +4772,28 @@ function writeArrow(hypeDocument, element, event) {
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>0.0</real>
+								<real>6.1999998092651367</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Width</string>
+									<key>objectValue</key>
+									<string>1800px</string>
+								</dict>
 								<key>identifier</key>
-								<string>Opacity</string>
+								<string>Width</string>
 								<key>isRelative</key>
 								<false/>
 								<key>referenceOid</key>
-								<string>37</string>
+								<string>10</string>
 								<key>startTime</key>
 								<real>2</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
-									<string>Opacity</string>
+									<string>Width</string>
 									<key>objectValue</key>
-									<string>1</string>
+									<string>1800px</string>
 								</dict>
 								<key>symbolElementActionAttributesBySymbolTimeline</key>
 								<dict/>
@@ -4947,7 +4802,7 @@ function writeArrow(hypeDocument, element, event) {
 								<key>type</key>
 								<integer>0</integer>
 								<key>uuid</key>
-								<string>437EADF8-AA87-4F86-9FF4-07B1237472C2-79903-000189971FD0E03C</string>
+								<string>A9EFF1A6-5146-4C12-9113-122B4B72DA65-79903-0001879F146F18E3</string>
 								<key>zIndex</key>
 								<integer>2</integer>
 							</dict>
@@ -4991,6 +4846,151 @@ function writeArrow(hypeDocument, element, event) {
 								<key>duration</key>
 								<real>0.0</real>
 								<key>identifier</key>
+								<string>Height</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>20</string>
+								<key>startTime</key>
+								<real>2</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Height</string>
+									<key>objectValue</key>
+									<string>880px</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>4EFBC061-3640-49D1-93A9-E39440EC517C-79903-000187BEDD41363C</string>
+								<key>zIndex</key>
+								<integer>6</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
+								<string>Width</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>20</string>
+								<key>startTime</key>
+								<real>2</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Width</string>
+									<key>objectValue</key>
+									<string>900px</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>46104223-6359-49F8-B700-0E282967D66E-79903-000187BEF768B58F</string>
+								<key>zIndex</key>
+								<integer>6</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
+								<string>Left</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>20</string>
+								<key>startTime</key>
+								<real>2</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Left</string>
+									<key>objectValue</key>
+									<string>450px</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>8DE5F285-6D32-481A-8CD2-07DCE260CE83-79903-000187BE5F2DD3BB</string>
+								<key>zIndex</key>
+								<integer>8</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
+								<string>Top</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>20</string>
+								<key>startTime</key>
+								<real>2</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Top</string>
+									<key>objectValue</key>
+									<string>120px</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>7F112E72-89FB-4A18-B1A8-05F2E82EFA5A-79903-000187BEC272718E</string>
+								<key>zIndex</key>
+								<integer>8</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
+								<string>Opacity</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>37</string>
+								<key>startTime</key>
+								<real>2</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>1</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>437EADF8-AA87-4F86-9FF4-07B1237472C2-79903-000189971FD0E03C</string>
+								<key>zIndex</key>
+								<integer>19</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
 								<string>Opacity</string>
 								<key>isRelative</key>
 								<false/>
@@ -5014,7 +5014,7 @@ function writeArrow(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>734AEF19-E19E-4C88-970B-851B813B99CB-79903-000189A2492E4C18</string>
 								<key>zIndex</key>
-								<integer>19</integer>
+								<integer>21</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -5043,7 +5043,7 @@ function writeArrow(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>E0680F94-2CA8-4A3A-8CDD-4D52858EC044-79903-000189A9A3829D25</string>
 								<key>zIndex</key>
-								<integer>20</integer>
+								<integer>22</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -5072,7 +5072,7 @@ function writeArrow(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>C49A5C09-B622-4AB6-B209-F5812675CBBD-79903-000189B234F6489C</string>
 								<key>zIndex</key>
-								<integer>21</integer>
+								<integer>23</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -5101,43 +5101,7 @@ function writeArrow(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>4C55DDC2-E9A1-4F1C-9AE7-1321DAF3A5C2-79903-000189BAB5012350</string>
 								<key>zIndex</key>
-								<integer>22</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.56666660308837891</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Left</string>
-									<key>objectValue</key>
-									<string>816px</string>
-								</dict>
-								<key>identifier</key>
-								<string>Left</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>21</string>
-								<key>startTime</key>
-								<real>3.3666667938232422</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Left</string>
-									<key>objectValue</key>
-									<string>816px</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>7C57F343-CE56-4493-A669-02F9B69614F5-79903-00018A217EA74688</string>
-								<key>zIndex</key>
-								<integer>3</integer>
+								<integer>24</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -5172,6 +5136,42 @@ function writeArrow(hypeDocument, element, event) {
 								<integer>0</integer>
 								<key>uuid</key>
 								<string>251EE449-CEAC-457E-933B-BC4AE240E27E-79903-00018A217EA8D723</string>
+								<key>zIndex</key>
+								<integer>3</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.56666660308837891</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Left</string>
+									<key>objectValue</key>
+									<string>816px</string>
+								</dict>
+								<key>identifier</key>
+								<string>Left</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>21</string>
+								<key>startTime</key>
+								<real>3.3666667938232422</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Left</string>
+									<key>objectValue</key>
+									<string>816px</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>7C57F343-CE56-4493-A669-02F9B69614F5-79903-00018A217EA74688</string>
 								<key>zIndex</key>
 								<integer>3</integer>
 							</dict>
@@ -5249,294 +5249,6 @@ function writeArrow(hypeDocument, element, event) {
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>0.26666665077209473</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Height</string>
-									<key>objectValue</key>
-									<string>45px</string>
-								</dict>
-								<key>identifier</key>
-								<string>Height</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>39</string>
-								<key>startTime</key>
-								<real>3.7333333492279053</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Height</string>
-									<key>objectValue</key>
-									<string>28px</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>BA251C9A-AAC1-4AC0-B7C5-A65F653FA3B1-79903-00018A518E7BB1EA</string>
-								<key>zIndex</key>
-								<integer>1</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.26666665077209473</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Left</string>
-									<key>objectValue</key>
-									<string>40px</string>
-								</dict>
-								<key>identifier</key>
-								<string>Left</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>39</string>
-								<key>startTime</key>
-								<real>3.7333333492279053</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Left</string>
-									<key>objectValue</key>
-									<string>47px</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>0E856457-7346-487A-8DC5-3FC61C7EC5B5-79903-00018A9F987AD6EE</string>
-								<key>zIndex</key>
-								<integer>1</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.26666665077209473</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Top</string>
-									<key>objectValue</key>
-									<string>5px</string>
-								</dict>
-								<key>identifier</key>
-								<string>Top</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>39</string>
-								<key>startTime</key>
-								<real>3.7333333492279053</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Top</string>
-									<key>objectValue</key>
-									<string>12px</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>223333EC-9EAE-4D16-B065-C4F0804D8DA7-79903-00018A9664B4E3F3</string>
-								<key>zIndex</key>
-								<integer>1</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.26666665077209473</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Width</string>
-									<key>objectValue</key>
-									<string>45px</string>
-								</dict>
-								<key>identifier</key>
-								<string>Width</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>39</string>
-								<key>startTime</key>
-								<real>3.7333333492279053</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Width</string>
-									<key>objectValue</key>
-									<string>28px</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>E175DC6C-818F-4617-A01C-AC6103A96C2F-79903-00018A51ACC035A8</string>
-								<key>zIndex</key>
-								<integer>1</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.26666665077209473</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Width</string>
-									<key>objectValue</key>
-									<string>28px</string>
-								</dict>
-								<key>identifier</key>
-								<string>Width</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>37</string>
-								<key>startTime</key>
-								<real>3.7333333492279053</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Width</string>
-									<key>objectValue</key>
-									<string>45px</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>F4D709A2-067F-470D-A148-4532C003A56D-63614-0000AD71AC7494D2</string>
-								<key>zIndex</key>
-								<integer>2</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.26666665077209473</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Top</string>
-									<key>objectValue</key>
-									<string>12px</string>
-								</dict>
-								<key>identifier</key>
-								<string>Top</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>37</string>
-								<key>startTime</key>
-								<real>3.7333333492279053</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Top</string>
-									<key>objectValue</key>
-									<string>3px</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>BFC3FA2E-2977-4C9E-A77A-778EA553C687-63614-0000AD8DD298905A</string>
-								<key>zIndex</key>
-								<integer>2</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.26666665077209473</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Left</string>
-									<key>objectValue</key>
-									<string>0px</string>
-								</dict>
-								<key>identifier</key>
-								<string>Left</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>37</string>
-								<key>startTime</key>
-								<real>3.7333333492279053</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Left</string>
-									<key>objectValue</key>
-									<string>-14px</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>665B2D4C-6850-4253-8256-DD8B95C75087-63614-0000AD8D7DFBDDF7</string>
-								<key>zIndex</key>
-								<integer>2</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.26666665077209473</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Height</string>
-									<key>objectValue</key>
-									<string>28px</string>
-								</dict>
-								<key>identifier</key>
-								<string>Height</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>37</string>
-								<key>startTime</key>
-								<real>3.7333333492279053</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Height</string>
-									<key>objectValue</key>
-									<string>45px</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>ADB18BCF-65C1-4159-B88A-336D8B68CE14-63614-0000AD71ACA825EA</string>
-								<key>zIndex</key>
-								<integer>2</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
 								<real>0.20000004768371582</real>
 								<key>endValue</key>
 								<dict>
@@ -5570,6 +5282,294 @@ function writeArrow(hypeDocument, element, event) {
 								<string>E452EAA0-CFD6-44A7-A0AA-F905A4BAA370-79903-00018A686B54527D</string>
 								<key>zIndex</key>
 								<integer>8</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.26666641235351562</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Width</string>
+									<key>objectValue</key>
+									<string>45px</string>
+								</dict>
+								<key>identifier</key>
+								<string>Width</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>39</string>
+								<key>startTime</key>
+								<real>3.9333333969116211</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Width</string>
+									<key>objectValue</key>
+									<string>28px</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>E175DC6C-818F-4617-A01C-AC6103A96C2F-79903-00018A51ACC035A8</string>
+								<key>zIndex</key>
+								<integer>1</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.26666641235351562</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Top</string>
+									<key>objectValue</key>
+									<string>5px</string>
+								</dict>
+								<key>identifier</key>
+								<string>Top</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>39</string>
+								<key>startTime</key>
+								<real>3.9333333969116211</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Top</string>
+									<key>objectValue</key>
+									<string>12px</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>223333EC-9EAE-4D16-B065-C4F0804D8DA7-79903-00018A9664B4E3F3</string>
+								<key>zIndex</key>
+								<integer>1</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.26666641235351562</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Left</string>
+									<key>objectValue</key>
+									<string>40px</string>
+								</dict>
+								<key>identifier</key>
+								<string>Left</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>39</string>
+								<key>startTime</key>
+								<real>3.9333333969116211</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Left</string>
+									<key>objectValue</key>
+									<string>47px</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>0E856457-7346-487A-8DC5-3FC61C7EC5B5-79903-00018A9F987AD6EE</string>
+								<key>zIndex</key>
+								<integer>1</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.26666641235351562</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Height</string>
+									<key>objectValue</key>
+									<string>45px</string>
+								</dict>
+								<key>identifier</key>
+								<string>Height</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>39</string>
+								<key>startTime</key>
+								<real>3.9333333969116211</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Height</string>
+									<key>objectValue</key>
+									<string>28px</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>BA251C9A-AAC1-4AC0-B7C5-A65F653FA3B1-79903-00018A518E7BB1EA</string>
+								<key>zIndex</key>
+								<integer>1</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.26666641235351562</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Width</string>
+									<key>objectValue</key>
+									<string>28px</string>
+								</dict>
+								<key>identifier</key>
+								<string>Width</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>37</string>
+								<key>startTime</key>
+								<real>3.9333333969116211</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Width</string>
+									<key>objectValue</key>
+									<string>45px</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>F4D709A2-067F-470D-A148-4532C003A56D-63614-0000AD71AC7494D2</string>
+								<key>zIndex</key>
+								<integer>2</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.26666641235351562</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Top</string>
+									<key>objectValue</key>
+									<string>12px</string>
+								</dict>
+								<key>identifier</key>
+								<string>Top</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>37</string>
+								<key>startTime</key>
+								<real>3.9333333969116211</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Top</string>
+									<key>objectValue</key>
+									<string>3px</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>BFC3FA2E-2977-4C9E-A77A-778EA553C687-63614-0000AD8DD298905A</string>
+								<key>zIndex</key>
+								<integer>2</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.26666641235351562</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Left</string>
+									<key>objectValue</key>
+									<string>0px</string>
+								</dict>
+								<key>identifier</key>
+								<string>Left</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>37</string>
+								<key>startTime</key>
+								<real>3.9333333969116211</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Left</string>
+									<key>objectValue</key>
+									<string>-14px</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>665B2D4C-6850-4253-8256-DD8B95C75087-63614-0000AD8D7DFBDDF7</string>
+								<key>zIndex</key>
+								<integer>2</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.26666641235351562</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Height</string>
+									<key>objectValue</key>
+									<string>28px</string>
+								</dict>
+								<key>identifier</key>
+								<string>Height</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>37</string>
+								<key>startTime</key>
+								<real>3.9333333969116211</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Height</string>
+									<key>objectValue</key>
+									<string>45px</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>ADB18BCF-65C1-4159-B88A-336D8B68CE14-63614-0000AD71ACA825EA</string>
+								<key>zIndex</key>
+								<integer>2</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -5653,7 +5653,7 @@ function writeArrow(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>39</string>
 								<key>startTime</key>
-								<real>4</real>
+								<real>4.1999998092651367</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -5682,7 +5682,7 @@ function writeArrow(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>39</string>
 								<key>startTime</key>
-								<real>4</real>
+								<real>4.1999998092651367</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -5711,7 +5711,7 @@ function writeArrow(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>39</string>
 								<key>startTime</key>
-								<real>4</real>
+								<real>4.1999998092651367</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -5740,7 +5740,7 @@ function writeArrow(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>39</string>
 								<key>startTime</key>
-								<real>4</real>
+								<real>4.1999998092651367</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -5763,100 +5763,13 @@ function writeArrow(hypeDocument, element, event) {
 								<key>duration</key>
 								<real>0.0</real>
 								<key>identifier</key>
-								<string>Height</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>37</string>
-								<key>startTime</key>
-								<real>4</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Height</string>
-									<key>objectValue</key>
-									<string>28px</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>55FF53EC-4AFE-4803-9AD0-2938B0D70501-63614-0000AD742B891887</string>
-								<key>zIndex</key>
-								<integer>3</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.0</real>
-								<key>identifier</key>
-								<string>Left</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>37</string>
-								<key>startTime</key>
-								<real>4</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Left</string>
-									<key>objectValue</key>
-									<string>0px</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>4A11401A-6457-42E3-9AAB-791A4F1EC4FC-63614-0000AD8F8265F408</string>
-								<key>zIndex</key>
-								<integer>3</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.0</real>
-								<key>identifier</key>
-								<string>Top</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>37</string>
-								<key>startTime</key>
-								<real>4</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Top</string>
-									<key>objectValue</key>
-									<string>12px</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>4F39B161-2857-40A7-BC74-6B5FB48C7ED6-63614-0000AD8F7DF12D38</string>
-								<key>zIndex</key>
-								<integer>3</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.0</real>
-								<key>identifier</key>
 								<string>Width</string>
 								<key>isRelative</key>
 								<false/>
 								<key>referenceOid</key>
 								<string>37</string>
 								<key>startTime</key>
-								<real>4</real>
+								<real>4.1999998092651367</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -5879,13 +5792,112 @@ function writeArrow(hypeDocument, element, event) {
 								<key>duration</key>
 								<real>0.0</real>
 								<key>identifier</key>
+								<string>Top</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>37</string>
+								<key>startTime</key>
+								<real>4.1999998092651367</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Top</string>
+									<key>objectValue</key>
+									<string>12px</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>4F39B161-2857-40A7-BC74-6B5FB48C7ED6-63614-0000AD8F7DF12D38</string>
+								<key>zIndex</key>
+								<integer>3</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
+								<string>Left</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>37</string>
+								<key>startTime</key>
+								<real>4.1999998092651367</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Left</string>
+									<key>objectValue</key>
+									<string>0px</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>4A11401A-6457-42E3-9AAB-791A4F1EC4FC-63614-0000AD8F8265F408</string>
+								<key>zIndex</key>
+								<integer>3</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
+								<string>Height</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>37</string>
+								<key>startTime</key>
+								<real>4.1999998092651367</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Height</string>
+									<key>objectValue</key>
+									<string>28px</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>55FF53EC-4AFE-4803-9AD0-2938B0D70501-63614-0000AD742B891887</string>
+								<key>zIndex</key>
+								<integer>3</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>5.4333333969116211</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>ActionHandler</string>
+									<key>objectValue</key>
+									<dict>
+										<key>actions</key>
+										<array>
+											<dict/>
+										</array>
+									</dict>
+								</dict>
+								<key>identifier</key>
 								<string>ActionHandler</string>
 								<key>isRelative</key>
 								<false/>
 								<key>referenceOid</key>
 								<string>kTimelineDefaultIdentifier</string>
 								<key>startTime</key>
-								<real>4.7333335876464844</real>
+								<real>4.5666666030883789</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -6082,151 +6094,7 @@ function writeArrow(hypeDocument, element, event) {
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>1.1666669845581055</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Width</string>
-									<key>objectValue</key>
-									<string>710px</string>
-								</dict>
-								<key>identifier</key>
-								<string>Width</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>299</string>
-								<key>startTime</key>
-								<real>8.1999998092651367</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Width</string>
-									<key>objectValue</key>
-									<string>900px</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>536D0EFC-42F0-4906-BB73-802EA5BC39EA-63614-0000ACB15D707DE3</string>
-								<key>zIndex</key>
-								<integer>3</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>1.1666669845581055</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Top</string>
-									<key>objectValue</key>
-									<string>231px</string>
-								</dict>
-								<key>identifier</key>
-								<string>Top</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>299</string>
-								<key>startTime</key>
-								<real>8.1999998092651367</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Top</string>
-									<key>objectValue</key>
-									<string>120px</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>B55C5F59-78DD-47B6-B5B5-6F6563B09E20-63614-0000ACAEE757FDAB</string>
-								<key>zIndex</key>
-								<integer>3</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>1.1666669845581055</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Left</string>
-									<key>objectValue</key>
-									<string>551px</string>
-								</dict>
-								<key>identifier</key>
-								<string>Left</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>299</string>
-								<key>startTime</key>
-								<real>8.1999998092651367</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Left</string>
-									<key>objectValue</key>
-									<string>450px</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>30D97984-445B-4B41-B340-7624625489C0-63614-0000ACAE9541CAB1</string>
-								<key>zIndex</key>
-								<integer>3</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>1.1666669845581055</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Height</string>
-									<key>objectValue</key>
-									<string>694px</string>
-								</dict>
-								<key>identifier</key>
-								<string>Height</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>299</string>
-								<key>startTime</key>
-								<real>8.1999998092651367</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Height</string>
-									<key>objectValue</key>
-									<string>880px</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>DBD867BD-4C80-4B6E-BBE6-98B7D8F798B4-63614-0000ACB1B4B2CCFF</string>
-								<key>zIndex</key>
-								<integer>3</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.63333320617675781</real>
+								<real>0.53333377838134766</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -6262,7 +6130,151 @@ function writeArrow(hypeDocument, element, event) {
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>1.1666669845581055</real>
+								<real>1.0333337783813477</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Height</string>
+									<key>objectValue</key>
+									<string>694px</string>
+								</dict>
+								<key>identifier</key>
+								<string>Height</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>299</string>
+								<key>startTime</key>
+								<real>8.1999998092651367</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Height</string>
+									<key>objectValue</key>
+									<string>880px</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>DBD867BD-4C80-4B6E-BBE6-98B7D8F798B4-63614-0000ACB1B4B2CCFF</string>
+								<key>zIndex</key>
+								<integer>3</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>1.0333337783813477</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Left</string>
+									<key>objectValue</key>
+									<string>551px</string>
+								</dict>
+								<key>identifier</key>
+								<string>Left</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>299</string>
+								<key>startTime</key>
+								<real>8.1999998092651367</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Left</string>
+									<key>objectValue</key>
+									<string>450px</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>30D97984-445B-4B41-B340-7624625489C0-63614-0000ACAE9541CAB1</string>
+								<key>zIndex</key>
+								<integer>3</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>1.0333337783813477</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Top</string>
+									<key>objectValue</key>
+									<string>231px</string>
+								</dict>
+								<key>identifier</key>
+								<string>Top</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>299</string>
+								<key>startTime</key>
+								<real>8.1999998092651367</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Top</string>
+									<key>objectValue</key>
+									<string>120px</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>B55C5F59-78DD-47B6-B5B5-6F6563B09E20-63614-0000ACAEE757FDAB</string>
+								<key>zIndex</key>
+								<integer>3</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>1.0333337783813477</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Width</string>
+									<key>objectValue</key>
+									<string>710px</string>
+								</dict>
+								<key>identifier</key>
+								<string>Width</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>299</string>
+								<key>startTime</key>
+								<real>8.1999998092651367</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Width</string>
+									<key>objectValue</key>
+									<string>900px</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>536D0EFC-42F0-4906-BB73-802EA5BC39EA-63614-0000ACB15D707DE3</string>
+								<key>zIndex</key>
+								<integer>3</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>1.0333337783813477</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -6298,7 +6310,7 @@ function writeArrow(hypeDocument, element, event) {
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>1.1666669845581055</real>
+								<real>1.0333337783813477</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -6334,7 +6346,7 @@ function writeArrow(hypeDocument, element, event) {
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>1.1666669845581055</real>
+								<real>1.0333337783813477</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -6370,7 +6382,7 @@ function writeArrow(hypeDocument, element, event) {
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>1.1666669845581055</real>
+								<real>1.0333337783813477</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -6450,7 +6462,7 @@ function writeArrow(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>12</string>
 								<key>startTime</key>
-								<real>8.5</real>
+								<real>8.3666667938232422</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -6471,43 +6483,7 @@ function writeArrow(hypeDocument, element, event) {
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>0.53333377838134766</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>1</string>
-								</dict>
-								<key>identifier</key>
-								<string>Opacity</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>16</string>
-								<key>startTime</key>
-								<real>8.8333330154418945</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>0</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>702FE40C-AA2E-41BE-AEE4-2AFF3B358CB7-63614-0000AC9ACEA210F3</string>
-								<key>zIndex</key>
-								<integer>3</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.53333377838134766</real>
+								<real>0.53333282470703125</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -6522,7 +6498,7 @@ function writeArrow(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>18</string>
 								<key>startTime</key>
-								<real>8.8333330154418945</real>
+								<real>8.7333335876464844</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -6543,6 +6519,42 @@ function writeArrow(hypeDocument, element, event) {
 							</dict>
 							<dict>
 								<key>duration</key>
+								<real>0.53333282470703125</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>1</string>
+								</dict>
+								<key>identifier</key>
+								<string>Opacity</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>16</string>
+								<key>startTime</key>
+								<real>8.7333335876464844</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>0</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>702FE40C-AA2E-41BE-AEE4-2AFF3B358CB7-63614-0000AC9ACEA210F3</string>
+								<key>zIndex</key>
+								<integer>3</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
 								<real>0.0</real>
 								<key>identifier</key>
 								<string>Opacity</string>
@@ -6551,7 +6563,7 @@ function writeArrow(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>26</string>
 								<key>startTime</key>
-								<real>8.8333330154418945</real>
+								<real>8.7333335876464844</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -6580,7 +6592,7 @@ function writeArrow(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>12</string>
 								<key>startTime</key>
-								<real>9.1333332061767578</real>
+								<real>9</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -6603,100 +6615,13 @@ function writeArrow(hypeDocument, element, event) {
 								<key>duration</key>
 								<real>0.0</real>
 								<key>identifier</key>
-								<string>Width</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>299</string>
-								<key>startTime</key>
-								<real>9.3666667938232422</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Width</string>
-									<key>objectValue</key>
-									<string>710px</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>C4A2AB9F-BB22-4F12-83C1-CC48A9C11E48-63614-0000ACBAC26FB0E2</string>
-								<key>zIndex</key>
-								<integer>4</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.0</real>
-								<key>identifier</key>
-								<string>Top</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>299</string>
-								<key>startTime</key>
-								<real>9.3666667938232422</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Top</string>
-									<key>objectValue</key>
-									<string>231px</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>FEF613C8-3E22-4A78-B62A-03E6F989EC32-63614-0000ACB740AD0EA8</string>
-								<key>zIndex</key>
-								<integer>4</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.0</real>
-								<key>identifier</key>
-								<string>Left</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>299</string>
-								<key>startTime</key>
-								<real>9.3666667938232422</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Left</string>
-									<key>objectValue</key>
-									<string>551px</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>31603D12-426C-4197-B23D-D0AD40412935-63614-0000ACB6190481BE</string>
-								<key>zIndex</key>
-								<integer>4</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.0</real>
-								<key>identifier</key>
 								<string>Height</string>
 								<key>isRelative</key>
 								<false/>
 								<key>referenceOid</key>
 								<string>299</string>
 								<key>startTime</key>
-								<real>9.3666667938232422</real>
+								<real>9.2333335876464844</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -6719,19 +6644,19 @@ function writeArrow(hypeDocument, element, event) {
 								<key>duration</key>
 								<real>0.0</real>
 								<key>identifier</key>
-								<string>Opacity</string>
+								<string>Left</string>
 								<key>isRelative</key>
 								<false/>
 								<key>referenceOid</key>
-								<string>16</string>
+								<string>299</string>
 								<key>startTime</key>
-								<real>9.3666667938232422</real>
+								<real>9.2333335876464844</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
-									<string>Opacity</string>
+									<string>Left</string>
 									<key>objectValue</key>
-									<string>1</string>
+									<string>551px</string>
 								</dict>
 								<key>symbolElementActionAttributesBySymbolTimeline</key>
 								<dict/>
@@ -6740,7 +6665,7 @@ function writeArrow(hypeDocument, element, event) {
 								<key>type</key>
 								<integer>0</integer>
 								<key>uuid</key>
-								<string>FDFF3CAB-7832-4A00-9E08-32AB4143A55B-63614-0000AC9B9FFDF0C7</string>
+								<string>31603D12-426C-4197-B23D-D0AD40412935-63614-0000ACB6190481BE</string>
 								<key>zIndex</key>
 								<integer>4</integer>
 							</dict>
@@ -6748,19 +6673,19 @@ function writeArrow(hypeDocument, element, event) {
 								<key>duration</key>
 								<real>0.0</real>
 								<key>identifier</key>
-								<string>Opacity</string>
+								<string>Top</string>
 								<key>isRelative</key>
 								<false/>
 								<key>referenceOid</key>
-								<string>18</string>
+								<string>299</string>
 								<key>startTime</key>
-								<real>9.3666667938232422</real>
+								<real>9.2333335876464844</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
-									<string>Opacity</string>
+									<string>Top</string>
 									<key>objectValue</key>
-									<string>1</string>
+									<string>231px</string>
 								</dict>
 								<key>symbolElementActionAttributesBySymbolTimeline</key>
 								<dict/>
@@ -6769,7 +6694,36 @@ function writeArrow(hypeDocument, element, event) {
 								<key>type</key>
 								<integer>0</integer>
 								<key>uuid</key>
-								<string>A346A028-1C78-4EAD-9BE6-2A1C6100083D-63614-0000AC972797A19E</string>
+								<string>FEF613C8-3E22-4A78-B62A-03E6F989EC32-63614-0000ACB740AD0EA8</string>
+								<key>zIndex</key>
+								<integer>4</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
+								<string>Width</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>299</string>
+								<key>startTime</key>
+								<real>9.2333335876464844</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Width</string>
+									<key>objectValue</key>
+									<string>710px</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>C4A2AB9F-BB22-4F12-83C1-CC48A9C11E48-63614-0000ACBAC26FB0E2</string>
 								<key>zIndex</key>
 								<integer>4</integer>
 							</dict>
@@ -6783,7 +6737,7 @@ function writeArrow(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>10</string>
 								<key>startTime</key>
-								<real>9.3666667938232422</real>
+								<real>9.2333335876464844</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -6812,7 +6766,7 @@ function writeArrow(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>10</string>
 								<key>startTime</key>
-								<real>9.3666667938232422</real>
+								<real>9.2333335876464844</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -6841,7 +6795,7 @@ function writeArrow(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>10</string>
 								<key>startTime</key>
-								<real>9.3666667938232422</real>
+								<real>9.2333335876464844</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -6870,7 +6824,7 @@ function writeArrow(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>10</string>
 								<key>startTime</key>
-								<real>9.3666667938232422</real>
+								<real>9.2333335876464844</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -6886,6 +6840,64 @@ function writeArrow(hypeDocument, element, event) {
 								<integer>0</integer>
 								<key>uuid</key>
 								<string>117C1301-4B75-45F2-8D8A-38DAD3CBA38B-63614-0000ACF6B5ABD00C</string>
+								<key>zIndex</key>
+								<integer>4</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
+								<string>Opacity</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>18</string>
+								<key>startTime</key>
+								<real>9.2666664123535156</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>1</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>A346A028-1C78-4EAD-9BE6-2A1C6100083D-63614-0000AC972797A19E</string>
+								<key>zIndex</key>
+								<integer>4</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
+								<string>Opacity</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>16</string>
+								<key>startTime</key>
+								<real>9.2666664123535156</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>1</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>FDFF3CAB-7832-4A00-9E08-32AB4143A55B-63614-0000AC9B9FFDF0C7</string>
 								<key>zIndex</key>
 								<integer>4</integer>
 							</dict>
@@ -6918,6 +6930,49 @@ function writeArrow(hypeDocument, element, event) {
 								<key>zIndex</key>
 								<integer>2</integer>
 							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
+								<string>ActionHandler</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>kTimelineDefaultIdentifier</string>
+								<key>startTime</key>
+								<real>10</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>ActionHandler</string>
+									<key>objectValue</key>
+									<dict>
+										<key>actions</key>
+										<array>
+											<dict>
+												<key>duration</key>
+												<real>1.1000000000000001</real>
+												<key>sceneSymbol</key>
+												<integer>3</integer>
+												<key>transition</key>
+												<integer>1</integer>
+												<key>type</key>
+												<integer>1</integer>
+											</dict>
+										</array>
+									</dict>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>2</integer>
+								<key>uuid</key>
+								<string>2B6DED49-0640-43D1-8524-11DC544052EE-4983-00000174C848FFAD</string>
+								<key>zIndex</key>
+								<integer>2</integer>
+							</dict>
 						</array>
 						<key>firstKeyframeIsRelative</key>
 						<false/>
@@ -6928,7 +6983,7 @@ function writeArrow(hypeDocument, element, event) {
 						<key>identifier</key>
 						<string>kTimelineDefaultIdentifier</string>
 						<key>name</key>
-						<string>主时间线</string>
+						<string>Main Timeline</string>
 						<key>userDefinedDuration</key>
 						<real>0.0</real>
 					</dict>
@@ -8252,10 +8307,16 @@ function writeArrow(hypeDocument, element, event) {
 	<integer>0</integer>
 	<key>useTouchEvents</key>
 	<true/>
+	<key>videoExportBitrate</key>
+	<integer>0</integer>
+	<key>videoExportCodecTag</key>
+	<integer>0</integer>
 	<key>videoExportDuration</key>
 	<real>0.0</real>
 	<key>videoExportFramerateGif</key>
 	<string>15</string>
+	<key>videoExportFramerateVid</key>
+	<string>30</string>
 	<key>videoExportLoopPlayback</key>
 	<true/>
 	<key>videoExportScale</key>
