@@ -80,11 +80,11 @@
 
 </string>
 	<key>lastCheckDate</key>
-	<date>2018-04-09T20:29:45Z</date>
+	<date>2018-04-09T21:30:28Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
-		<integer>3</integer>
+		<integer>7</integer>
 		<key>customizableLayout</key>
 		<dict>
 			<key>frame</key>
@@ -163,7 +163,7 @@
 									<array>
 										<dict>
 											<key>frame</key>
-											<string>{{136, 0}, {1242, 240}}</string>
+											<string>{{136, 0}, {1242, 238}}</string>
 											<key>identifier</key>
 											<string>container 4</string>
 											<key>isCustomizableViewContainer</key>
@@ -176,7 +176,7 @@
 											<array>
 												<dict>
 													<key>frame</key>
-													<string>{{136, 0}, {1242, 240}}</string>
+													<string>{{136, 0}, {1242, 238}}</string>
 													<key>identifier</key>
 													<string>timelineCustomizableContainer</string>
 													<key>isCustomizableViewContainer</key>
@@ -186,7 +186,7 @@
 										</dict>
 										<dict>
 											<key>frame</key>
-											<string>{{136, 241}, {1242, 717}}</string>
+											<string>{{136, 239}, {1242, 719}}</string>
 											<key>identifier</key>
 											<string>container 3</string>
 											<key>isCustomizableViewContainer</key>
@@ -199,7 +199,7 @@
 											<array>
 												<dict>
 													<key>frame</key>
-													<string>{{136, 241}, {1242, 717}}</string>
+													<string>{{136, 239}, {1242, 719}}</string>
 													<key>identifier</key>
 													<string>sceneEditorCustomizableContainer</string>
 													<key>isCustomizableViewContainer</key>
@@ -264,7 +264,7 @@
 		<key>keyframeTimelineHeight</key>
 		<real>51</real>
 		<key>mainWindowFrame</key>
-		<string>1677 -336 1920 1002 1680 -390 2560 1417 </string>
+		<string>2124 -156 1920 1002 1680 -390 2560 1417 </string>
 		<key>openTabs</key>
 		<array>
 			<dict>
@@ -1248,7 +1248,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{2484, 1434}</string>
+					<string>{2484, 1438}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -1390,10 +1390,14 @@ function append6(hypeDocument, element, event) {
 	<key>symbols</key>
 	<array>
 		<dict>
+			<key>currentGroupElement</key>
+			<string>36</string>
 			<key>documentIdentifier</key>
 			<string>7A61747B-EFF9-4C83-BFEB-0BDCED80F30E-60112-00047B6194DAC57E</string>
 			<key>selectedObjects</key>
-			<array/>
+			<array>
+				<string>23</string>
+			</array>
 			<key>symbol</key>
 			<dict>
 				<key>addToNewSceneControllers</key>
