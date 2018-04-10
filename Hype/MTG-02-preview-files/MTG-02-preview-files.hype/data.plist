@@ -109,7 +109,7 @@ font-style: normal;
 	
 	</string>
 	<key>lastCheckDate</key>
-	<date>2018-04-10T00:37:29Z</date>
+	<date>2018-04-10T00:46:43Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
@@ -1756,7 +1756,7 @@ font-style: normal;
 						<key>timeCursors</key>
 						<dict>
 							<key>kTimelineDefaultIdentifier</key>
-							<real>7.0999999046325684</real>
+							<real>9.1333332061767578</real>
 						</dict>
 						<key>timescale</key>
 						<integer>60</integer>
@@ -1787,7 +1787,7 @@ font-style: normal;
 					<key>rootSymbolControllerOid</key>
 					<string>2</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 108.5}</string>
+					<string>{0, 22.5}</string>
 				</dict>
 			</array>
 		</dict>
@@ -1813,11 +1813,13 @@ font-style: normal;
 	<key>symbols</key>
 	<array>
 		<dict>
+			<key>currentGroupElement</key>
+			<string>60</string>
 			<key>documentIdentifier</key>
 			<string>4DEC70DB-D8B6-43F2-9BFD-85FABBB9C1DA-60112-00047D4DA33E0165</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>20</string>
+				<string>57</string>
 			</array>
 			<key>symbol</key>
 			<dict>
@@ -2046,7 +2048,7 @@ font-style: normal;
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>38</string>
+							<string>39</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2223,7 +2225,7 @@ font-style: normal;
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>37</string>
+							<string>38</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2320,13 +2322,7 @@ font-style: normal;
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>0px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Parent</string>
-							<key>objectValue</key>
-							<string>61</string>
+							<string>88px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2356,7 +2352,7 @@ font-style: normal;
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>266px</string>
+							<string>1059px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2374,7 +2370,7 @@ font-style: normal;
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>1</string>
+							<string>7</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4438,7 +4434,7 @@ font-style: normal;
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>9</string>
+							<string>10</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4486,7 +4482,7 @@ font-style: normal;
 							<key>identifier</key>
 							<string>Display</string>
 							<key>objectValue</key>
-							<string>none</string>
+							<string>inline</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5323,7 +5319,7 @@ font-style: normal;
 							<key>identifier</key>
 							<string>Display</string>
 							<key>objectValue</key>
-							<string>none</string>
+							<string>inline</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5666,7 +5662,7 @@ font-style: normal;
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>33</string>
+							<string>34</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5697,51 +5693,9 @@ font-style: normal;
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>Height</string>
-							<key>objectValue</key>
-							<string>538px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Parent</string>
-							<key>objectValue</key>
-							<string>46</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ZIndex</string>
-							<key>objectValue</key>
-							<string>1</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>DisplayName</string>
 							<key>objectValue</key>
 							<string>waffleMenu</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Overflow</string>
-							<key>objectValue</key>
-							<string>visible</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Top</string>
-							<key>objectValue</key>
-							<string>0px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Left</string>
-							<key>objectValue</key>
-							<string>0px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ClassType</string>
-							<key>objectValue</key>
-							<string>Group</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5751,15 +5705,63 @@ font-style: normal;
 						</dict>
 						<dict>
 							<key>identifier</key>
+							<string>Parent</string>
+							<key>objectValue</key>
+							<string>46</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>0px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Display</string>
+							<key>objectValue</key>
+							<string>none</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>538px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
 							<string>Width</string>
 							<key>objectValue</key>
 							<string>266px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>1</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>0px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
 							<string>TagName</string>
 							<key>objectValue</key>
 							<string>div</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Group</string>
 						</dict>
 					</array>
 					<key>9</key>
@@ -5894,6 +5896,7 @@ font-style: normal;
 				</dict>
 				<key>expandedElementOids</key>
 				<array>
+					<string>55</string>
 					<string>60</string>
 					<string>46</string>
 					<string>61</string>
@@ -7373,7 +7376,7 @@ font-style: normal;
 									<key>identifier</key>
 									<string>Left</string>
 									<key>objectValue</key>
-									<string>0px</string>
+									<string>793px</string>
 								</dict>
 								<key>identifier</key>
 								<string>Left</string>
@@ -7388,7 +7391,7 @@ font-style: normal;
 									<key>identifier</key>
 									<string>Left</string>
 									<key>objectValue</key>
-									<string>266px</string>
+									<string>1059px</string>
 								</dict>
 								<key>symbolElementActionAttributesBySymbolTimeline</key>
 								<dict/>
@@ -7489,7 +7492,7 @@ font-style: normal;
 									<key>identifier</key>
 									<string>Left</string>
 									<key>objectValue</key>
-									<string>0px</string>
+									<string>793px</string>
 								</dict>
 								<key>symbolElementActionAttributesBySymbolTimeline</key>
 								<dict/>
