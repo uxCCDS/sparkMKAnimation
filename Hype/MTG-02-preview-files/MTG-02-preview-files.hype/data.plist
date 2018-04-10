@@ -109,7 +109,7 @@ font-style: normal;
 	
 	</string>
 	<key>lastCheckDate</key>
-	<date>2018-04-10T00:29:58Z</date>
+	<date>2018-04-10T00:37:29Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
@@ -304,7 +304,7 @@ font-style: normal;
 	<key>monotypeProjectID</key>
 	<string>5C058C6B-ED89-411F-B3C5-616F3697F075-60112-000472CAC69F7AB7</string>
 	<key>oidCounter</key>
-	<integer>61</integer>
+	<integer>62</integer>
 	<key>resourcesInfo</key>
 	<dict>
 		<key>groups</key>
@@ -1756,7 +1756,7 @@ font-style: normal;
 						<key>timeCursors</key>
 						<dict>
 							<key>kTimelineDefaultIdentifier</key>
-							<real>8.3000001907348633</real>
+							<real>7.0999999046325684</real>
 						</dict>
 						<key>timescale</key>
 						<integer>60</integer>
@@ -1787,7 +1787,7 @@ font-style: normal;
 					<key>rootSymbolControllerOid</key>
 					<string>2</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 141.5}</string>
+					<string>{0, 108.5}</string>
 				</dict>
 			</array>
 		</dict>
