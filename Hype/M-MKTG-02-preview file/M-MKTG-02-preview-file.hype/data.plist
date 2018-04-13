@@ -50,6 +50,7 @@
 		<string>kPropertiesMenuItemIdentifierOpacity</string>
 		<string>kPropertiesMenuItemIdentifierAnimated</string>
 		<string>PhysicsBounce</string>
+		<string>ScaleY</string>
 		<string>kPropertiesMenuItemIdentifierPosition</string>
 		<string>DisplayHiddenOverride</string>
 	</array>
@@ -80,7 +81,7 @@
 
 </string>
 	<key>lastCheckDate</key>
-	<date>2018-04-12T20:56:36Z</date>
+	<date>2018-04-13T00:30:28Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
@@ -150,7 +151,7 @@
 							<array>
 								<dict>
 									<key>frame</key>
-									<string>{{136, 0}, {1273, 135}}</string>
+									<string>{{136, 0}, {1273, 480.80078125}}</string>
 									<key>identifier</key>
 									<string>container 4</string>
 									<key>isCustomizableViewContainer</key>
@@ -163,7 +164,7 @@
 									<array>
 										<dict>
 											<key>frame</key>
-											<string>{{136, 0}, {1273, 135}}</string>
+											<string>{{136, 0}, {1273, 480.80078125}}</string>
 											<key>identifier</key>
 											<string>timelineCustomizableContainer</string>
 											<key>isCustomizableViewContainer</key>
@@ -173,7 +174,7 @@
 								</dict>
 								<dict>
 									<key>frame</key>
-									<string>{{136, 136}, {1273, 792}}</string>
+									<string>{{136, 481.80078125}, {1273, 446.19921875}}</string>
 									<key>identifier</key>
 									<string>container 3</string>
 									<key>isCustomizableViewContainer</key>
@@ -186,7 +187,7 @@
 									<array>
 										<dict>
 											<key>frame</key>
-											<string>{{136, 136}, {1273, 792}}</string>
+											<string>{{136, 481.80078125}, {1273, 446.19921875}}</string>
 											<key>identifier</key>
 											<string>sceneEditorCustomizableContainer</string>
 											<key>isCustomizableViewContainer</key>
@@ -224,7 +225,7 @@
 			</array>
 		</dict>
 		<key>keyframeTimelineHeight</key>
-		<real>50</real>
+		<real>226.5</real>
 		<key>mainWindowFrame</key>
 		<string>-1 55 1680 972 0 0 1680 1027 </string>
 		<key>openTabs</key>
@@ -232,6 +233,12 @@
 			<dict>
 				<key>className</key>
 				<string>HeadHTMLEditor</string>
+			</dict>
+			<dict>
+				<key>className</key>
+				<string>HypeJavascript</string>
+				<key>oid</key>
+				<string>153</string>
 			</dict>
 		</array>
 		<key>selectedTabIndex</key>
@@ -275,7 +282,7 @@
 	<key>monotypeProjectID</key>
 	<string>2AA73766-5FED-4FC7-8975-69B5D221B4F3-36992-00002CB069B1D4B2</string>
 	<key>oidCounter</key>
-	<integer>152</integer>
+	<integer>153</integer>
 	<key>resourcesInfo</key>
 	<dict>
 		<key>groups</key>
@@ -1129,7 +1136,7 @@
 						<key>timeCursors</key>
 						<dict>
 							<key>kTimelineDefaultIdentifier</key>
-							<real>0.0</real>
+							<real>1.3666666746139526</real>
 						</dict>
 						<key>timescale</key>
 						<integer>60</integer>
@@ -1160,7 +1167,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>2</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 0}</string>
+					<string>{0, 110.19921875}</string>
 					<key>userGuides</key>
 					<array/>
 				</dict>
@@ -1172,7 +1179,35 @@
 	<key>sceneExportSlicesBySceneContainerOid</key>
 	<dict/>
 	<key>scripts</key>
-	<array/>
+	<array>
+		<dict>
+			<key>oid</key>
+			<string>153</string>
+			<key>source</key>
+			<string>// element - DOMHTMLElement that triggered this function being called
+// event - event that triggered this function being called
+function showWaffleBalls(hypeDocument, element, event) {
+	
+	for(var i=0; i&lt;7; i++){
+		
+		delayShow(i);
+
+	}
+	
+	
+	function delayShow(i){
+		setTimeout(function(){
+			document.getElementById('txt'+i).style.opacity = 1
+			document.getElementById('itm'+i).classList.remove('ball');
+			document.getElementById('itm'+i).classList.add('bounceIn');
+			
+		},i*70);
+	}
+
+}
+</string>
+		</dict>
+	</array>
 	<key>shouldApplySizeChangesToAllScenes</key>
 	<false/>
 	<key>showAnyTimelineCompleteActionHandler</key>
@@ -1191,7 +1226,9 @@
 			<key>documentIdentifier</key>
 			<string>7C963CA6-04FE-46E3-9FF2-E11EC0ED4ABE-22954-0000090885FFCEC8</string>
 			<key>selectedObjects</key>
-			<array/>
+			<array>
+				<string>36</string>
+			</array>
 			<key>symbol</key>
 			<dict>
 				<key>addToNewSceneControllers</key>
@@ -2181,6 +2218,12 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
+							<string>DomID</string>
+							<key>objectValue</key>
+							<string>txt0</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
 							<string>Display</string>
 							<key>objectValue</key>
 							<string>inline</string>
@@ -2244,6 +2287,12 @@
 							<string>Height</string>
 							<key>objectValue</key>
 							<string>18px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassName</string>
+							<key>objectValue</key>
+							<string>animated</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2346,6 +2395,12 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
+							<string>DomID</string>
+							<key>objectValue</key>
+							<string>txt1</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
 							<string>Display</string>
 							<key>objectValue</key>
 							<string>inline</string>
@@ -2409,6 +2464,12 @@
 							<string>Height</string>
 							<key>objectValue</key>
 							<string>18px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassName</string>
+							<key>objectValue</key>
+							<string>animated</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2512,6 +2573,12 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
+							<string>DomID</string>
+							<key>objectValue</key>
+							<string>txt2</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
 							<string>Display</string>
 							<key>objectValue</key>
 							<string>inline</string>
@@ -2575,6 +2642,12 @@
 							<string>Height</string>
 							<key>objectValue</key>
 							<string>18px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassName</string>
+							<key>objectValue</key>
+							<string>animated</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3077,6 +3150,12 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
+							<string>DomID</string>
+							<key>objectValue</key>
+							<string>txt3</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
 							<string>Display</string>
 							<key>objectValue</key>
 							<string>inline</string>
@@ -3140,6 +3219,12 @@
 							<string>Height</string>
 							<key>objectValue</key>
 							<string>18px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassName</string>
+							<key>objectValue</key>
+							<string>animated</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3242,6 +3327,12 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
+							<string>DomID</string>
+							<key>objectValue</key>
+							<string>txt5</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
 							<string>Display</string>
 							<key>objectValue</key>
 							<string>inline</string>
@@ -3305,6 +3396,12 @@
 							<string>Height</string>
 							<key>objectValue</key>
 							<string>18px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassName</string>
+							<key>objectValue</key>
+							<string>animated</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3407,6 +3504,12 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
+							<string>DomID</string>
+							<key>objectValue</key>
+							<string>txt4</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
 							<string>Display</string>
 							<key>objectValue</key>
 							<string>inline</string>
@@ -3470,6 +3573,12 @@
 							<string>Height</string>
 							<key>objectValue</key>
 							<string>18px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassName</string>
+							<key>objectValue</key>
+							<string>animated</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4067,6 +4176,12 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
+							<string>DomID</string>
+							<key>objectValue</key>
+							<string>txt6</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
 							<string>Display</string>
 							<key>objectValue</key>
 							<string>inline</string>
@@ -4130,6 +4245,12 @@
 							<string>Height</string>
 							<key>objectValue</key>
 							<string>18px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassName</string>
+							<key>objectValue</key>
+							<string>animated</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4247,6 +4368,12 @@
 							<string>Parent</string>
 							<key>objectValue</key>
 							<string>141</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DomID</string>
+							<key>objectValue</key>
+							<string>itm6</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5238,6 +5365,8 @@
 						<dict>
 							<key>identifier</key>
 							<string>ClassName</string>
+							<key>objectValue</key>
+							<string>ball</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5365,6 +5494,8 @@
 						<dict>
 							<key>identifier</key>
 							<string>ClassName</string>
+							<key>objectValue</key>
+							<string>ball</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5528,6 +5659,8 @@
 						<dict>
 							<key>identifier</key>
 							<string>ClassName</string>
+							<key>objectValue</key>
+							<string>ball</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5677,6 +5810,8 @@
 						<dict>
 							<key>identifier</key>
 							<string>ClassName</string>
+							<key>objectValue</key>
+							<string>ball</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5761,7 +5896,7 @@
 							<key>identifier</key>
 							<string>DomID</string>
 							<key>objectValue</key>
-							<string>itm6</string>
+							<string>itm4</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5826,6 +5961,8 @@
 						<dict>
 							<key>identifier</key>
 							<string>ClassName</string>
+							<key>objectValue</key>
+							<string>ball</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5904,7 +6041,7 @@
 							<key>identifier</key>
 							<string>Display</string>
 							<key>objectValue</key>
-							<string>none</string>
+							<string>inline</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5948,6 +6085,12 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
+							<string>Opacity</string>
+							<key>objectValue</key>
+							<string>0</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
 							<string>TagName</string>
 							<key>objectValue</key>
 							<string>div</string>
@@ -5980,6 +6123,8 @@
 						<dict>
 							<key>identifier</key>
 							<string>DomID</string>
+							<key>objectValue</key>
+							<string>itm3</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6062,6 +6207,8 @@
 						<dict>
 							<key>identifier</key>
 							<string>ClassName</string>
+							<key>objectValue</key>
+							<string>ball</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6310,8 +6457,6 @@
 						<dict>
 							<key>identifier</key>
 							<string>DomID</string>
-							<key>objectValue</key>
-							<string>itm3</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6323,7 +6468,14 @@
 				</dict>
 				<key>expandedElementOids</key>
 				<array>
+					<string>129</string>
+					<string>141</string>
+					<string>137</string>
+					<string>138</string>
 					<string>36</string>
+					<string>127</string>
+					<string>128</string>
+					<string>77</string>
 				</array>
 				<key>isPersistentSymbol</key>
 				<false/>
@@ -6407,7 +6559,213 @@
 				<array>
 					<dict>
 						<key>animations</key>
-						<array/>
+						<array>
+							<dict>
+								<key>duration</key>
+								<real>0.19999998807907104</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>0.52</string>
+								</dict>
+								<key>identifier</key>
+								<string>Opacity</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>13</string>
+								<key>startTime</key>
+								<real>0.63333332538604736</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>0</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>7A256869-5ABB-47F9-B27B-BB8508105620-22954-00000F5AE3B53E32</string>
+								<key>zIndex</key>
+								<integer>1</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.16666668653488159</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>0</string>
+								</dict>
+								<key>identifier</key>
+								<string>Opacity</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>13</string>
+								<key>startTime</key>
+								<real>0.83333331346511841</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>0.52</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>29732AB5-4803-48AF-97B1-5B275592D129-22954-00000F5BE41E0C21</string>
+								<key>zIndex</key>
+								<integer>2</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
+								<string>Opacity</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>13</string>
+								<key>startTime</key>
+								<real>1</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>0</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>A8B8291B-0154-4B8B-8239-AA4EC61B204C-22954-00000F5CB74CA809</string>
+								<key>zIndex</key>
+								<integer>3</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.63333320617675781</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>1</string>
+								</dict>
+								<key>identifier</key>
+								<string>Opacity</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>36</string>
+								<key>startTime</key>
+								<real>1.2000000476837158</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>0</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>825FF5C0-C714-4545-891D-8106D51E2C44-22954-00000F9A13A96A3F</string>
+								<key>zIndex</key>
+								<integer>1</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
+								<string>ActionHandler</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>kTimelineDefaultIdentifier</string>
+								<key>startTime</key>
+								<real>1.3666666746139526</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>ActionHandler</string>
+									<key>objectValue</key>
+									<dict>
+										<key>actions</key>
+										<array>
+											<dict>
+												<key>javascriptOid</key>
+												<string>153</string>
+												<key>type</key>
+												<integer>4</integer>
+											</dict>
+										</array>
+									</dict>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>2</integer>
+								<key>uuid</key>
+								<string>3469B83B-FC27-4CC7-A1D9-7C3851D11113-22954-00000F719DB7AB84</string>
+								<key>zIndex</key>
+								<integer>1</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
+								<string>Opacity</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>36</string>
+								<key>startTime</key>
+								<real>1.8333332538604736</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>1</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>F13C2905-938D-48B2-9F70-90BD2EA61C58-22954-00000F9B140B1909</string>
+								<key>zIndex</key>
+								<integer>2</integer>
+							</dict>
+						</array>
 						<key>firstKeyframeIsRelative</key>
 						<false/>
 						<key>framesPerSecond</key>
