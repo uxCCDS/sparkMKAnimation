@@ -81,7 +81,7 @@
 
 </string>
 	<key>lastCheckDate</key>
-	<date>2018-04-13T02:27:47Z</date>
+	<date>2018-04-13T02:56:21Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
@@ -151,7 +151,7 @@
 							<array>
 								<dict>
 									<key>frame</key>
-									<string>{{136, 0}, {1033, 169}}</string>
+									<string>{{136, 0}, {1033, 138}}</string>
 									<key>identifier</key>
 									<string>container 4</string>
 									<key>isCustomizableViewContainer</key>
@@ -164,7 +164,7 @@
 									<array>
 										<dict>
 											<key>frame</key>
-											<string>{{136, 0}, {1033, 169}}</string>
+											<string>{{136, 0}, {1033, 138}}</string>
 											<key>identifier</key>
 											<string>timelineCustomizableContainer</string>
 											<key>isCustomizableViewContainer</key>
@@ -174,7 +174,7 @@
 								</dict>
 								<dict>
 									<key>frame</key>
-									<string>{{136, 170}, {1033, 546}}</string>
+									<string>{{136, 139}, {1033, 577}}</string>
 									<key>identifier</key>
 									<string>container 3</string>
 									<key>isCustomizableViewContainer</key>
@@ -187,7 +187,7 @@
 									<array>
 										<dict>
 											<key>frame</key>
-											<string>{{136, 170}, {1033, 546}}</string>
+											<string>{{136, 139}, {1033, 577}}</string>
 											<key>identifier</key>
 											<string>sceneEditorCustomizableContainer</string>
 											<key>isCustomizableViewContainer</key>
@@ -1136,10 +1136,10 @@
 						<key>timeCursors</key>
 						<dict>
 							<key>kTimelineDefaultIdentifier</key>
-							<real>5.1333332061767578</real>
+							<real>5.8000001907348633</real>
 						</dict>
 						<key>timescale</key>
-						<integer>220</integer>
+						<integer>90</integer>
 					</dict>
 					<key>canvasSize</key>
 					<string>{1033, 990}</string>
@@ -1167,7 +1167,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>2</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 308}</string>
+					<string>{0, 83.5}</string>
 					<key>userGuides</key>
 					<array/>
 				</dict>
@@ -1227,7 +1227,23 @@ function showWaffleBalls(hypeDocument, element, event) {
 			<string>7B924499-8849-4F20-BCBD-540B9AD88D36-22353-0001370ECC2027F1</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>155</string>
+				<string>36</string>
+				<string>128</string>
+				<string>140</string>
+				<string>154</string>
+				<string>137</string>
+				<string>148</string>
+				<string>157</string>
+				<string>152</string>
+				<string>129</string>
+				<string>141</string>
+				<string>13</string>
+				<string>150</string>
+				<string>127</string>
+				<string>138</string>
+				<string>77</string>
+				<string>158</string>
+				<string>136</string>
 			</array>
 			<key>symbol</key>
 			<dict>
@@ -7429,7 +7445,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 						<array>
 							<dict>
 								<key>duration</key>
-								<real>2.7666666507720947</real>
+								<real>3.4333333969116211</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -7465,7 +7481,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>0.20000001788139343</real>
+								<real>0.19999998807907104</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -7480,7 +7496,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>155</string>
 								<key>startTime</key>
-								<real>0.46666666865348816</real>
+								<real>0.83333331346511841</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -7501,7 +7517,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>0.16666662693023682</real>
+								<real>0.16666674613952637</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -7516,7 +7532,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>155</string>
 								<key>startTime</key>
-								<real>0.66666668653488159</real>
+								<real>1.0333333015441895</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -7537,43 +7553,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>0.2666667103767395</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>1</string>
-								</dict>
-								<key>identifier</key>
-								<string>Opacity</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>150</string>
-								<key>startTime</key>
-								<real>0.83333331346511841</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>1.665334536937735e-16</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>8024A8DE-3331-4DCA-9098-1BDDF31D3D52-22353-0001386C38006812</string>
-								<key>zIndex</key>
-								<integer>1</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.2666667103767395</real>
+								<real>0.26666665077209473</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -7588,7 +7568,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>150</string>
 								<key>startTime</key>
-								<real>0.83333331346511841</real>
+								<real>1.2000000476837158</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -7609,6 +7589,42 @@ function showWaffleBalls(hypeDocument, element, event) {
 							</dict>
 							<dict>
 								<key>duration</key>
+								<real>0.26666665077209473</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>1</string>
+								</dict>
+								<key>identifier</key>
+								<string>Opacity</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>150</string>
+								<key>startTime</key>
+								<real>1.2000000476837158</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>1.665334536937735e-16</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>8024A8DE-3331-4DCA-9098-1BDDF31D3D52-22353-0001386C38006812</string>
+								<key>zIndex</key>
+								<integer>1</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
 								<real>0.0</real>
 								<key>identifier</key>
 								<string>Opacity</string>
@@ -7617,7 +7633,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>155</string>
 								<key>startTime</key>
-								<real>0.83333331346511841</real>
+								<real>1.2000000476837158</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -7635,107 +7651,6 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<string>42FDDEB7-071D-49D3-A9AC-7D0078096C5E-22353-0001384109F68656</string>
 								<key>zIndex</key>
 								<integer>3</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.53333330154418945</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>1</string>
-								</dict>
-								<key>identifier</key>
-								<string>Opacity</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>150</string>
-								<key>startTime</key>
-								<real>1.1000000238418579</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>1</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>DBC74BF0-E77A-4DA5-9511-86B189E287C2-22353-0001386C381FD271</string>
-								<key>zIndex</key>
-								<integer>2</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.0</real>
-								<key>identifier</key>
-								<string>DisplayHiddenOverride</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>150</string>
-								<key>startTime</key>
-								<real>1.1000000238418579</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>DisplayHiddenOverride</string>
-									<key>objectValue</key>
-									<string>0</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>0398D8F5-72F8-418D-A829-C7EBD5649AC5-22353-0001386B94653F9D</string>
-								<key>zIndex</key>
-								<integer>2</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.20000004768371582</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>0.52</string>
-								</dict>
-								<key>identifier</key>
-								<string>Opacity</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>157</string>
-								<key>startTime</key>
-								<real>1.2666666507720947</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>0</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>3839CA1A-909F-4398-AC4D-23FE1DFD17D0-22353-000138929172997E</string>
-								<key>zIndex</key>
-								<integer>1</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -7778,7 +7693,108 @@ function showWaffleBalls(hypeDocument, element, event) {
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>0.16666662693023682</real>
+								<real>0.0</real>
+								<key>identifier</key>
+								<string>DisplayHiddenOverride</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>150</string>
+								<key>startTime</key>
+								<real>1.4666666984558105</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>DisplayHiddenOverride</string>
+									<key>objectValue</key>
+									<string>0</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>0398D8F5-72F8-418D-A829-C7EBD5649AC5-22353-0001386B94653F9D</string>
+								<key>zIndex</key>
+								<integer>2</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.83333325386047363</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>1</string>
+								</dict>
+								<key>identifier</key>
+								<string>Opacity</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>150</string>
+								<key>startTime</key>
+								<real>1.4666666984558105</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>1</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>DBC74BF0-E77A-4DA5-9511-86B189E287C2-22353-0001386C381FD271</string>
+								<key>zIndex</key>
+								<integer>2</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.20000004768371582</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>0.52</string>
+								</dict>
+								<key>identifier</key>
+								<string>Opacity</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>157</string>
+								<key>startTime</key>
+								<real>1.9333333969116211</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>0</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>3839CA1A-909F-4398-AC4D-23FE1DFD17D0-22353-000138929172997E</string>
+								<key>zIndex</key>
+								<integer>1</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.16666650772094727</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -7793,7 +7809,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>157</string>
 								<key>startTime</key>
-								<real>1.4666666984558105</real>
+								<real>2.1333334445953369</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -7829,7 +7845,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>36</string>
 								<key>startTime</key>
-								<real>1.5666666030883789</real>
+								<real>2.2333333492279053</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -7854,42 +7870,6 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>0</string>
-								</dict>
-								<key>identifier</key>
-								<string>Opacity</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>136</string>
-								<key>startTime</key>
-								<real>1.5666666030883789</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>1</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>6D126DA4-376E-4B4F-BC71-1981A747BF67-22353-00013758703AAE0F</string>
-								<key>zIndex</key>
-								<integer>1</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>1.2000000476837158</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
 									<string>DisplayHiddenOverride</string>
 									<key>objectValue</key>
 									<string>0</string>
@@ -7901,7 +7881,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>136</string>
 								<key>startTime</key>
-								<real>1.5666666030883789</real>
+								<real>2.2333333492279053</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -7922,6 +7902,42 @@ function showWaffleBalls(hypeDocument, element, event) {
 							</dict>
 							<dict>
 								<key>duration</key>
+								<real>1.2000000476837158</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>0</string>
+								</dict>
+								<key>identifier</key>
+								<string>Opacity</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>136</string>
+								<key>startTime</key>
+								<real>2.2333333492279053</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>1</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>6D126DA4-376E-4B4F-BC71-1981A747BF67-22353-00013758703AAE0F</string>
+								<key>zIndex</key>
+								<integer>1</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
 								<real>2.2666666507720947</real>
 								<key>endValue</key>
 								<dict>
@@ -7937,7 +7953,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>148</string>
 								<key>startTime</key>
-								<real>1.5666666030883789</real>
+								<real>2.2333333492279053</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -7966,7 +7982,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>157</string>
 								<key>startTime</key>
-								<real>1.6333333253860474</real>
+								<real>2.2999999523162842</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -8002,7 +8018,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>150</string>
 								<key>startTime</key>
-								<real>1.6333333253860474</real>
+								<real>2.2999999523162842</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -8031,7 +8047,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>150</string>
 								<key>startTime</key>
-								<real>1.8999999761581421</real>
+								<real>2.5666666030883789</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -8052,7 +8068,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>0.20000004768371582</real>
+								<real>0.19999980926513672</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -8067,7 +8083,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>13</string>
 								<key>startTime</key>
-								<real>2.2000000476837158</real>
+								<real>2.8666667938232422</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -8088,7 +8104,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>0.16666650772094727</real>
+								<real>0.16666674613952637</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -8103,7 +8119,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>13</string>
 								<key>startTime</key>
-								<real>2.4000000953674316</real>
+								<real>3.0666666030883789</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -8132,7 +8148,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>13</string>
 								<key>startTime</key>
-								<real>2.5666666030883789</real>
+								<real>3.2333333492279053</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -8153,7 +8169,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>0.20000004768371582</real>
+								<real>0.19999980926513672</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -8168,7 +8184,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>129</string>
 								<key>startTime</key>
-								<real>2.7666666507720947</real>
+								<real>3.4333333969116211</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -8204,7 +8220,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>36</string>
 								<key>startTime</key>
-								<real>2.7666666507720947</real>
+								<real>3.4333333969116211</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -8225,42 +8241,6 @@ function showWaffleBalls(hypeDocument, element, event) {
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>0.10000014305114746</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>1</string>
-								</dict>
-								<key>identifier</key>
-								<string>Opacity</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>136</string>
-								<key>startTime</key>
-								<real>2.7666666507720947</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>0</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>746E615B-0AF6-44D3-9358-420052705CA3-22353-0001375870505766</string>
-								<key>zIndex</key>
-								<integer>2</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
 								<real>0.0</real>
 								<key>identifier</key>
 								<string>DisplayHiddenOverride</string>
@@ -8269,7 +8249,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>136</string>
 								<key>startTime</key>
-								<real>2.7666666507720947</real>
+								<real>3.4333333969116211</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -8290,7 +8270,43 @@ function showWaffleBalls(hypeDocument, element, event) {
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>0.10000014305114746</real>
+								<real>0.099999904632568359</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>1</string>
+								</dict>
+								<key>identifier</key>
+								<string>Opacity</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>136</string>
+								<key>startTime</key>
+								<real>3.4333333969116211</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>0</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>746E615B-0AF6-44D3-9358-420052705CA3-22353-0001375870505766</string>
+								<key>zIndex</key>
+								<integer>2</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.099999904632568359</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -8305,7 +8321,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>140</string>
 								<key>startTime</key>
-								<real>2.7666666507720947</real>
+								<real>3.4333333969116211</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -8341,7 +8357,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>128</string>
 								<key>startTime</key>
-								<real>2.8333332538604736</real>
+								<real>3.5</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -8377,7 +8393,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>137</string>
 								<key>startTime</key>
-								<real>2.8333332538604736</real>
+								<real>3.5</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -8406,7 +8422,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>136</string>
 								<key>startTime</key>
-								<real>2.8666667938232422</real>
+								<real>3.5333333015441895</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -8435,7 +8451,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>140</string>
 								<key>startTime</key>
-								<real>2.8666667938232422</real>
+								<real>3.5333333015441895</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -8456,7 +8472,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>0.19999980926513672</real>
+								<real>0.20000004768371582</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -8471,7 +8487,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>127</string>
 								<key>startTime</key>
-								<real>2.9000000953674316</real>
+								<real>3.5666666030883789</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -8492,7 +8508,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>0.19999980926513672</real>
+								<real>0.20000004768371582</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -8507,7 +8523,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>138</string>
 								<key>startTime</key>
-								<real>2.9000000953674316</real>
+								<real>3.5666666030883789</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -8543,7 +8559,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>77</string>
 								<key>startTime</key>
-								<real>2.9666666984558105</real>
+								<real>3.6333332061767578</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -8572,7 +8588,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>129</string>
 								<key>startTime</key>
-								<real>2.9666666984558105</real>
+								<real>3.6333332061767578</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -8608,7 +8624,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>141</string>
 								<key>startTime</key>
-								<real>3.0333333015441895</real>
+								<real>3.7000000476837158</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -8637,7 +8653,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>128</string>
 								<key>startTime</key>
-								<real>3.0333333015441895</real>
+								<real>3.7000000476837158</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -8666,7 +8682,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>137</string>
 								<key>startTime</key>
-								<real>3.0333333015441895</real>
+								<real>3.7000000476837158</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -8695,7 +8711,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>127</string>
 								<key>startTime</key>
-								<real>3.0999999046325684</real>
+								<real>3.7666666507720947</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -8724,7 +8740,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>138</string>
 								<key>startTime</key>
-								<real>3.0999999046325684</real>
+								<real>3.7666666507720947</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -8753,7 +8769,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>77</string>
 								<key>startTime</key>
-								<real>3.1666667461395264</real>
+								<real>3.8333332538604736</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -8782,7 +8798,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>141</string>
 								<key>startTime</key>
-								<real>3.2333333492279053</real>
+								<real>3.9000000953674316</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -8803,7 +8819,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>0.20000004768371582</real>
+								<real>0.20000028610229492</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -8818,7 +8834,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>154</string>
 								<key>startTime</key>
-								<real>3.4666666984558105</real>
+								<real>4.1333332061767578</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -8854,7 +8870,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>154</string>
 								<key>startTime</key>
-								<real>3.6666667461395264</real>
+								<real>4.3333334922790527</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -8875,7 +8891,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>0.36666655540466309</real>
+								<real>0.36666679382324219</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -8890,7 +8906,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>36</string>
 								<key>startTime</key>
-								<real>3.8333332538604736</real>
+								<real>4.5</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -8919,7 +8935,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>148</string>
 								<key>startTime</key>
-								<real>3.8333332538604736</real>
+								<real>4.5</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -8942,13 +8958,42 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>duration</key>
 								<real>0.0</real>
 								<key>identifier</key>
+								<string>Opacity</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>154</string>
+								<key>startTime</key>
+								<real>4.5</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>0</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>3C407102-DFF7-4FEF-BD32-20B52616AD82-22353-000137DB1E5FFA30</string>
+								<key>zIndex</key>
+								<integer>3</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
 								<string>DisplayHiddenOverride</string>
 								<key>isRelative</key>
 								<false/>
 								<key>referenceOid</key>
 								<string>36</string>
 								<key>startTime</key>
-								<real>3.8333332538604736</real>
+								<real>4.5</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -8975,38 +9020,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>isRelative</key>
 								<false/>
 								<key>referenceOid</key>
-								<string>154</string>
-								<key>startTime</key>
-								<real>3.8333332538604736</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>0</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>3C407102-DFF7-4FEF-BD32-20B52616AD82-22353-000137DB1E5FFA30</string>
-								<key>zIndex</key>
-								<integer>3</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.0</real>
-								<key>identifier</key>
-								<string>Opacity</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
 								<string>36</string>
 								<key>startTime</key>
-								<real>4.1999998092651367</real>
+								<real>4.8666667938232422</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -9027,7 +9043,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>0.19999980926513672</real>
+								<real>0.20000028610229492</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -9042,7 +9058,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>158</string>
 								<key>startTime</key>
-								<real>4.5</real>
+								<real>5.1666665077209473</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -9063,7 +9079,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>0.16666698455810547</real>
+								<real>0.16666650772094727</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -9078,7 +9094,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>158</string>
 								<key>startTime</key>
-								<real>4.6999998092651367</real>
+								<real>5.3666667938232422</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -9099,7 +9115,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>0.26666641235351562</real>
+								<real>0.26666688919067383</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -9114,7 +9130,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>152</string>
 								<key>startTime</key>
-								<real>4.8666667938232422</real>
+								<real>5.5333333015441895</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -9143,7 +9159,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>158</string>
 								<key>startTime</key>
-								<real>4.8666667938232422</real>
+								<real>5.5333333015441895</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -9172,7 +9188,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>152</string>
 								<key>startTime</key>
-								<real>5.1333332061767578</real>
+								<real>5.8000001907348633</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
