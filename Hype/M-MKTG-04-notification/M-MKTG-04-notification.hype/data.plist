@@ -81,17 +81,17 @@
 
 </string>
 	<key>lastCheckDate</key>
-	<date>2018-04-13T04:41:53Z</date>
+	<date>2018-04-13T20:30:45Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
-		<integer>2</integer>
+		<integer>3</integer>
 		<key>customizableLayout</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0, 0}, {1440, 716}}</string>
+			<string>{{0, 0}, {1680, 928}}</string>
 			<key>identifier</key>
-			<string>container 31</string>
+			<string>container 137</string>
 			<key>isCustomizableViewContainer</key>
 			<true/>
 			<key>isCustomizableViewWrapper</key>
@@ -102,9 +102,9 @@
 			<array>
 				<dict>
 					<key>frame</key>
-					<string>{{0, 0}, {1169, 716}}</string>
+					<string>{{0, 0}, {1409, 928}}</string>
 					<key>identifier</key>
-					<string>container 97</string>
+					<string>container 126</string>
 					<key>isCustomizableViewContainer</key>
 					<true/>
 					<key>isCustomizableViewWrapper</key>
@@ -115,9 +115,9 @@
 					<array>
 						<dict>
 							<key>frame</key>
-							<string>{{0, 0}, {135, 716}}</string>
+							<string>{{0, 0}, {135, 928}}</string>
 							<key>identifier</key>
-							<string>container 87</string>
+							<string>container 116</string>
 							<key>isCustomizableViewContainer</key>
 							<true/>
 							<key>isCustomizableViewWrapper</key>
@@ -128,7 +128,7 @@
 							<array>
 								<dict>
 									<key>frame</key>
-									<string>{{0, 0}, {135, 716}}</string>
+									<string>{{0, 0}, {135, 928}}</string>
 									<key>identifier</key>
 									<string>sceneSelectorCustomizableContainer</string>
 									<key>isCustomizableViewContainer</key>
@@ -138,9 +138,9 @@
 						</dict>
 						<dict>
 							<key>frame</key>
-							<string>{{136, 0}, {1033, 716}}</string>
+							<string>{{136, 0}, {1273, 928}}</string>
 							<key>identifier</key>
-							<string>container 88</string>
+							<string>container 117</string>
 							<key>isCustomizableViewContainer</key>
 							<true/>
 							<key>isCustomizableViewWrapper</key>
@@ -151,7 +151,7 @@
 							<array>
 								<dict>
 									<key>frame</key>
-									<string>{{136, 0}, {1033, 380.1484375}}</string>
+									<string>{{136, 0}, {1273, 410.83203125}}</string>
 									<key>identifier</key>
 									<string>container 4</string>
 									<key>isCustomizableViewContainer</key>
@@ -164,7 +164,7 @@
 									<array>
 										<dict>
 											<key>frame</key>
-											<string>{{136, 0}, {1033, 380}}</string>
+											<string>{{136, 0}, {1273, 410.83203125}}</string>
 											<key>identifier</key>
 											<string>timelineCustomizableContainer</string>
 											<key>isCustomizableViewContainer</key>
@@ -174,7 +174,7 @@
 								</dict>
 								<dict>
 									<key>frame</key>
-									<string>{{136, 381.1484375}, {1033, 334.8515625}}</string>
+									<string>{{136, 411.83203125}, {1273, 516.16796875}}</string>
 									<key>identifier</key>
 									<string>container 3</string>
 									<key>isCustomizableViewContainer</key>
@@ -187,7 +187,7 @@
 									<array>
 										<dict>
 											<key>frame</key>
-											<string>{{136, 381}, {1033, 335}}</string>
+											<string>{{136, 411.83203125}, {1273, 516.16796875}}</string>
 											<key>identifier</key>
 											<string>sceneEditorCustomizableContainer</string>
 											<key>isCustomizableViewContainer</key>
@@ -201,9 +201,9 @@
 				</dict>
 				<dict>
 					<key>frame</key>
-					<string>{{1170, 0}, {270, 716}}</string>
+					<string>{{1410, 0}, {270, 928}}</string>
 					<key>identifier</key>
-					<string>container 96</string>
+					<string>container 125</string>
 					<key>isCustomizableViewContainer</key>
 					<true/>
 					<key>isCustomizableViewWrapper</key>
@@ -214,7 +214,7 @@
 					<array>
 						<dict>
 							<key>frame</key>
-							<string>{{1170, 0}, {270, 716}}</string>
+							<string>{{1410, 0}, {270, 928}}</string>
 							<key>identifier</key>
 							<string>inspectorCustomizableContainer</string>
 							<key>isCustomizableViewContainer</key>
@@ -225,9 +225,9 @@
 			</array>
 		</dict>
 		<key>keyframeTimelineHeight</key>
-		<real>67</real>
+		<real>166</real>
 		<key>mainWindowFrame</key>
-		<string>0 117 1440 760 0 0 1440 877 </string>
+		<string>2 55 1680 972 0 0 1680 1027 </string>
 		<key>openTabs</key>
 		<array>
 			<dict>
@@ -282,7 +282,7 @@
 	<key>monotypeProjectID</key>
 	<string>2AA73766-5FED-4FC7-8975-69B5D221B4F3-36992-00002CB069B1D4B2</string>
 	<key>oidCounter</key>
-	<integer>186</integer>
+	<integer>196</integer>
 	<key>resourcesInfo</key>
 	<dict>
 		<key>groups</key>
@@ -479,6 +479,30 @@
 					<string>Pasted-8.png</string>
 				</array>
 			</dict>
+			<dict>
+				<key>expanded</key>
+				<true/>
+				<key>name</key>
+				<string>Pasted-6-1</string>
+				<key>oid</key>
+				<string>187</string>
+				<key>resources</key>
+				<array>
+					<string>Pasted-6-1.png</string>
+				</array>
+			</dict>
+			<dict>
+				<key>expanded</key>
+				<true/>
+				<key>name</key>
+				<string>Pasted-7</string>
+				<key>oid</key>
+				<string>191</string>
+				<key>resources</key>
+				<array>
+					<string>Pasted-7.png</string>
+				</array>
+			</dict>
 		</array>
 		<key>resources</key>
 		<array>
@@ -519,60 +543,6 @@
 				ACAgAACEAQAAAAAAADAgAACwAQAAAAAAAAHAAAD4AAAA
 				AAAAABHAAAAgAAAAAAAAABLAAAAIAQAAAAAAABDQAAAE
 				AAAAAAAAAA==
-				</data>
-				<key>shouldAutoResize</key>
-				<true/>
-				<key>shouldIncludeInDocumentHeadHTML</key>
-				<true/>
-				<key>shouldPreload</key>
-				<true/>
-				<key>shouldRemoveWhenNoLongerReferenced</key>
-				<false/>
-				<key>type</key>
-				<string>FileResource</string>
-			</dict>
-			<dict>
-				<key>fileModificationDate</key>
-				<date>2018-02-26T19:37:26Z</date>
-				<key>fileSize</key>
-				<integer>2205</integer>
-				<key>md5</key>
-				<string>1C1B5A9C707E9F4F0589C1689C8EEFF2</string>
-				<key>notifyOnBookmarkChange</key>
-				<true/>
-				<key>originalPath</key>
-				<string>/Applications/XAMPP/xamppfiles/htdocs/GitHub/sparkMKAnimation/Hype/009-whiteboard_everywhere/style.css</string>
-				<key>resourceName</key>
-				<string>style.css</string>
-				<key>securityScopedBookmark</key>
-				<data>
-				Ym9va2ADAAAAAAQQMAAAAJrjDyujGMg7UsQINKyqQzoW
-				Yg2Ednt2RSPyPrykyUPCgAIAAAQAAAADAwAAAAkAKAwA
-				AAABAQAAQXBwbGljYXRpb25zBQAAAAEBAABYQU1QUAAA
-				AAoAAAABAQAAeGFtcHBmaWxlcwAABgAAAAEBAABodGRv
-				Y3MAAAYAAAABAQAAR2l0SHViAAAQAAAAAQEAAHNwYXJr
-				TUtBbmltYXRpb24EAAAAAQEAAEh5cGUZAAAAAQEAADAw
-				OS13aGl0ZWJvYXJkX2V2ZXJ5d2hlcmUAAAAJAAAAAQEA
-				AHN0eWxlLmNzcwAAACQAAAABBgAAEAAAACQAAAA0AAAA
-				SAAAAFgAAABoAAAAgAAAAIwAAACwAAAACAAAAAQDAADC
-				KgAAAAAAAAgAAAAEAwAAt8kGAAAAAAAIAAAABAMAAMrJ
-				BgAAAAAACAAAAAQDAACFywYAAAAAAAgAAAAEAwAAh8sG
-				AAAAAAAIAAAABAMAALgwBwAAAAAACAAAAAQDAACfMQcA
-				AAAAAAgAAAAEAwAApdkfAAAAAAAIAAAABAMAAGXaHwAA
-				AAAAJAAAAAEGAADwAAAAAAEAABABAAAgAQAAMAEAAEAB
-				AABQAQAAYAEAAHABAAAIAAAAAAQAAEHAIkttFBvBGAAA
-				AAECAAABAAAAAAAAAA8AAAAAAAAAAAAAAAAAAAAIAAAA
-				AQkAAGZpbGU6Ly8vDAAAAAEBAABNYWNpbnRvc2ggSEQI
-				AAAABAMAAACQIGh0AAAACAAAAAAEAABBvDX8YwAAACQA
-				AAABAQAANDYyQTk3NjItNjExMy00MjE3LUFERTMtNkMy
-				QTMwRTU3NTNCGAAAAAECAACBAAAAAQAAAO8TAAABAAAA
-				AAAAAAAAAAABAAAAAQEAAC8AAAAAAAAAAQUAAKgAAAD+
-				////AQAAAAAAAAANAAAABBAAAMQAAAAAAAAABRAAAIAB
-				AAAAAAAAEBAAALwBAAAAAAAAQBAAAKwBAAAAAAAAAiAA
-				AGwCAAAAAAAABSAAANwBAAAAAAAAECAAAOwBAAAAAAAA
-				ESAAACACAAAAAAAAEiAAAAACAAAAAAAAEyAAABACAAAA
-				AAAAICAAAEwCAAAAAAAAMCAAAHgCAAAAAAAAENAAAAQA
-				AAAAAAAA
 				</data>
 				<key>shouldAutoResize</key>
 				<true/>
@@ -1181,6 +1151,100 @@
 				<key>type</key>
 				<string>FileResource</string>
 			</dict>
+			<dict>
+				<key>fileModificationDate</key>
+				<date>2018-04-13T17:21:15Z</date>
+				<key>fileSize</key>
+				<integer>2289</integer>
+				<key>md5</key>
+				<string>8C11420647C7EC0DB82A11BF3AA144A6</string>
+				<key>notifyOnBookmarkChange</key>
+				<true/>
+				<key>originalPath</key>
+				<string>/Applications/XAMPP/xamppfiles/htdocs/GitHub/sparkMKAnimation/Hype/M-MKTG-02-preview file/style.css</string>
+				<key>resourceName</key>
+				<string>style.css</string>
+				<key>securityScopedBookmark</key>
+				<data>
+				Ym9va1wDAAAAAAQQMAAAAKg5GV0cYlqQkrhXXxXCGmQh
+				bSeK/BlgK9JKZcJXk1mUfAIAAAQAAAADAwAAAAkAKAwA
+				AAABAQAAQXBwbGljYXRpb25zBQAAAAEBAABYQU1QUAAA
+				AAoAAAABAQAAeGFtcHBmaWxlcwAABgAAAAEBAABodGRv
+				Y3MAAAYAAAABAQAAR2l0SHViAAAQAAAAAQEAAHNwYXJr
+				TUtBbmltYXRpb24EAAAAAQEAAEh5cGUWAAAAAQEAAE0t
+				TUtURy0wMi1wcmV2aWV3IGZpbGUAAAkAAAABAQAAc3R5
+				bGUuY3NzAAAAJAAAAAEGAAAQAAAAJAAAADQAAABIAAAA
+				WAAAAGgAAACAAAAAjAAAAKwAAAAIAAAABAMAAMIqAAAA
+				AAAACAAAAAQDAAC3yQYAAAAAAAgAAAAEAwAAyskGAAAA
+				AAAIAAAABAMAAIXLBgAAAAAACAAAAAQDAACHywYAAAAA
+				AAgAAAAEAwAAuDAHAAAAAAAIAAAABAMAAJ8xBwAAAAAA
+				CAAAAAQDAAD3i74AAAAAAAgAAAAEAwAAs6q+AAAAAAAk
+				AAAAAQYAAOwAAAD8AAAADAEAABwBAAAsAQAAPAEAAEwB
+				AABcAQAAbAEAAAgAAAAABAAAQcA+j+RZX2QYAAAAAQIA
+				AAEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAgAAAABCQAA
+				ZmlsZTovLy8MAAAAAQEAAE1hY2ludG9zaCBIRAgAAAAE
+				AwAAAJAgaHQAAAAIAAAAAAQAAEG8NfxjAAAAJAAAAAEB
+				AAA0NjJBOTc2Mi02MTEzLTQyMTctQURFMy02QzJBMzBF
+				NTc1M0IYAAAAAQIAAIEAAAABAAAA7xMAAAEAAAAAAAAA
+				AAAAAAEAAAABAQAALwAAAAAAAAABBQAAqAAAAP7///8B
+				AAAAAAAAAA0AAAAEEAAAwAAAAAAAAAAFEAAAfAEAAAAA
+				AAAQEAAAuAEAAAAAAABAEAAAqAEAAAAAAAACIAAAaAIA
+				AAAAAAAFIAAA2AEAAAAAAAAQIAAA6AEAAAAAAAARIAAA
+				HAIAAAAAAAASIAAA/AEAAAAAAAATIAAADAIAAAAAAAAg
+				IAAASAIAAAAAAAAwIAAAdAIAAAAAAAAQ0AAABAAAAAAA
+				AAA=
+				</data>
+				<key>shouldAutoResize</key>
+				<true/>
+				<key>shouldIncludeInDocumentHeadHTML</key>
+				<true/>
+				<key>shouldPreload</key>
+				<true/>
+				<key>shouldRemoveWhenNoLongerReferenced</key>
+				<false/>
+				<key>type</key>
+				<string>FileResource</string>
+			</dict>
+			<dict>
+				<key>fileSize</key>
+				<integer>2245</integer>
+				<key>md5</key>
+				<string>EB6EBA11E21ABB7D173D19F309610910</string>
+				<key>notifyOnBookmarkChange</key>
+				<true/>
+				<key>resourceName</key>
+				<string>Pasted-6-1.png</string>
+				<key>shouldAutoResize</key>
+				<true/>
+				<key>shouldIncludeInDocumentHeadHTML</key>
+				<false/>
+				<key>shouldPreload</key>
+				<true/>
+				<key>shouldRemoveWhenNoLongerReferenced</key>
+				<true/>
+				<key>type</key>
+				<string>FileResource</string>
+			</dict>
+			<dict>
+				<key>fileSize</key>
+				<integer>203</integer>
+				<key>md5</key>
+				<string>2161493C401966B5C42D56A9D7C8F829</string>
+				<key>notifyOnBookmarkChange</key>
+				<true/>
+				<key>resourceName</key>
+				<string>Pasted-7.png</string>
+				<key>shouldAutoResize</key>
+				<true/>
+				<key>shouldIncludeInDocumentHeadHTML</key>
+				<false/>
+				<key>shouldPreload</key>
+				<true/>
+				<key>shouldRemoveWhenNoLongerReferenced</key>
+				<true/>
+				<key>type</key>
+				<string>FileResource</string>
+			</dict>
 		</array>
 	</dict>
 	<key>sceneContainers</key>
@@ -1200,13 +1264,13 @@
 						<key>timeCursors</key>
 						<dict>
 							<key>kTimelineDefaultIdentifier</key>
-							<real>8</real>
+							<real>9.4333333969116211</real>
 						</dict>
 						<key>timescale</key>
 						<integer>90</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{2066, 990}</string>
+					<string>{2546, 1033}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -1231,7 +1295,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>2</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 15.5}</string>
+					<string>{0, 0.16796875}</string>
 					<key>userGuides</key>
 					<array/>
 					<key>zoomFactor</key>
@@ -1290,10 +1354,10 @@ function showWaffleBalls(hypeDocument, element, event) {
 	<array>
 		<dict>
 			<key>documentIdentifier</key>
-			<string>60A50A71-A48A-4020-AF9E-8F3EE825F48A-22353-00013CB2673D226B</string>
+			<string>95DDEEA6-3CE3-4A45-B831-B2084EF0CF30-81108-00001A509511F268</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>186</string>
+				<string>194</string>
 			</array>
 			<key>symbol</key>
 			<dict>
@@ -1309,9 +1373,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>871px</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1441,36 +1505,36 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>871px</string>
 						</dict>
 					</array>
 					<key>111</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>BorderWidthLeft</string>
+							<string>BorderWidthBottom</string>
 							<key>objectValue</key>
 							<string>0px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BackgroundColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#F7F7F7</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ExplicitDimensions</string>
-							<key>objectValue</key>
-							<string>YES</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>BorderColorBottom</string>
 							<key>objectValue</key>
 							<string>#D8DDE4</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ExplicitDimensions</string>
+							<key>objectValue</key>
+							<string>YES</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1588,42 +1652,42 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderWidthBottom</string>
+							<string>BorderWidthLeft</string>
 							<key>objectValue</key>
 							<string>0px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>BackgroundColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#F7F7F7</string>
 						</dict>
 					</array>
 					<key>112</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>BorderWidthBottom</string>
+							<string>BorderWidthLeft</string>
 							<key>objectValue</key>
 							<string>0px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>BackgroundColor</string>
 							<key>objectValue</key>
-							<string>div</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderColorBottom</string>
-							<key>objectValue</key>
-							<string>#D8DDE4</string>
+							<string>#F7F7F7</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>ExplicitDimensions</string>
 							<key>objectValue</key>
 							<string>YES</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderColorBottom</string>
+							<key>objectValue</key>
+							<string>#D8DDE4</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1711,15 +1775,15 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Width</string>
-							<key>objectValue</key>
-							<string>279px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
 							<string>2</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>279px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1741,42 +1805,42 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderWidthLeft</string>
+							<string>BorderWidthBottom</string>
 							<key>objectValue</key>
 							<string>0px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BackgroundColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#F7F7F7</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>113</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>BorderWidthLeft</string>
+							<string>BorderWidthBottom</string>
 							<key>objectValue</key>
 							<string>0px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BackgroundColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#F7F7F7</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ExplicitDimensions</string>
-							<key>objectValue</key>
-							<string>YES</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>BorderColorBottom</string>
 							<key>objectValue</key>
 							<string>#D8DDE4</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ExplicitDimensions</string>
+							<key>objectValue</key>
+							<string>YES</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1894,42 +1958,42 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderWidthBottom</string>
+							<string>BorderWidthLeft</string>
 							<key>objectValue</key>
 							<string>0px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>BackgroundColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#F7F7F7</string>
 						</dict>
 					</array>
 					<key>114</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>BorderWidthBottom</string>
+							<string>BorderWidthLeft</string>
 							<key>objectValue</key>
 							<string>0px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>BackgroundColor</string>
 							<key>objectValue</key>
-							<string>div</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderColorBottom</string>
-							<key>objectValue</key>
-							<string>#D8DDE4</string>
+							<string>#F7F7F7</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>ExplicitDimensions</string>
 							<key>objectValue</key>
 							<string>YES</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderColorBottom</string>
+							<key>objectValue</key>
+							<string>#D8DDE4</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2017,15 +2081,15 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Width</string>
-							<key>objectValue</key>
-							<string>950px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
 							<string>4</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>950px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2047,15 +2111,15 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderWidthLeft</string>
+							<string>BorderWidthBottom</string>
 							<key>objectValue</key>
 							<string>0px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BackgroundColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#F7F7F7</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>115</key>
@@ -2112,7 +2176,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>54</string>
+							<string>64</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2143,9 +2207,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#444444</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2233,15 +2297,15 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ClassName</string>
-							<key>objectValue</key>
-							<string>animated</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>Height</string>
 							<key>objectValue</key>
 							<string>18px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassName</string>
+							<key>objectValue</key>
+							<string>animated</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2305,9 +2369,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#444444</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>122</key>
@@ -2320,9 +2384,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#444444</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2410,15 +2474,15 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Height</string>
-							<key>objectValue</key>
-							<string>18px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>ClassName</string>
 							<key>objectValue</key>
 							<string>animated</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>18px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2483,9 +2547,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#444444</string>
 						</dict>
 					</array>
 					<key>123</key>
@@ -2498,9 +2562,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#444444</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2588,15 +2652,15 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ClassName</string>
-							<key>objectValue</key>
-							<string>animated</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>Height</string>
 							<key>objectValue</key>
 							<string>18px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassName</string>
+							<key>objectValue</key>
+							<string>animated</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2660,9 +2724,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#444444</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>127</key>
@@ -2699,15 +2763,15 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Overflow</string>
-							<key>objectValue</key>
-							<string>visible</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>Opacity</string>
 							<key>objectValue</key>
 							<string>0</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2774,15 +2838,15 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Overflow</string>
-							<key>objectValue</key>
-							<string>visible</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>Opacity</string>
 							<key>objectValue</key>
 							<string>0</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2849,15 +2913,15 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Overflow</string>
-							<key>objectValue</key>
-							<string>visible</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>Opacity</string>
 							<key>objectValue</key>
 							<string>0</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2900,9 +2964,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#444444</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2990,15 +3054,15 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Height</string>
-							<key>objectValue</key>
-							<string>18px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>ClassName</string>
 							<key>objectValue</key>
 							<string>animated</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>18px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3062,9 +3126,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#444444</string>
 						</dict>
 					</array>
 					<key>131</key>
@@ -3077,9 +3141,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#444444</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3167,15 +3231,15 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ClassName</string>
-							<key>objectValue</key>
-							<string>animated</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>Height</string>
 							<key>objectValue</key>
 							<string>18px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassName</string>
+							<key>objectValue</key>
+							<string>animated</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3239,9 +3303,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#444444</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>132</key>
@@ -3254,9 +3318,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#444444</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3344,15 +3408,15 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Height</string>
-							<key>objectValue</key>
-							<string>18px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>ClassName</string>
 							<key>objectValue</key>
 							<string>animated</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>18px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3416,18 +3480,18 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#444444</string>
 						</dict>
 					</array>
 					<key>136</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>375px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3551,9 +3615,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>375px</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>137</key>
@@ -3590,15 +3654,15 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Overflow</string>
-							<key>objectValue</key>
-							<string>visible</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>Opacity</string>
 							<key>objectValue</key>
 							<string>0</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3665,15 +3729,15 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Overflow</string>
-							<key>objectValue</key>
-							<string>visible</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>Opacity</string>
 							<key>objectValue</key>
 							<string>0</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3710,27 +3774,27 @@ function showWaffleBalls(hypeDocument, element, event) {
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>BorderWidthBottom</string>
+							<string>BorderWidthLeft</string>
 							<key>objectValue</key>
 							<string>0px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>BackgroundColor</string>
 							<key>objectValue</key>
-							<string>div</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderColorBottom</string>
-							<key>objectValue</key>
-							<string>#D8DDE4</string>
+							<string>#FFFFFF</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>ExplicitDimensions</string>
 							<key>objectValue</key>
 							<string>YES</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderColorBottom</string>
+							<key>objectValue</key>
+							<string>#D8DDE4</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3854,15 +3918,15 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderWidthLeft</string>
+							<string>BorderWidthBottom</string>
 							<key>objectValue</key>
 							<string>0px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BackgroundColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#FFFFFF</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>141</key>
@@ -3899,15 +3963,15 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Overflow</string>
-							<key>objectValue</key>
-							<string>visible</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>Opacity</string>
 							<key>objectValue</key>
 							<string>0</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3950,9 +4014,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#444444</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4040,15 +4104,15 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ClassName</string>
-							<key>objectValue</key>
-							<string>animated</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>Height</string>
 							<key>objectValue</key>
 							<string>18px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassName</string>
+							<key>objectValue</key>
+							<string>animated</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4112,18 +4176,18 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#444444</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>143</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>68px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4133,9 +4197,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ConstrainProportions</string>
+							<string>DomID</string>
 							<key>objectValue</key>
-							<string>YES</string>
+							<string>itm6</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4145,15 +4209,15 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Opacity</string>
+							<string>ConstrainProportions</string>
 							<key>objectValue</key>
-							<string>1</string>
+							<string>YES</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ClassType</string>
+							<string>Opacity</string>
 							<key>objectValue</key>
-							<string>Image</string>
+							<string>1</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4169,9 +4233,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>DomID</string>
+							<string>ClassType</string>
 							<key>objectValue</key>
-							<string>itm6</string>
+							<string>Image</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4261,18 +4325,18 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>68px</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>15</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>375px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4366,6 +4430,12 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
+							<string>BackgroundSize</string>
+							<key>objectValue</key>
+							<string>100% 100%</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
 							<string>Locked</string>
 							<key>objectValue</key>
 							<string>1</string>
@@ -4375,12 +4445,6 @@ function showWaffleBalls(hypeDocument, element, event) {
 							<string>Overflow</string>
 							<key>objectValue</key>
 							<string>visible</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BackgroundSize</string>
-							<key>objectValue</key>
-							<string>100% 100%</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4396,48 +4460,48 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>375px</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>157</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>BorderRadiusTopRight</string>
+							<string>Overflow</string>
 							<key>objectValue</key>
-							<string>50px</string>
+							<string>visible</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderRadiusBottomRight</string>
+							<string>DisplayName</string>
 							<key>objectValue</key>
-							<string>50px</string>
+							<string>hotspot</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderWidthLeft</string>
+							<string>BorderWidthBottom</string>
 							<key>objectValue</key>
 							<string>0px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>BackgroundColor</string>
 							<key>objectValue</key>
-							<string>div</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ExplicitDimensions</string>
-							<key>objectValue</key>
-							<string>YES</string>
+							<string>#FF2F92</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>BorderColorBottom</string>
 							<key>objectValue</key>
 							<string>#D8DDE4</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ExplicitDimensions</string>
+							<key>objectValue</key>
+							<string>YES</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4557,7 +4621,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>36</string>
+							<string>45</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4567,46 +4631,64 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
+							<string>BorderRadiusTopRight</string>
+							<key>objectValue</key>
+							<string>50px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
 							<string>Locked</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Overflow</string>
+							<string>BorderRadiusBottomRight</string>
 							<key>objectValue</key>
-							<string>visible</string>
+							<string>50px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>DisplayName</string>
-							<key>objectValue</key>
-							<string>hotspot</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderWidthBottom</string>
+							<string>BorderWidthLeft</string>
 							<key>objectValue</key>
 							<string>0px</string>
 						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BackgroundColor</string>
-							<key>objectValue</key>
-							<string>#FF2F92</string>
-						</dict>
-					</array>
-					<key>164</key>
-					<array>
 						<dict>
 							<key>identifier</key>
 							<string>TagName</string>
 							<key>objectValue</key>
 							<string>div</string>
 						</dict>
+					</array>
+					<key>164</key>
+					<array>
 						<dict>
 							<key>identifier</key>
-							<string>ConstrainProportions</string>
+							<string>Position</string>
 							<key>objectValue</key>
-							<string>YES</string>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>status</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>OriginalWidth</string>
+							<key>objectValue</key>
+							<string>375px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>SizeRatio</string>
+							<key>objectValue</key>
+							<string>18.75</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>284px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4616,9 +4698,33 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ClassType</string>
+							<string>ConstrainProportions</string>
 							<key>objectValue</key>
-							<string>Image</string>
+							<string>YES</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>OriginalHeight</string>
+							<key>objectValue</key>
+							<string>20px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>20px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>AccessibilityRole</string>
+							<key>objectValue</key>
+							<string>img</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BackgroundImageResourceGroupOid</string>
+							<key>objectValue</key>
+							<string>163</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4634,51 +4740,21 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Position</string>
-							<key>objectValue</key>
-							<string>absolute</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Height</string>
-							<key>objectValue</key>
-							<string>20px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BackgroundImageResourceGroupOid</string>
-							<key>objectValue</key>
-							<string>163</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Left</string>
-							<key>objectValue</key>
-							<string>284px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>SizeRatio</string>
-							<key>objectValue</key>
-							<string>18.75</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>AccessibilityRole</string>
-							<key>objectValue</key>
-							<string>img</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>27</string>
+							<string>36</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>Width</string>
 							<key>objectValue</key>
 							<string>375px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4694,15 +4770,24 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>DisplayName</string>
+							<string>ClassType</string>
 							<key>objectValue</key>
-							<string>status</string>
+							<string>Image</string>
+						</dict>
+					</array>
+					<key>168</key>
+					<array>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalHeight</string>
+							<string>DisplayName</string>
 							<key>objectValue</key>
-							<string>20px</string>
+							<string>list</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4710,20 +4795,17 @@ function showWaffleBalls(hypeDocument, element, event) {
 							<key>objectValue</key>
 							<string>375px</string>
 						</dict>
-					</array>
-					<key>168</key>
-					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>SizeRatio</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>0.583204</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ConstrainProportions</string>
+							<string>Left</string>
 							<key>objectValue</key>
-							<string>YES</string>
+							<string>284px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4733,9 +4815,33 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ClassType</string>
+							<string>ConstrainProportions</string>
 							<key>objectValue</key>
-							<string>Image</string>
+							<string>YES</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>OriginalHeight</string>
+							<key>objectValue</key>
+							<string>643px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>643px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>AccessibilityRole</string>
+							<key>objectValue</key>
+							<string>img</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BackgroundImageResourceGroupOid</string>
+							<key>objectValue</key>
+							<string>167</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4751,42 +4857,6 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Position</string>
-							<key>objectValue</key>
-							<string>absolute</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Height</string>
-							<key>objectValue</key>
-							<string>643px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BackgroundImageResourceGroupOid</string>
-							<key>objectValue</key>
-							<string>167</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Left</string>
-							<key>objectValue</key>
-							<string>284px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>SizeRatio</string>
-							<key>objectValue</key>
-							<string>0.583204</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>AccessibilityRole</string>
-							<key>objectValue</key>
-							<string>img</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
 							<string>16</string>
@@ -4796,6 +4866,12 @@ function showWaffleBalls(hypeDocument, element, event) {
 							<string>Width</string>
 							<key>objectValue</key>
 							<string>375px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4811,21 +4887,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>DisplayName</string>
+							<string>ClassType</string>
 							<key>objectValue</key>
-							<string>list</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>OriginalHeight</string>
-							<key>objectValue</key>
-							<string>643px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>OriginalWidth</string>
-							<key>objectValue</key>
-							<string>375px</string>
+							<string>Image</string>
 						</dict>
 					</array>
 					<key>170</key>
@@ -4864,7 +4928,13 @@ function showWaffleBalls(hypeDocument, element, event) {
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>154px</string>
+							<string>0px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Parent</string>
+							<key>objectValue</key>
+							<string>189</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4894,7 +4964,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>659px</string>
+							<string>375px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4912,7 +4982,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>17</string>
+							<string>1</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4955,9 +5025,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>375px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5035,19 +5105,19 @@ function showWaffleBalls(hypeDocument, element, event) {
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>19</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Width</string>
-							<key>objectValue</key>
-							<string>375px</string>
+							<string>21</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>DisplayHiddenOverride</string>
 							<key>objectValue</key>
 							<string>1</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>375px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5075,9 +5145,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>375px</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>178</key>
@@ -5164,7 +5234,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>20</string>
+							<string>22</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5207,27 +5277,25 @@ function showWaffleBalls(hypeDocument, element, event) {
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>Overflow</string>
-							<key>objectValue</key>
-							<string>visible</string>
+							<string>Locked</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>DisplayName</string>
+							<string>BorderRadiusBottomRight</string>
 							<key>objectValue</key>
-							<string>hotspot</string>
+							<string>50px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderWidthBottom</string>
+							<string>BorderWidthLeft</string>
 							<key>objectValue</key>
 							<string>0px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BackgroundColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#FF2F92</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5359,7 +5427,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>18</string>
+							<string>20</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5369,10 +5437,37 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
 							<string>BorderRadiusTopRight</string>
 							<key>objectValue</key>
 							<string>50px</string>
 						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>hotspot</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderWidthBottom</string>
+							<key>objectValue</key>
+							<string>0px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BackgroundColor</string>
+							<key>objectValue</key>
+							<string>#FF2F92</string>
+						</dict>
+					</array>
+					<key>182</key>
+					<array>
 						<dict>
 							<key>identifier</key>
 							<string>Locked</string>
@@ -5394,33 +5489,6 @@ function showWaffleBalls(hypeDocument, element, event) {
 							<string>TagName</string>
 							<key>objectValue</key>
 							<string>div</string>
-						</dict>
-					</array>
-					<key>182</key>
-					<array>
-						<dict>
-							<key>identifier</key>
-							<string>Overflow</string>
-							<key>objectValue</key>
-							<string>visible</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>DisplayName</string>
-							<key>objectValue</key>
-							<string>hotspot</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderWidthBottom</string>
-							<key>objectValue</key>
-							<string>0px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BackgroundColor</string>
-							<key>objectValue</key>
-							<string>#FF2F92</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5552,7 +5620,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>37</string>
+							<string>47</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5562,56 +5630,60 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
 							<string>BorderRadiusTopRight</string>
 							<key>objectValue</key>
 							<string>50px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Locked</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderRadiusBottomRight</string>
+							<string>DisplayName</string>
 							<key>objectValue</key>
-							<string>50px</string>
+							<string>hotspot</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderWidthLeft</string>
+							<string>BorderWidthBottom</string>
 							<key>objectValue</key>
 							<string>0px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>BackgroundColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#FF2F92</string>
 						</dict>
 					</array>
 					<key>183</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>Locked</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderRadiusBottomRight</string>
+							<string>BorderRadiusTopRight</string>
 							<key>objectValue</key>
 							<string>50px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderWidthLeft</string>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>hotspot</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderWidthBottom</string>
 							<key>objectValue</key>
 							<string>0px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>BackgroundColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#FF2F92</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5743,7 +5815,11 @@ function showWaffleBalls(hypeDocument, element, event) {
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>21</string>
+							<string>23</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Locked</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5759,54 +5835,48 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderRadiusTopRight</string>
+							<string>BorderRadiusBottomRight</string>
 							<key>objectValue</key>
 							<string>50px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>DisplayName</string>
-							<key>objectValue</key>
-							<string>hotspot</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderWidthBottom</string>
+							<string>BorderWidthLeft</string>
 							<key>objectValue</key>
 							<string>0px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BackgroundColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#FF2F92</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>184</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>BorderRadiusTopRight</string>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderRadiusBottomRight</string>
 							<key>objectValue</key>
 							<string>50px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>DisplayName</string>
-							<key>objectValue</key>
-							<string>hotspot</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderWidthBottom</string>
+							<string>BorderWidthLeft</string>
 							<key>objectValue</key>
 							<string>0px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BackgroundColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#FF2F92</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5938,11 +6008,17 @@ function showWaffleBalls(hypeDocument, element, event) {
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>24</string>
+							<string>33</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>Locked</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderRadiusTopRight</string>
+							<key>objectValue</key>
+							<string>50px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5952,27 +6028,21 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Overflow</string>
+							<string>DisplayName</string>
 							<key>objectValue</key>
-							<string>visible</string>
+							<string>hotspot</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderRadiusBottomRight</string>
-							<key>objectValue</key>
-							<string>50px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderWidthLeft</string>
+							<string>BorderWidthBottom</string>
 							<key>objectValue</key>
 							<string>0px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>BackgroundColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#FF2F92</string>
 						</dict>
 					</array>
 					<key>186</key>
@@ -6005,7 +6075,13 @@ function showWaffleBalls(hypeDocument, element, event) {
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>134px</string>
+							<string>0px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Parent</string>
+							<key>objectValue</key>
+							<string>194</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6035,7 +6111,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>659px</string>
+							<string>0px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6053,7 +6129,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>23</string>
+							<string>1</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6096,6 +6172,877 @@ function showWaffleBalls(hypeDocument, element, event) {
 							<string>OriginalWidth</string>
 							<key>objectValue</key>
 							<string>375px</string>
+						</dict>
+					</array>
+					<key>188</key>
+					<array>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ExplicitDimensions</string>
+							<key>objectValue</key>
+							<string>YES</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ConstrainProportions</string>
+							<key>objectValue</key>
+							<string>YES</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Display</string>
+							<key>objectValue</key>
+							<string>inline</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Image</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>436px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Parent</string>
+							<key>objectValue</key>
+							<string>189</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BackgroundRepeat</string>
+							<key>objectValue</key>
+							<string>no-repeat</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>43px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BackgroundImageResourceGroupOid</string>
+							<key>objectValue</key>
+							<string>187</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>450px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>SizeRatio</string>
+							<key>objectValue</key>
+							<string>6.85714</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>AccessibilityRole</string>
+							<key>objectValue</key>
+							<string>img</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>2</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>295px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Locked</string>
+							<key>objectValue</key>
+							<string>0</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BackgroundSize</string>
+							<key>objectValue</key>
+							<string>100% 100%</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>blue dialog box</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>OriginalHeight</string>
+							<key>objectValue</key>
+							<string>42px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>OriginalWidth</string>
+							<key>objectValue</key>
+							<string>288px</string>
+						</dict>
+					</array>
+					<key>189</key>
+					<array>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>647px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>17</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>Group</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>154px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>284px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Group</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>375px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
+						</dict>
+					</array>
+					<key>190</key>
+					<array>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderWidthBottom</string>
+							<key>objectValue</key>
+							<string>0px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderColorBottom</string>
+							<key>objectValue</key>
+							<string>#D8DDE4</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ExplicitDimensions</string>
+							<key>objectValue</key>
+							<string>YES</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderStyleRight</string>
+							<key>objectValue</key>
+							<string>None</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Display</string>
+							<key>objectValue</key>
+							<string>inline</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Rectangle</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderStyleBottom</string>
+							<key>objectValue</key>
+							<string>None</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>241px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderWidthRight</string>
+							<key>objectValue</key>
+							<string>0px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderStyleLeft</string>
+							<key>objectValue</key>
+							<string>None</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderColorLeft</string>
+							<key>objectValue</key>
+							<string>#D8DDE4</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderColorTop</string>
+							<key>objectValue</key>
+							<string>#D8DDE4</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Parent</string>
+							<key>objectValue</key>
+							<string>194</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>26px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>310px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderColorRight</string>
+							<key>objectValue</key>
+							<string>#D8DDE4</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderStyleTop</string>
+							<key>objectValue</key>
+							<string>None</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>52px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>2</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderWidthTop</string>
+							<key>objectValue</key>
+							<string>0px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>whiteout</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderWidthLeft</string>
+							<key>objectValue</key>
+							<string>0px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BackgroundColor</string>
+							<key>objectValue</key>
+							<string>#FFFFFF</string>
+						</dict>
+					</array>
+					<key>192</key>
+					<array>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ConstrainProportions</string>
+							<key>objectValue</key>
+							<string>YES</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Display</string>
+							<key>objectValue</key>
+							<string>inline</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Image</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>250px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Parent</string>
+							<key>objectValue</key>
+							<string>194</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BackgroundRepeat</string>
+							<key>objectValue</key>
+							<string>no-repeat</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>13px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BackgroundImageResourceGroupOid</string>
+							<key>objectValue</key>
+							<string>191</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>334px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>SizeRatio</string>
+							<key>objectValue</key>
+							<string>1.38462</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>AccessibilityRole</string>
+							<key>objectValue</key>
+							<string>img</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>3</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>18px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayHiddenOverride</string>
+							<key>objectValue</key>
+							<string>0</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BackgroundSize</string>
+							<key>objectValue</key>
+							<string>100% 100%</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>checkmark</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>OriginalHeight</string>
+							<key>objectValue</key>
+							<string>13px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>OriginalWidth</string>
+							<key>objectValue</key>
+							<string>18px</string>
+						</dict>
+					</array>
+					<key>194</key>
+					<array>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>667px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>25</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>Group 1</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>135px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>658px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Group</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>375px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
+						</dict>
+					</array>
+					<key>195</key>
+					<array>
+						<dict>
+							<key>identifier</key>
+							<string>Locked</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderRadiusBottomRight</string>
+							<key>objectValue</key>
+							<string>50px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderWidthLeft</string>
+							<key>objectValue</key>
+							<string>0px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderColorBottom</string>
+							<key>objectValue</key>
+							<string>#D8DDE4</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ExplicitDimensions</string>
+							<key>objectValue</key>
+							<string>YES</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Opacity</string>
+							<key>objectValue</key>
+							<string>0</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Display</string>
+							<key>objectValue</key>
+							<string>inline</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderStyleRight</string>
+							<key>objectValue</key>
+							<string>None</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Ellipse</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderStyleBottom</string>
+							<key>objectValue</key>
+							<string>None</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>463px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderWidthRight</string>
+							<key>objectValue</key>
+							<string>0px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderStyleLeft</string>
+							<key>objectValue</key>
+							<string>None</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderColorTop</string>
+							<key>objectValue</key>
+							<string>#D8DDE4</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderColorLeft</string>
+							<key>objectValue</key>
+							<string>#D8DDE4</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>26px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>613px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderColorRight</string>
+							<key>objectValue</key>
+							<string>#D8DDE4</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderStyleTop</string>
+							<key>objectValue</key>
+							<string>None</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>26px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayHiddenOverride</string>
+							<key>objectValue</key>
+							<string>0</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderRadiusTopLeft</string>
+							<key>objectValue</key>
+							<string>50px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderWidthTop</string>
+							<key>objectValue</key>
+							<string>0px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>46</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderRadiusBottomLeft</string>
+							<key>objectValue</key>
+							<string>50px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderRadiusTopRight</string>
+							<key>objectValue</key>
+							<string>50px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>hotspot</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderWidthBottom</string>
+							<key>objectValue</key>
+							<string>0px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BackgroundColor</string>
+							<key>objectValue</key>
+							<string>#FF2F92</string>
+						</dict>
+					</array>
+					<key>196</key>
+					<array>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ConstrainProportions</string>
+							<key>objectValue</key>
+							<string>YES</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Display</string>
+							<key>objectValue</key>
+							<string>inline</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Image</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>336px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Parent</string>
+							<key>objectValue</key>
+							<string>194</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BackgroundRepeat</string>
+							<key>objectValue</key>
+							<string>no-repeat</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>13px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BackgroundImageResourceGroupOid</string>
+							<key>objectValue</key>
+							<string>191</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>334px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>SizeRatio</string>
+							<key>objectValue</key>
+							<string>1.38462</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>AccessibilityRole</string>
+							<key>objectValue</key>
+							<string>img</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>4</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>18px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayHiddenOverride</string>
+							<key>objectValue</key>
+							<string>1</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BackgroundSize</string>
+							<key>objectValue</key>
+							<string>100% 100%</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>visible</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>checkmark2</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>OriginalHeight</string>
+							<key>objectValue</key>
+							<string>13px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>OriginalWidth</string>
+							<key>objectValue</key>
+							<string>18px</string>
 						</dict>
 					</array>
 					<key>23</key>
@@ -6313,9 +7260,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>52px</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6325,9 +7272,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>DomID</string>
+							<string>ConstrainProportions</string>
 							<key>objectValue</key>
-							<string>itm1</string>
+							<string>YES</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6337,15 +7284,15 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ConstrainProportions</string>
-							<key>objectValue</key>
-							<string>YES</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>Opacity</string>
 							<key>objectValue</key>
 							<string>2</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Image</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6361,9 +7308,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ClassType</string>
+							<string>DomID</string>
 							<key>objectValue</key>
-							<string>Image</string>
+							<string>itm1</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6469,18 +7416,18 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>52px</string>
 						</dict>
 					</array>
 					<key>27</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>52px</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6490,9 +7437,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>DomID</string>
+							<string>ConstrainProportions</string>
 							<key>objectValue</key>
-							<string>itm2</string>
+							<string>YES</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6502,15 +7449,15 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ConstrainProportions</string>
-							<key>objectValue</key>
-							<string>YES</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>Opacity</string>
 							<key>objectValue</key>
 							<string>2</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Image</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6526,9 +7473,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ClassType</string>
+							<string>DomID</string>
 							<key>objectValue</key>
-							<string>Image</string>
+							<string>itm2</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6620,18 +7567,18 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>52px</string>
 						</dict>
 					</array>
 					<key>33</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>52px</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6641,9 +7588,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>DomID</string>
+							<string>ConstrainProportions</string>
 							<key>objectValue</key>
-							<string>itm5</string>
+							<string>NO</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6653,15 +7600,15 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ConstrainProportions</string>
-							<key>objectValue</key>
-							<string>NO</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>Opacity</string>
 							<key>objectValue</key>
 							<string>2</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Image</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6677,9 +7624,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ClassType</string>
+							<string>DomID</string>
 							<key>objectValue</key>
-							<string>Image</string>
+							<string>itm5</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6771,18 +7718,18 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>52px</string>
 						</dict>
 					</array>
 					<key>35</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>52px</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6792,9 +7739,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>DomID</string>
+							<string>ConstrainProportions</string>
 							<key>objectValue</key>
-							<string>itm4</string>
+							<string>YES</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6804,15 +7751,15 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ConstrainProportions</string>
-							<key>objectValue</key>
-							<string>YES</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>Opacity</string>
 							<key>objectValue</key>
 							<string>1</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Image</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6828,9 +7775,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ClassType</string>
+							<string>DomID</string>
 							<key>objectValue</key>
-							<string>Image</string>
+							<string>itm4</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6922,9 +7869,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>52px</string>
 						</dict>
 					</array>
 					<key>36</key>
@@ -6991,7 +7938,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>35</string>
+							<string>44</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -7032,9 +7979,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>68px</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -7044,9 +7991,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>DomID</string>
+							<string>ConstrainProportions</string>
 							<key>objectValue</key>
-							<string>itm3</string>
+							<string>YES</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -7056,15 +8003,15 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ConstrainProportions</string>
-							<key>objectValue</key>
-							<string>YES</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>Opacity</string>
 							<key>objectValue</key>
 							<string>2</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Image</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -7080,9 +8027,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ClassType</string>
+							<string>DomID</string>
 							<key>objectValue</key>
-							<string>Image</string>
+							<string>itm3</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -7174,9 +8121,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>68px</string>
 						</dict>
 					</array>
 					<key>77</key>
@@ -7264,7 +8211,10 @@ function showWaffleBalls(hypeDocument, element, event) {
 					</array>
 				</dict>
 				<key>expandedElementOids</key>
-				<array/>
+				<array>
+					<string>189</string>
+					<string>194</string>
+				</array>
 				<key>isPersistentSymbol</key>
 				<false/>
 				<key>name</key>
@@ -7422,6 +8372,78 @@ function showWaffleBalls(hypeDocument, element, event) {
 							</dict>
 							<dict>
 								<key>duration</key>
+								<real>8.0666666030883789</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>DisplayHiddenOverride</string>
+									<key>objectValue</key>
+									<string>1</string>
+								</dict>
+								<key>identifier</key>
+								<string>DisplayHiddenOverride</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>192</string>
+								<key>startTime</key>
+								<real>0.0</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>DisplayHiddenOverride</string>
+									<key>objectValue</key>
+									<string>0</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>10287283-028A-49EB-929F-FBDF5BA80D45-81108-00001C721F07FCE2</string>
+								<key>zIndex</key>
+								<integer>1</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>8.0666666030883789</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>DisplayHiddenOverride</string>
+									<key>objectValue</key>
+									<string>0</string>
+								</dict>
+								<key>identifier</key>
+								<string>DisplayHiddenOverride</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>196</string>
+								<key>startTime</key>
+								<real>0.0</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>DisplayHiddenOverride</string>
+									<key>objectValue</key>
+									<string>1</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>9A7727A5-A8E5-47CA-9F8D-B3791B1782F6-81108-00001C5C9C79E8ED</string>
+								<key>zIndex</key>
+								<integer>1</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
 								<real>0.20000004768371582</real>
 								<key>endValue</key>
 								<dict>
@@ -7454,7 +8476,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>74396E38-5C9F-42FE-AFEB-9E85485AB11E-22353-00013E33DDCF56ED</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>2</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -7490,7 +8512,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>8879EF1E-28E8-4ECB-8BC8-089F426F671B-22353-00013E33DDD09F07</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>3</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -7500,7 +8522,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 									<key>identifier</key>
 									<string>Left</string>
 									<key>objectValue</key>
-									<string>284px</string>
+									<string>0px</string>
 								</dict>
 								<key>identifier</key>
 								<string>Left</string>
@@ -7515,7 +8537,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 									<key>identifier</key>
 									<string>Left</string>
 									<key>objectValue</key>
-									<string>659px</string>
+									<string>375px</string>
 								</dict>
 								<key>symbolElementActionAttributesBySymbolTimeline</key>
 								<dict/>
@@ -7525,6 +8547,42 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<integer>0</integer>
 								<key>uuid</key>
 								<string>6E5251C4-41BE-4BDB-BDD3-0F079FA6A2D6-22353-00013E4137C80C27</string>
+								<key>zIndex</key>
+								<integer>1</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.53333330154418945</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Left</string>
+									<key>objectValue</key>
+									<string>75px</string>
+								</dict>
+								<key>identifier</key>
+								<string>Left</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>188</string>
+								<key>startTime</key>
+								<real>1.7666666507720947</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Left</string>
+									<key>objectValue</key>
+									<string>450px</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>8B82EF4C-255E-4DA1-B84E-F41FBFD81D5D-81108-00001BB234C1878F</string>
 								<key>zIndex</key>
 								<integer>1</integer>
 							</dict>
@@ -7555,7 +8613,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>BA2BAFF8-CB0B-4CAB-A705-D8D372C720F0-22353-00013E33DDD16162</string>
 								<key>zIndex</key>
-								<integer>3</integer>
+								<integer>4</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -7573,7 +8631,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 									<key>identifier</key>
 									<string>Left</string>
 									<key>objectValue</key>
-									<string>284px</string>
+									<string>0px</string>
 								</dict>
 								<key>symbolElementActionAttributesBySymbolTimeline</key>
 								<dict/>
@@ -7583,6 +8641,35 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<integer>0</integer>
 								<key>uuid</key>
 								<string>D45A9139-4D2B-423B-9D8D-9425B5492211-22353-00013E4674711BBC</string>
+								<key>zIndex</key>
+								<integer>2</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
+								<string>Left</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>188</string>
+								<key>startTime</key>
+								<real>2.2999999523162842</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Left</string>
+									<key>objectValue</key>
+									<string>75px</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>F404AEC4-7BC3-48FA-B498-1B3A08203C42-81108-00001BB4DF6176B0</string>
 								<key>zIndex</key>
 								<integer>2</integer>
 							</dict>
@@ -7620,7 +8707,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>3839CA1A-909F-4398-AC4D-23FE1DFD17D0-22353-000138929172997E</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>5</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -7656,7 +8743,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>7B407F0E-345F-4C52-865D-4526F8124E06-22353-000138929173C5B3</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>6</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -7685,7 +8772,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>25D1563A-4204-4CEF-A944-4ACE317F65DC-22353-0001375AEEBCEAD7</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>2</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -7721,7 +8808,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>746E615B-0AF6-44D3-9358-420052705CA3-22353-0001375870505766</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>7</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -7750,7 +8837,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>250D73F0-456D-49B5-8D9B-241EF4912F6C-22353-000138929174824F</string>
 								<key>zIndex</key>
-								<integer>3</integer>
+								<integer>8</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -7786,7 +8873,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>ED380796-048F-4860-B613-8D6BE1921975-22353-0001377739211C65</string>
 								<key>zIndex</key>
-								<integer>16</integer>
+								<integer>9</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -7822,7 +8909,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>C6298603-2414-4A06-8FF2-2F55156F40E3-22353-0001374AF75A63A0</string>
 								<key>zIndex</key>
-								<integer>18</integer>
+								<integer>10</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -7858,7 +8945,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>FB1674EA-2B52-4709-B18B-8C7631F684F2-22353-00013776414099D4</string>
 								<key>zIndex</key>
-								<integer>19</integer>
+								<integer>11</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -7894,7 +8981,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>83ECB6BC-2658-4628-A265-5FF5B4FB47EB-22353-00013779C12CB129</string>
 								<key>zIndex</key>
-								<integer>20</integer>
+								<integer>12</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -7923,7 +9010,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>EBC815A2-DAF3-4044-B330-2A3E70F7E4A2-22353-0001376EDC46B8EF</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>13</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -7952,7 +9039,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>4DF03846-9A45-484A-9329-5AA608D8C20E-22353-0001374C39E0AAB1</string>
 								<key>zIndex</key>
-								<integer>22</integer>
+								<integer>14</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -7988,7 +9075,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>69E2F199-A127-4A3B-AE83-DD64DB8BDBD3-22353-000137758410882A</string>
 								<key>zIndex</key>
-								<integer>23</integer>
+								<integer>15</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -8024,7 +9111,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>0170A414-87AA-41F0-A6F2-1B7AC2DD0D6E-22353-00013778F1897CBB</string>
 								<key>zIndex</key>
-								<integer>24</integer>
+								<integer>16</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -8060,7 +9147,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>053ED565-ECB9-46EC-8A6B-5085A782DB4F-22353-000137780D85CDD3</string>
 								<key>zIndex</key>
-								<integer>25</integer>
+								<integer>17</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -8089,7 +9176,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>90843ECB-697B-48AB-BA88-422C39C0F3A4-22353-0001377FEEE4A24D</string>
 								<key>zIndex</key>
-								<integer>26</integer>
+								<integer>18</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -8125,7 +9212,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>6DA0DFFD-D580-4B62-9E64-2FF43E4C0440-22353-0001377A9E4DF1E7</string>
 								<key>zIndex</key>
-								<integer>27</integer>
+								<integer>19</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -8154,7 +9241,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>A54E5024-6DAE-4D67-A839-4B7D93F8DC73-22353-0001378445641509</string>
 								<key>zIndex</key>
-								<integer>28</integer>
+								<integer>20</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -8183,7 +9270,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>CDAAF2E1-57A5-41B2-BAF6-73798274462A-22353-000137880BED7C3F</string>
 								<key>zIndex</key>
-								<integer>29</integer>
+								<integer>21</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -8212,7 +9299,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>B69C594C-06D9-4BFA-8FF6-8E1164809CA0-22353-0001378E7B51E409</string>
 								<key>zIndex</key>
-								<integer>30</integer>
+								<integer>22</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -8241,7 +9328,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>F7970F53-2BD0-43FB-9B80-9BB7E197B316-22353-0001378ADBBC3CA3</string>
 								<key>zIndex</key>
-								<integer>31</integer>
+								<integer>23</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -8270,7 +9357,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>23A15C5F-0A8A-4F55-BB79-3AE0D670E27D-22353-00013793457395F2</string>
 								<key>zIndex</key>
-								<integer>32</integer>
+								<integer>24</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -8299,11 +9386,11 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>4EA0320B-C806-4590-8F13-6F27E5EA4986-22353-00013796BB521289</string>
 								<key>zIndex</key>
-								<integer>33</integer>
+								<integer>25</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>0.20000028610229492</real>
+								<real>0.19999980926513672</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -8318,7 +9405,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>182</string>
 								<key>startTime</key>
-								<real>4.1333332061767578</real>
+								<real>4.3000001907348633</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -8354,7 +9441,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>182</string>
 								<key>startTime</key>
-								<real>4.3333334922790527</real>
+								<real>4.5</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -8372,64 +9459,6 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<string>0B707FC0-FCA8-4669-BC26-54D23B130D4C-22353-00013E5D0EE113D5</string>
 								<key>zIndex</key>
 								<integer>2</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.0</real>
-								<key>identifier</key>
-								<string>DisplayHiddenOverride</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>36</string>
-								<key>startTime</key>
-								<real>4.5</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>DisplayHiddenOverride</string>
-									<key>objectValue</key>
-									<string>0</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>47E8B54E-9811-47D8-AACC-A39B73BF1819-22353-000137F1D220BCE5</string>
-								<key>zIndex</key>
-								<integer>1</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.0</real>
-								<key>identifier</key>
-								<string>Opacity</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>176</string>
-								<key>startTime</key>
-								<real>4.5</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>1</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>FB30DE02-92C5-49BB-850A-CF497067FD2D-22353-00013E6532A88237</string>
-								<key>zIndex</key>
-								<integer>1</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -8458,7 +9487,101 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>E659825F-5CFA-4207-9473-ED5A70FEF22E-22353-00013E7783FCC227</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>4</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
+								<string>Opacity</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>176</string>
+								<key>startTime</key>
+								<real>4.5</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>1</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>FB30DE02-92C5-49BB-850A-CF497067FD2D-22353-00013E6532A88237</string>
+								<key>zIndex</key>
+								<integer>28</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.56666660308837891</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>0</string>
+								</dict>
+								<key>identifier</key>
+								<string>Opacity</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>36</string>
+								<key>startTime</key>
+								<real>4.6666665077209473</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>1</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>540CFD6A-9B6F-4311-8AB4-82607012087C-22353-0001376543FBA212</string>
+								<key>zIndex</key>
+								<integer>1</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
+								<string>DisplayHiddenOverride</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>36</string>
+								<key>startTime</key>
+								<real>4.6666665077209473</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>DisplayHiddenOverride</string>
+									<key>objectValue</key>
+									<string>0</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>47E8B54E-9811-47D8-AACC-A39B73BF1819-22353-000137F1D220BCE5</string>
+								<key>zIndex</key>
+								<integer>1</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -8470,7 +9593,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>182</string>
 								<key>startTime</key>
-								<real>4.5</real>
+								<real>4.6666665077209473</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -8491,42 +9614,6 @@ function showWaffleBalls(hypeDocument, element, event) {
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>0.36666679382324219</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>0</string>
-								</dict>
-								<key>identifier</key>
-								<string>Opacity</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>36</string>
-								<key>startTime</key>
-								<real>4.5</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>1</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>540CFD6A-9B6F-4311-8AB4-82607012087C-22353-0001376543FBA212</string>
-								<key>zIndex</key>
-								<integer>36</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
 								<real>0.0</real>
 								<key>identifier</key>
 								<string>Opacity</string>
@@ -8535,7 +9622,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>36</string>
 								<key>startTime</key>
-								<real>4.8666667938232422</real>
+								<real>5.2333331108093262</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -8552,11 +9639,11 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>4687D0AD-16E8-416B-BD21-4AAF44D96EAC-22353-000137F3ABFADB8A</string>
 								<key>zIndex</key>
-								<integer>38</integer>
+								<integer>2</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>0.19999980926513672</real>
+								<real>0.33333349227905273</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -8592,7 +9679,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>0.16666650772094727</real>
+								<real>0.26666641235351562</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -8607,7 +9694,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>183</string>
 								<key>startTime</key>
-								<real>5.5999999046325684</real>
+								<real>5.7333335876464844</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -8628,7 +9715,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>0.40000009536743164</real>
+								<real>0.59999990463256836</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -8643,7 +9730,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>178</string>
 								<key>startTime</key>
-								<real>5.7666664123535156</real>
+								<real>6</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -8672,7 +9759,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>183</string>
 								<key>startTime</key>
-								<real>5.7666664123535156</real>
+								<real>6</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -8701,7 +9788,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>178</string>
 								<key>startTime</key>
-								<real>6.1666665077209473</real>
+								<real>6.5999999046325684</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -8722,7 +9809,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>0.19999980926513672</real>
+								<real>0.20000028610229492</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -8737,7 +9824,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>184</string>
 								<key>startTime</key>
-								<real>6.5</real>
+								<real>6.6666665077209473</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -8758,7 +9845,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>0.16666698455810547</real>
+								<real>0.16666650772094727</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -8773,7 +9860,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>184</string>
 								<key>startTime</key>
-								<real>6.6999998092651367</real>
+								<real>6.8666667938232422</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -8794,42 +9881,6 @@ function showWaffleBalls(hypeDocument, element, event) {
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>0.46666669845581055</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Left</string>
-									<key>objectValue</key>
-									<string>284px</string>
-								</dict>
-								<key>identifier</key>
-								<string>Left</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>186</string>
-								<key>startTime</key>
-								<real>6.8666667938232422</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Left</string>
-									<key>objectValue</key>
-									<string>659px</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>CF8F519B-9547-40C1-A522-E64ECAEA6E34-22353-00013EDD56A163FC</string>
-								<key>zIndex</key>
-								<integer>1</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
 								<real>0.0</real>
 								<key>identifier</key>
 								<string>Opacity</string>
@@ -8838,7 +9889,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>referenceOid</key>
 								<string>184</string>
 								<key>startTime</key>
-								<real>6.8666667938232422</real>
+								<real>7.0333333015441895</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -8859,21 +9910,28 @@ function showWaffleBalls(hypeDocument, element, event) {
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>0.0</real>
+								<real>0.66666650772094727</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Left</string>
+									<key>objectValue</key>
+									<string>285px</string>
+								</dict>
 								<key>identifier</key>
 								<string>Left</string>
 								<key>isRelative</key>
 								<false/>
 								<key>referenceOid</key>
-								<string>186</string>
+								<string>194</string>
 								<key>startTime</key>
-								<real>7.3333334922790527</real>
+								<real>7.0999999046325684</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
 									<string>Left</string>
 									<key>objectValue</key>
-									<string>284px</string>
+									<string>658px</string>
 								</dict>
 								<key>symbolElementActionAttributesBySymbolTimeline</key>
 								<dict/>
@@ -8882,9 +9940,74 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>type</key>
 								<integer>0</integer>
 								<key>uuid</key>
-								<string>0E5800D0-0D89-40C2-99BB-2AA1E5705F8D-22353-00013EE8CE6729C3</string>
+								<string>4693E1D5-078F-4924-ABAB-B67976893624-81108-00001C416208929B</string>
+								<key>zIndex</key>
+								<integer>1</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
+								<string>Left</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>194</string>
+								<key>startTime</key>
+								<real>7.7666664123535156</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Left</string>
+									<key>objectValue</key>
+									<string>285px</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>A2279059-F3EC-48D9-AB3C-80DE376108AD-81108-00001C42790644DC</string>
 								<key>zIndex</key>
 								<integer>2</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.19999980926513672</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>0.52</string>
+								</dict>
+								<key>identifier</key>
+								<string>Opacity</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>195</string>
+								<key>startTime</key>
+								<real>7.8666667938232422</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>0</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>CE0D10FC-B1E4-4C53-BF70-62F1FC5E911D-81108-00001C496C3D81E7</string>
+								<key>zIndex</key>
+								<integer>1</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -8913,7 +10036,166 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>5BE933A1-0960-4090-B479-C6067F30391D-22353-00013F49134D3D9C</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>5</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
+								<string>DisplayHiddenOverride</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>192</string>
+								<key>startTime</key>
+								<real>8.0666666030883789</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>DisplayHiddenOverride</string>
+									<key>objectValue</key>
+									<string>1</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>F3D0D2F1-7ED6-4627-9743-CE4C3BDEDBC3-81108-00001C745503A1B3</string>
+								<key>zIndex</key>
+								<integer>2</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>1.3666667938232422</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>DisplayHiddenOverride</string>
+									<key>objectValue</key>
+									<string>0</string>
+								</dict>
+								<key>identifier</key>
+								<string>DisplayHiddenOverride</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>196</string>
+								<key>startTime</key>
+								<real>8.0666666030883789</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>DisplayHiddenOverride</string>
+									<key>objectValue</key>
+									<string>0</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>9BC679D8-ED63-4B9C-A8CB-AB9179909008-81108-00001C602B140DBD</string>
+								<key>zIndex</key>
+								<integer>2</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.16666698455810547</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>0</string>
+								</dict>
+								<key>identifier</key>
+								<string>Opacity</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>195</string>
+								<key>startTime</key>
+								<real>8.0666666030883789</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>0.52</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>2BB9DF2C-D16B-471D-8320-4AB5CE33E3C3-81108-00001C496C443CD7</string>
+								<key>zIndex</key>
+								<integer>2</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
+								<string>Opacity</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>195</string>
+								<key>startTime</key>
+								<real>8.2333335876464844</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>0</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>BCDAE6CD-3C8C-46B8-8384-C5E6126FA192-81108-00001C496C4A877D</string>
+								<key>zIndex</key>
+								<integer>3</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
+								<string>DisplayHiddenOverride</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>196</string>
+								<key>startTime</key>
+								<real>9.4333333969116211</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>DisplayHiddenOverride</string>
+									<key>objectValue</key>
+									<string>0</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>394582B6-F548-47AA-A0D5-F0B3482FE8F3-81108-00001C87B46BCB84</string>
+								<key>zIndex</key>
+								<integer>3</integer>
 							</dict>
 						</array>
 						<key>firstKeyframeIsRelative</key>
