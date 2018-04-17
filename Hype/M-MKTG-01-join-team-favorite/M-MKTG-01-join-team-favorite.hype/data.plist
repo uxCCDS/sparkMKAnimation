@@ -81,11 +81,11 @@
 
 </string>
 	<key>lastCheckDate</key>
-	<date>2018-04-16T22:17:58Z</date>
+	<date>2018-04-17T15:09:00Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
-		<integer>3</integer>
+		<integer>2</integer>
 		<key>customizableLayout</key>
 		<dict>
 			<key>frame</key>
@@ -104,7 +104,7 @@
 					<key>frame</key>
 					<string>{{0, 0}, {1409, 928}}</string>
 					<key>identifier</key>
-					<string>container 31</string>
+					<string>container 40</string>
 					<key>isCustomizableViewContainer</key>
 					<true/>
 					<key>isCustomizableViewWrapper</key>
@@ -117,7 +117,7 @@
 							<key>frame</key>
 							<string>{{0, 0}, {135, 928}}</string>
 							<key>identifier</key>
-							<string>container 21</string>
+							<string>container 30</string>
 							<key>isCustomizableViewContainer</key>
 							<true/>
 							<key>isCustomizableViewWrapper</key>
@@ -140,7 +140,7 @@
 							<key>frame</key>
 							<string>{{136, 0}, {1273, 928}}</string>
 							<key>identifier</key>
-							<string>container 22</string>
+							<string>container 31</string>
 							<key>isCustomizableViewContainer</key>
 							<true/>
 							<key>isCustomizableViewWrapper</key>
@@ -151,7 +151,7 @@
 							<array>
 								<dict>
 									<key>frame</key>
-									<string>{{136, 0}, {1273, 387.5390625}}</string>
+									<string>{{136, 0}, {1273, 427.04296875}}</string>
 									<key>identifier</key>
 									<string>container 4</string>
 									<key>isCustomizableViewContainer</key>
@@ -164,7 +164,7 @@
 									<array>
 										<dict>
 											<key>frame</key>
-											<string>{{136, 0}, {1273, 387.5390625}}</string>
+											<string>{{136, 0}, {1273, 427.04296875}}</string>
 											<key>identifier</key>
 											<string>timelineCustomizableContainer</string>
 											<key>isCustomizableViewContainer</key>
@@ -174,7 +174,7 @@
 								</dict>
 								<dict>
 									<key>frame</key>
-									<string>{{136, 388.5390625}, {1273, 539.4609375}}</string>
+									<string>{{136, 428.04296875}, {1273, 499.95703125}}</string>
 									<key>identifier</key>
 									<string>container 3</string>
 									<key>isCustomizableViewContainer</key>
@@ -187,7 +187,7 @@
 									<array>
 										<dict>
 											<key>frame</key>
-											<string>{{136, 388.5390625}, {1273, 539.4609375}}</string>
+											<string>{{136, 428.04296875}, {1273, 499.95703125}}</string>
 											<key>identifier</key>
 											<string>sceneEditorCustomizableContainer</string>
 											<key>isCustomizableViewContainer</key>
@@ -203,7 +203,7 @@
 					<key>frame</key>
 					<string>{{1410, 0}, {270, 928}}</string>
 					<key>identifier</key>
-					<string>container 30</string>
+					<string>container 39</string>
 					<key>isCustomizableViewContainer</key>
 					<true/>
 					<key>isCustomizableViewWrapper</key>
@@ -225,7 +225,7 @@
 			</array>
 		</dict>
 		<key>keyframeTimelineHeight</key>
-		<real>184.5</real>
+		<real>77.5</real>
 		<key>mainWindowFrame</key>
 		<string>1 54 1680 972 0 0 1680 1027 </string>
 		<key>openTabs</key>
@@ -1328,7 +1328,7 @@
 						<key>timeCursors</key>
 						<dict>
 							<key>kTimelineDefaultIdentifier</key>
-							<real>12.866666793823242</real>
+							<real>13.766666412353516</real>
 						</dict>
 						<key>timescale</key>
 						<integer>90</integer>
@@ -1359,7 +1359,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>2</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 453}</string>
+					<string>{0, 619.5}</string>
 					<key>userGuides</key>
 					<array/>
 				</dict>
@@ -1415,13 +1415,11 @@ function showWaffleBalls(hypeDocument, element, event) {
 	<key>symbols</key>
 	<array>
 		<dict>
-			<key>currentGroupElement</key>
-			<string>268</string>
 			<key>documentIdentifier</key>
-			<string>97F2828A-CCAF-453B-97CC-115451110376-506-00000007749EA53F</string>
+			<string>CBADDCEE-5E23-4D31-AC39-D052A9B7FDE6-64965-000012278FCF1B69</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>289</string>
+				<string>268</string>
 			</array>
 			<key>symbol</key>
 			<dict>
@@ -1437,9 +1435,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>871px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1539,6 +1537,12 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
+							<string>BackgroundSize</string>
+							<key>objectValue</key>
+							<string>100% 100%</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
 							<string>Locked</string>
 							<key>objectValue</key>
 							<string>0</string>
@@ -1548,12 +1552,6 @@ function showWaffleBalls(hypeDocument, element, event) {
 							<string>Overflow</string>
 							<key>objectValue</key>
 							<string>visible</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BackgroundSize</string>
-							<key>objectValue</key>
-							<string>100% 100%</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1569,36 +1567,36 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>871px</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>111</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>BorderWidthBottom</string>
+							<string>BorderWidthLeft</string>
 							<key>objectValue</key>
 							<string>0px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>BackgroundColor</string>
 							<key>objectValue</key>
-							<string>div</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderColorBottom</string>
-							<key>objectValue</key>
-							<string>#D8DDE4</string>
+							<string>#F7F7F7</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>ExplicitDimensions</string>
 							<key>objectValue</key>
 							<string>YES</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderColorBottom</string>
+							<key>objectValue</key>
+							<string>#D8DDE4</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1686,15 +1684,15 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ZIndex</string>
-							<key>objectValue</key>
-							<string>1</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>Width</string>
 							<key>objectValue</key>
 							<string>279px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>1</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1716,42 +1714,42 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderWidthLeft</string>
+							<string>BorderWidthBottom</string>
 							<key>objectValue</key>
 							<string>0px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BackgroundColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#F7F7F7</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>112</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>BorderWidthLeft</string>
+							<string>BorderWidthBottom</string>
 							<key>objectValue</key>
 							<string>0px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BackgroundColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#F7F7F7</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ExplicitDimensions</string>
-							<key>objectValue</key>
-							<string>YES</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>BorderColorBottom</string>
 							<key>objectValue</key>
 							<string>#D8DDE4</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ExplicitDimensions</string>
+							<key>objectValue</key>
+							<string>YES</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1869,42 +1867,42 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderWidthBottom</string>
+							<string>BorderWidthLeft</string>
 							<key>objectValue</key>
 							<string>0px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>BackgroundColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#F7F7F7</string>
 						</dict>
 					</array>
 					<key>113</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>BorderWidthBottom</string>
+							<string>BorderWidthLeft</string>
 							<key>objectValue</key>
 							<string>0px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>BackgroundColor</string>
 							<key>objectValue</key>
-							<string>div</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderColorBottom</string>
-							<key>objectValue</key>
-							<string>#D8DDE4</string>
+							<string>#F7F7F7</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>ExplicitDimensions</string>
 							<key>objectValue</key>
 							<string>YES</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderColorBottom</string>
+							<key>objectValue</key>
+							<string>#D8DDE4</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1992,15 +1990,15 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ZIndex</string>
-							<key>objectValue</key>
-							<string>3</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>Width</string>
 							<key>objectValue</key>
 							<string>950px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>3</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2022,42 +2020,42 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderWidthLeft</string>
+							<string>BorderWidthBottom</string>
 							<key>objectValue</key>
 							<string>0px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BackgroundColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#F7F7F7</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>114</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>BorderWidthLeft</string>
+							<string>BorderWidthBottom</string>
 							<key>objectValue</key>
 							<string>0px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BackgroundColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#F7F7F7</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ExplicitDimensions</string>
-							<key>objectValue</key>
-							<string>YES</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>BorderColorBottom</string>
 							<key>objectValue</key>
 							<string>#D8DDE4</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ExplicitDimensions</string>
+							<key>objectValue</key>
+							<string>YES</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2175,15 +2173,15 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderWidthBottom</string>
+							<string>BorderWidthLeft</string>
 							<key>objectValue</key>
 							<string>0px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>BackgroundColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#F7F7F7</string>
 						</dict>
 					</array>
 					<key>115</key>
@@ -2265,9 +2263,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>375px</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2361,15 +2359,15 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BackgroundSize</string>
-							<key>objectValue</key>
-							<string>100% 100%</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>Locked</string>
 							<key>objectValue</key>
 							<string>1</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BackgroundSize</string>
+							<key>objectValue</key>
+							<string>100% 100%</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2391,9 +2389,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>375px</string>
 						</dict>
 					</array>
 					<key>157</key>
@@ -2412,9 +2410,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BackgroundColor</string>
+							<string>Display</string>
 							<key>objectValue</key>
-							<string>#FF2F92</string>
+							<string>inline</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2424,9 +2422,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Display</string>
+							<string>BackgroundColor</string>
 							<key>objectValue</key>
-							<string>inline</string>
+							<string>#FF2F92</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2548,15 +2546,15 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Left</string>
+							<string>BorderRadiusBottomRight</string>
 							<key>objectValue</key>
-							<string>328px</string>
+							<string>50px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>DisplayHiddenOverride</string>
+							<string>Left</string>
 							<key>objectValue</key>
-							<string>0</string>
+							<string>328px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2566,13 +2564,13 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderRadiusBottomLeft</string>
+							<string>DisplayHiddenOverride</string>
 							<key>objectValue</key>
-							<string>50px</string>
+							<string>0</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderRadiusBottomRight</string>
+							<string>BorderRadiusBottomLeft</string>
 							<key>objectValue</key>
 							<string>50px</string>
 						</dict>
@@ -2599,9 +2597,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>375px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2683,15 +2681,15 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Width</string>
-							<key>objectValue</key>
-							<string>375px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>DisplayHiddenOverride</string>
 							<key>objectValue</key>
 							<string>1</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>375px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2719,9 +2717,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>375px</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>181</key>
@@ -3249,9 +3247,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>375px</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3375,9 +3373,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>375px</string>
 						</dict>
 					</array>
 					<key>205</key>
@@ -3396,9 +3394,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BackgroundColor</string>
+							<string>Display</string>
 							<key>objectValue</key>
-							<string>#FFFFFF</string>
+							<string>inline</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3408,9 +3406,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Display</string>
+							<string>BackgroundColor</string>
 							<key>objectValue</key>
-							<string>inline</string>
+							<string>#FFFFFF</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3532,15 +3530,15 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Left</string>
+							<string>BorderRadiusBottomRight</string>
 							<key>objectValue</key>
-							<string>264px</string>
+							<string>50px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>DisplayHiddenOverride</string>
+							<string>Left</string>
 							<key>objectValue</key>
-							<string>0</string>
+							<string>264px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3550,13 +3548,13 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderRadiusBottomLeft</string>
+							<string>DisplayHiddenOverride</string>
 							<key>objectValue</key>
-							<string>50px</string>
+							<string>0</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderRadiusBottomRight</string>
+							<string>BorderRadiusBottomLeft</string>
 							<key>objectValue</key>
 							<string>50px</string>
 						</dict>
@@ -3583,9 +3581,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>375px</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3709,9 +3707,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>375px</string>
 						</dict>
 					</array>
 					<key>208</key>
@@ -3730,9 +3728,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BackgroundColor</string>
+							<string>Display</string>
 							<key>objectValue</key>
-							<string>#FF2F92</string>
+							<string>inline</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3742,9 +3740,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Display</string>
+							<string>BackgroundColor</string>
 							<key>objectValue</key>
-							<string>inline</string>
+							<string>#FF2F92</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3866,15 +3864,15 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Left</string>
+							<string>BorderRadiusBottomRight</string>
 							<key>objectValue</key>
-							<string>124px</string>
+							<string>50px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>DisplayHiddenOverride</string>
+							<string>Left</string>
 							<key>objectValue</key>
-							<string>0</string>
+							<string>124px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3884,13 +3882,13 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderRadiusBottomLeft</string>
+							<string>DisplayHiddenOverride</string>
 							<key>objectValue</key>
-							<string>50px</string>
+							<string>0</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderRadiusBottomRight</string>
+							<string>BorderRadiusBottomLeft</string>
 							<key>objectValue</key>
 							<string>50px</string>
 						</dict>
@@ -3917,9 +3915,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>375px</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4007,15 +4005,15 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Width</string>
-							<key>objectValue</key>
-							<string>377px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>DisplayHiddenOverride</string>
 							<key>objectValue</key>
 							<string>0</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>377px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4043,9 +4041,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>375px</string>
 						</dict>
 					</array>
 					<key>211</key>
@@ -4088,10 +4086,6 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Locked</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>Opacity</string>
 							<key>objectValue</key>
 							<string>0</string>
@@ -4101,6 +4095,10 @@ function showWaffleBalls(hypeDocument, element, event) {
 							<string>BorderWidthRight</string>
 							<key>objectValue</key>
 							<string>0px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Locked</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4251,9 +4249,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>375px</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4377,9 +4375,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>375px</string>
 						</dict>
 					</array>
 					<key>221</key>
@@ -4487,27 +4485,27 @@ function showWaffleBalls(hypeDocument, element, event) {
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>BorderWidthBottom</string>
+							<string>BorderWidthLeft</string>
 							<key>objectValue</key>
 							<string>0px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>BackgroundColor</string>
 							<key>objectValue</key>
-							<string>div</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderColorBottom</string>
-							<key>objectValue</key>
-							<string>#D8DDE4</string>
+							<string>#FFFFFF</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>ExplicitDimensions</string>
 							<key>objectValue</key>
 							<string>YES</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderColorBottom</string>
+							<key>objectValue</key>
+							<string>#D8DDE4</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4631,24 +4629,24 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderWidthLeft</string>
+							<string>BorderWidthBottom</string>
 							<key>objectValue</key>
 							<string>0px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BackgroundColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#FFFFFF</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>224</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>375px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4772,9 +4770,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>375px</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>225</key>
@@ -4862,9 +4860,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#444444</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -4952,15 +4950,15 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ClassName</string>
-							<key>objectValue</key>
-							<string>animated</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>Height</string>
 							<key>objectValue</key>
 							<string>18px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassName</string>
+							<key>objectValue</key>
+							<string>animated</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5024,18 +5022,18 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#444444</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>228</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>68px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5045,9 +5043,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ConstrainProportions</string>
+							<string>DomID</string>
 							<key>objectValue</key>
-							<string>YES</string>
+							<string>itm6</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5057,15 +5055,15 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Opacity</string>
+							<string>ConstrainProportions</string>
 							<key>objectValue</key>
-							<string>1</string>
+							<string>YES</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ClassType</string>
+							<string>Opacity</string>
 							<key>objectValue</key>
-							<string>Image</string>
+							<string>1</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5081,9 +5079,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>DomID</string>
+							<string>ClassType</string>
 							<key>objectValue</key>
-							<string>itm6</string>
+							<string>Image</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5173,9 +5171,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>68px</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>229</key>
@@ -5263,9 +5261,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#444444</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5353,15 +5351,15 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ClassName</string>
-							<key>objectValue</key>
-							<string>animated</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>Height</string>
 							<key>objectValue</key>
 							<string>18px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassName</string>
+							<key>objectValue</key>
+							<string>animated</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5425,18 +5423,18 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#444444</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>232</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>52px</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5446,9 +5444,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>DomID</string>
+							<string>ConstrainProportions</string>
 							<key>objectValue</key>
-							<string>itm5</string>
+							<string>NO</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5458,15 +5456,15 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ConstrainProportions</string>
-							<key>objectValue</key>
-							<string>NO</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>Opacity</string>
 							<key>objectValue</key>
 							<string>2</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Image</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5482,9 +5480,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ClassType</string>
+							<string>DomID</string>
 							<key>objectValue</key>
-							<string>Image</string>
+							<string>itm5</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5576,9 +5574,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>52px</string>
 						</dict>
 					</array>
 					<key>233</key>
@@ -5666,9 +5664,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#444444</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5756,15 +5754,15 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Height</string>
-							<key>objectValue</key>
-							<string>18px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>ClassName</string>
 							<key>objectValue</key>
 							<string>animated</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>18px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5828,18 +5826,18 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#444444</string>
 						</dict>
 					</array>
 					<key>236</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>52px</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5849,9 +5847,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>DomID</string>
+							<string>ConstrainProportions</string>
 							<key>objectValue</key>
-							<string>itm4</string>
+							<string>YES</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5861,15 +5859,15 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ConstrainProportions</string>
-							<key>objectValue</key>
-							<string>YES</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>Opacity</string>
 							<key>objectValue</key>
 							<string>1</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Image</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5885,9 +5883,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ClassType</string>
+							<string>DomID</string>
 							<key>objectValue</key>
-							<string>Image</string>
+							<string>itm4</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -5979,9 +5977,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>52px</string>
 						</dict>
 					</array>
 					<key>237</key>
@@ -6077,9 +6075,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#444444</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6167,15 +6165,15 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Height</string>
-							<key>objectValue</key>
-							<string>18px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>ClassName</string>
 							<key>objectValue</key>
 							<string>animated</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>18px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6239,18 +6237,18 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#444444</string>
 						</dict>
 					</array>
 					<key>240</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>68px</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6260,9 +6258,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>DomID</string>
+							<string>ConstrainProportions</string>
 							<key>objectValue</key>
-							<string>itm3</string>
+							<string>YES</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6272,15 +6270,15 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ConstrainProportions</string>
-							<key>objectValue</key>
-							<string>YES</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>Opacity</string>
 							<key>objectValue</key>
 							<string>2</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Image</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6296,9 +6294,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ClassType</string>
+							<string>DomID</string>
 							<key>objectValue</key>
-							<string>Image</string>
+							<string>itm3</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6390,9 +6388,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>68px</string>
 						</dict>
 					</array>
 					<key>241</key>
@@ -6480,9 +6478,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#444444</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6570,15 +6568,15 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ClassName</string>
-							<key>objectValue</key>
-							<string>animated</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>Height</string>
 							<key>objectValue</key>
 							<string>18px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassName</string>
+							<key>objectValue</key>
+							<string>animated</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6642,18 +6640,18 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#444444</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>244</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>52px</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6663,9 +6661,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>DomID</string>
+							<string>ConstrainProportions</string>
 							<key>objectValue</key>
-							<string>itm2</string>
+							<string>YES</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6675,15 +6673,15 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ConstrainProportions</string>
-							<key>objectValue</key>
-							<string>YES</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>Opacity</string>
 							<key>objectValue</key>
 							<string>2</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Image</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6699,9 +6697,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ClassType</string>
+							<string>DomID</string>
 							<key>objectValue</key>
-							<string>Image</string>
+							<string>itm2</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6793,9 +6791,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>52px</string>
 						</dict>
 					</array>
 					<key>245</key>
@@ -6883,9 +6881,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#444444</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -6973,15 +6971,15 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Height</string>
-							<key>objectValue</key>
-							<string>18px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>ClassName</string>
 							<key>objectValue</key>
 							<string>animated</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>18px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -7046,18 +7044,18 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#444444</string>
 						</dict>
 					</array>
 					<key>248</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>52px</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -7067,9 +7065,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>DomID</string>
+							<string>ConstrainProportions</string>
 							<key>objectValue</key>
-							<string>itm1</string>
+							<string>YES</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -7079,15 +7077,15 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ConstrainProportions</string>
-							<key>objectValue</key>
-							<string>YES</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>Opacity</string>
 							<key>objectValue</key>
 							<string>2</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Image</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -7103,9 +7101,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ClassType</string>
+							<string>DomID</string>
 							<key>objectValue</key>
-							<string>Image</string>
+							<string>itm1</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -7211,9 +7209,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>52px</string>
 						</dict>
 					</array>
 					<key>249</key>
@@ -7301,9 +7299,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#444444</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -7391,15 +7389,15 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ClassName</string>
-							<key>objectValue</key>
-							<string>animated</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>Height</string>
 							<key>objectValue</key>
 							<string>18px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassName</string>
+							<key>objectValue</key>
+							<string>animated</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -7463,9 +7461,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#444444</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>252</key>
@@ -7689,9 +7687,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BackgroundColor</string>
+							<string>Display</string>
 							<key>objectValue</key>
-							<string>#FFFFFF</string>
+							<string>inline</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -7701,9 +7699,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Display</string>
+							<string>BackgroundColor</string>
 							<key>objectValue</key>
-							<string>inline</string>
+							<string>#FFFFFF</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -7825,15 +7823,15 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Left</string>
+							<string>BorderRadiusBottomRight</string>
 							<key>objectValue</key>
-							<string>321px</string>
+							<string>50px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>DisplayHiddenOverride</string>
+							<string>Left</string>
 							<key>objectValue</key>
-							<string>0</string>
+							<string>321px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -7843,13 +7841,13 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderRadiusBottomLeft</string>
+							<string>DisplayHiddenOverride</string>
 							<key>objectValue</key>
-							<string>50px</string>
+							<string>0</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderRadiusBottomRight</string>
+							<string>BorderRadiusBottomLeft</string>
 							<key>objectValue</key>
 							<string>50px</string>
 						</dict>
@@ -8087,9 +8085,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BackgroundColor</string>
+							<string>Display</string>
 							<key>objectValue</key>
-							<string>#FF2F92</string>
+							<string>inline</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -8099,9 +8097,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Display</string>
+							<string>BackgroundColor</string>
 							<key>objectValue</key>
-							<string>inline</string>
+							<string>#FF2F92</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -8223,15 +8221,15 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Left</string>
+							<string>BorderRadiusBottomRight</string>
 							<key>objectValue</key>
-							<string>61px</string>
+							<string>50px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>DisplayHiddenOverride</string>
+							<string>Left</string>
 							<key>objectValue</key>
-							<string>0</string>
+							<string>61px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -8241,13 +8239,13 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderRadiusBottomLeft</string>
+							<string>DisplayHiddenOverride</string>
 							<key>objectValue</key>
-							<string>50px</string>
+							<string>0</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderRadiusBottomRight</string>
+							<string>BorderRadiusBottomLeft</string>
 							<key>objectValue</key>
 							<string>50px</string>
 						</dict>
@@ -8274,9 +8272,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>375px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -8400,9 +8398,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>375px</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>264</key>
@@ -8620,9 +8618,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BackgroundColor</string>
+							<string>Display</string>
 							<key>objectValue</key>
-							<string>#FFFFFF</string>
+							<string>inline</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -8632,9 +8630,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Display</string>
+							<string>BackgroundColor</string>
 							<key>objectValue</key>
-							<string>inline</string>
+							<string>#FFFFFF</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -8756,15 +8754,15 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Left</string>
+							<string>BorderRadiusBottomRight</string>
 							<key>objectValue</key>
-							<string>0px</string>
+							<string>50px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>DisplayHiddenOverride</string>
+							<string>Left</string>
 							<key>objectValue</key>
-							<string>0</string>
+							<string>0px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -8774,13 +8772,13 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderRadiusBottomLeft</string>
+							<string>DisplayHiddenOverride</string>
 							<key>objectValue</key>
-							<string>50px</string>
+							<string>0</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderRadiusBottomRight</string>
+							<string>BorderRadiusBottomLeft</string>
 							<key>objectValue</key>
 							<string>50px</string>
 						</dict>
@@ -9132,15 +9130,33 @@ function showWaffleBalls(hypeDocument, element, event) {
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>Position</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>absolute</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ConstrainProportions</string>
+							<string>DisplayName</string>
 							<key>objectValue</key>
-							<string>YES</string>
+							<string>filter</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>OriginalWidth</string>
+							<key>objectValue</key>
+							<string>375px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>SizeRatio</string>
+							<key>objectValue</key>
+							<string>0.912409</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>283px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -9150,9 +9166,33 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ClassType</string>
+							<string>ConstrainProportions</string>
 							<key>objectValue</key>
-							<string>Image</string>
+							<string>YES</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>OriginalHeight</string>
+							<key>objectValue</key>
+							<string>411px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>411px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>AccessibilityRole</string>
+							<key>objectValue</key>
+							<string>img</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BackgroundImageResourceGroupOid</string>
+							<key>objectValue</key>
+							<string>274</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -9168,42 +9208,6 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Position</string>
-							<key>objectValue</key>
-							<string>absolute</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Height</string>
-							<key>objectValue</key>
-							<string>411px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BackgroundImageResourceGroupOid</string>
-							<key>objectValue</key>
-							<string>274</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Left</string>
-							<key>objectValue</key>
-							<string>283px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>SizeRatio</string>
-							<key>objectValue</key>
-							<string>0.912409</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>AccessibilityRole</string>
-							<key>objectValue</key>
-							<string>img</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
 							<string>27</string>
@@ -9213,6 +9217,12 @@ function showWaffleBalls(hypeDocument, element, event) {
 							<string>Width</string>
 							<key>objectValue</key>
 							<string>375px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -9228,42 +9238,24 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>DisplayName</string>
+							<string>ClassType</string>
 							<key>objectValue</key>
-							<string>filter</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>OriginalHeight</string>
-							<key>objectValue</key>
-							<string>411px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>OriginalWidth</string>
-							<key>objectValue</key>
-							<string>375px</string>
+							<string>Image</string>
 						</dict>
 					</array>
 					<key>276</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
-							<key>objectValue</key>
-							<string>div</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderWidthBottom</string>
+							<string>BorderWidthLeft</string>
 							<key>objectValue</key>
 							<string>0px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderColorBottom</string>
+							<string>BackgroundColor</string>
 							<key>objectValue</key>
-							<string>#D8DDE4</string>
+							<string>rgba(0, 0, 0, 0.250)</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -9273,21 +9265,27 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
+							<string>BorderColorBottom</string>
+							<key>objectValue</key>
+							<string>#D8DDE4</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
 							<string>Opacity</string>
 							<key>objectValue</key>
 							<string>0</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderStyleRight</string>
-							<key>objectValue</key>
-							<string>None</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>Display</string>
 							<key>objectValue</key>
 							<string>inline</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderStyleRight</string>
+							<key>objectValue</key>
+							<string>None</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -9321,13 +9319,13 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderColorLeft</string>
+							<string>BorderColorTop</string>
 							<key>objectValue</key>
 							<string>#D8DDE4</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderColorTop</string>
+							<string>BorderColorLeft</string>
 							<key>objectValue</key>
 							<string>#D8DDE4</string>
 						</dict>
@@ -9393,15 +9391,15 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderWidthLeft</string>
+							<string>BorderWidthBottom</string>
 							<key>objectValue</key>
 							<string>0px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BackgroundColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>rgba(0, 0, 0, 0.250)</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>278</key>
@@ -9806,9 +9804,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>375px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -9926,36 +9924,36 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>375px</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>284</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
-							<key>objectValue</key>
-							<string>div</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderWidthBottom</string>
+							<string>BorderWidthLeft</string>
 							<key>objectValue</key>
 							<string>0px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderColorBottom</string>
+							<string>BackgroundColor</string>
 							<key>objectValue</key>
-							<string>#D8DDE4</string>
+							<string>#FFFFFF</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>ExplicitDimensions</string>
 							<key>objectValue</key>
 							<string>YES</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderColorBottom</string>
+							<key>objectValue</key>
+							<string>#D8DDE4</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -10001,13 +9999,13 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderColorLeft</string>
+							<string>BorderColorTop</string>
 							<key>objectValue</key>
 							<string>#D8DDE4</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderColorTop</string>
+							<string>BorderColorLeft</string>
 							<key>objectValue</key>
 							<string>#D8DDE4</string>
 						</dict>
@@ -10021,13 +10019,13 @@ function showWaffleBalls(hypeDocument, element, event) {
 							<key>identifier</key>
 							<string>Height</string>
 							<key>objectValue</key>
-							<string>593px</string>
+							<string>543px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>273px</string>
+							<string>281px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -10045,7 +10043,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 							<key>identifier</key>
 							<string>Width</string>
 							<key>objectValue</key>
-							<string>384px</string>
+							<string>376px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -10073,15 +10071,15 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderWidthLeft</string>
+							<string>BorderWidthBottom</string>
 							<key>objectValue</key>
 							<string>0px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BackgroundColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#FFFFFF</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>285</key>
@@ -10124,15 +10122,15 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Overflow</string>
+							<string>Opacity</string>
 							<key>objectValue</key>
-							<string>visible</string>
+							<string>0</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Width</string>
+							<string>Overflow</string>
 							<key>objectValue</key>
-							<string>385px</string>
+							<string>visible</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -10148,9 +10146,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Opacity</string>
+							<string>Width</string>
 							<key>objectValue</key>
-							<string>0</string>
+							<string>385px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -10169,27 +10167,27 @@ function showWaffleBalls(hypeDocument, element, event) {
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
-							<key>objectValue</key>
-							<string>div</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderWidthBottom</string>
+							<string>BorderWidthLeft</string>
 							<key>objectValue</key>
 							<string>0px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderColorBottom</string>
+							<string>BackgroundColor</string>
 							<key>objectValue</key>
-							<string>#D8DDE4</string>
+							<string>#FFFFFF</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>ExplicitDimensions</string>
 							<key>objectValue</key>
 							<string>YES</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderColorBottom</string>
+							<key>objectValue</key>
+							<string>#D8DDE4</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -10211,15 +10209,27 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Top</string>
+							<string>Parent</string>
 							<key>objectValue</key>
-							<string>-179px</string>
+							<string>221</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>BorderWidthRight</string>
 							<key>objectValue</key>
 							<string>0px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>-179px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderColorTop</string>
+							<key>objectValue</key>
+							<string>#D8DDE4</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -10232,18 +10242,6 @@ function showWaffleBalls(hypeDocument, element, event) {
 							<string>BorderColorLeft</string>
 							<key>objectValue</key>
 							<string>#D8DDE4</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderColorTop</string>
-							<key>objectValue</key>
-							<string>#D8DDE4</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Parent</string>
-							<key>objectValue</key>
-							<string>221</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -10277,15 +10275,15 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Width</string>
-							<key>objectValue</key>
-							<string>100px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
 							<string>24</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>100px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -10307,15 +10305,15 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderWidthLeft</string>
+							<string>BorderWidthBottom</string>
 							<key>objectValue</key>
 							<string>0px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BackgroundColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#FFFFFF</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>287</key>
@@ -10328,9 +10326,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#444444</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -10370,15 +10368,15 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>PaddingBottom</string>
-							<key>objectValue</key>
-							<string>8px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>Parent</string>
 							<key>objectValue</key>
 							<string>221</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>PaddingBottom</string>
+							<key>objectValue</key>
+							<string>8px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -10412,9 +10410,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ZIndex</string>
+							<string>PaddingLeft</string>
 							<key>objectValue</key>
-							<string>25</string>
+							<string>8px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -10424,9 +10422,9 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>PaddingLeft</string>
+							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>8px</string>
+							<string>25</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -10448,18 +10446,18 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#444444</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>289</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>90px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -10553,15 +10551,15 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Width</string>
-							<key>objectValue</key>
-							<string>92px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>DisplayHiddenOverride</string>
 							<key>objectValue</key>
 							<string>1</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>92px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -10589,15 +10587,15 @@ function showWaffleBalls(hypeDocument, element, event) {
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>90px</string>
+							<string>div</string>
 						</dict>
 					</array>
 				</dict>
 				<key>expandedElementOids</key>
 				<array>
-					<string>268</string>
+					<string>285</string>
 				</array>
 				<key>isPersistentSymbol</key>
 				<false/>
@@ -10821,7 +10819,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>6.4999998807907104</real>
+								<real>6.5</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -10961,7 +10959,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>AE9C7C2C-A2AF-495F-8F67-EFC7197BEEC2-1285-00003C727C2AE7DD</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>3</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -11019,7 +11017,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>FFFC8B17-C9E8-4D82-8591-CB0A8C776E47-1285-00003C73622E0A90</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>4</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -11293,7 +11291,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>B1064594-E7FD-4CBA-B253-0EF19B893CEA-1285-00003CFBD402911C</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>5</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -11351,7 +11349,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>7F3383D9-F218-45ED-B498-07A6B8D2007B-1285-00003CFCA49316C7</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>6</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -11387,7 +11385,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>8FD4BDF2-6D96-4C90-A40B-53EA1008B7D9-506-00000207435B5DBB</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>7</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -11495,7 +11493,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>AC909A06-441E-40C7-99D5-4390DF2128E9-1285-00003D3DAD284868</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>17</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -11592,7 +11590,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>A493B9DE-D532-46B2-ADE4-335722768D11-1285-00003D3E9C8B99A8</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>19</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -11621,7 +11619,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>5FB38A41-5A2A-4C7B-B8DB-58E886BB10AB-506-000002080B2B0884</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>8</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -11657,7 +11655,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>EBF0B477-1D51-4477-BDD6-D0618B4F87A6-506-00000112310DB5C8</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>9</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -11852,7 +11850,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>B574A1EC-0E6B-468C-BEC1-4F906E738FCA-506-00000114786D03E3</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>10</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -11888,7 +11886,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>7DF4C141-A6B7-4ABD-918E-5EDAE3D3FE4D-506-00000217BD321B60</string>
 								<key>zIndex</key>
-								<integer>3</integer>
+								<integer>11</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -11924,7 +11922,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>D8D9C3ED-5547-4288-B62B-FE7FA7D3B306-506-000000D04745F700</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>23</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -11960,7 +11958,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>3878ADB8-38EB-48D2-A31F-7DC8DC70C157-506-000002236078E359</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>12</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -11996,7 +11994,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>7B9C44DB-35BE-4B7C-B09C-A4F1011E3BD6-506-000000D047525D10</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>24</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -12032,7 +12030,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>94D1E873-D409-4920-BA96-D3E6179080D3-506-00000708E242238D</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>13</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -12061,7 +12059,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>9CA57443-B262-488C-B28B-8AA1FB236312-506-00000218C2B21B96</string>
 								<key>zIndex</key>
-								<integer>4</integer>
+								<integer>14</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -12090,7 +12088,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>7E2EBB90-70AC-4149-B866-D6E789FB409F-506-000000D0475DAFD8</string>
 								<key>zIndex</key>
-								<integer>3</integer>
+								<integer>25</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -12119,7 +12117,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>BDBED0C1-2EB5-4289-9EBA-42C279F4A6DD-506-00000707F58D2962</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>15</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -12155,7 +12153,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>996CC5B7-9D4A-44EC-BD1E-B0B22C9B9A28-506-000001D5F59DF925</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>26</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -12191,7 +12189,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>FA469B3A-B773-467B-BE6D-E957A8425240-506-000001D5F5A5B5DE</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>27</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -12227,7 +12225,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>875F3C0D-A3A5-4B9A-A4DA-732182486E08-506-000001E4EDCC77F4</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>3</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -12256,7 +12254,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>5D4FA86B-F61C-4DBE-8277-F0831DDB5C93-506-000001D5F5ABE1C6</string>
 								<key>zIndex</key>
-								<integer>3</integer>
+								<integer>28</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -12292,7 +12290,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>C2C718A0-57C8-4539-ABF2-B7A83A644C43-506-000001FC09B7C2E0</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>29</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -12321,7 +12319,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>01E83EED-946B-4377-84F3-023AB6F9451B-506-000001E71DB572A7</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>4</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -12357,7 +12355,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>5E1DABB4-9438-4F6A-8580-3D7C8009B68D-506-000001FC09BE4AB5</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>30</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -12386,7 +12384,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>2563C8F2-F396-4A40-BEAF-4356F74143E3-506-00000224F4CE50CB</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>16</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -12415,7 +12413,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>79703521-4584-4875-928E-DE5A87B49107-506-000001FC09C488D4</string>
 								<key>zIndex</key>
-								<integer>3</integer>
+								<integer>31</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -12451,7 +12449,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>22ECD7C6-C99E-4983-93C3-D6C5DE424F8F-506-0000024197F3DB8C</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>5</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -12487,7 +12485,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>1A0C5605-1935-448D-A6D1-DAD852723B35-506-0000020DA2C9C871</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>6</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -12516,7 +12514,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>5ADBFF42-E143-4528-AF0B-E60D1609FBA4-506-00000246BC3F9C91</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>7</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -12545,7 +12543,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>63EDA12A-3696-4EB4-B558-56915C9716F2-506-0000020F331FEDEB</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>8</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -12581,7 +12579,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>0D97A21A-4D16-444A-AECB-6FD757887DF7-506-000002E52D84BBB9</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>32</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -12617,7 +12615,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>0FACB0E3-CCA6-4655-BB30-BD60A41E06E5-506-000002E52D8CED47</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>33</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -12653,7 +12651,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>802F43FF-CA7D-4D24-A878-E72E9B98E66A-506-000002E02D64AE1A</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>34</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -12718,7 +12716,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>28995B09-4895-4668-A7EC-F83020AA930F-506-000002E52D93B882</string>
 								<key>zIndex</key>
-								<integer>3</integer>
+								<integer>35</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -12754,7 +12752,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>FB92C5DD-3435-4638-BBCB-234B77634BB6-506-000002E1768260D8</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>36</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -12826,7 +12824,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>BCE0F002-C245-43FC-9662-BB9553497A86-506-00000324E72A31A4</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>37</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -12862,7 +12860,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>7000E81D-068A-4838-8BE0-8C8EEC6AF0A6-506-00000324E7333B19</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>38</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -12898,7 +12896,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>08D89231-7D91-4586-A066-2011ACEFBD8F-506-0000038092AC9468</string>
 								<key>zIndex</key>
-								<integer>3</integer>
+								<integer>39</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -12963,7 +12961,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>A052B4AB-E041-4D9E-B8B2-C1FD70E83B1E-506-00000324E73AA091</string>
 								<key>zIndex</key>
-								<integer>3</integer>
+								<integer>40</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -12999,7 +12997,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>81DA70E9-6802-4364-9027-A30FA025FA53-506-000003A40697E768</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>41</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -13035,7 +13033,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>12F36950-27EB-4F9D-8AEA-E74EBF5B7A6F-506-0000039C90255B2E</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>4</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -13071,7 +13069,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>EFE19AB3-D720-4002-A4E4-E5A6BB428848-506-000005B8903751C1</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>42</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -13100,7 +13098,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>D1479894-8B89-4E65-BFC0-BD673D540329-506-000003A2ECED017C</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>43</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -13129,7 +13127,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>EBCB9EAB-AE6B-47A0-B28D-3B1E9256B148-506-000003870032B90D</string>
 								<key>zIndex</key>
-								<integer>4</integer>
+								<integer>5</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -13158,7 +13156,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>7D5517B1-0271-4CE3-B786-7D4BFAB062C3-506-0000038DCC4F64A9</string>
 								<key>zIndex</key>
-								<integer>4</integer>
+								<integer>44</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -13187,7 +13185,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>4A84F487-23DB-4864-81AD-318FBF6318EC-506-000005BA68FCEBFA</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>45</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -13216,7 +13214,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>B0E0FDF4-A0CE-44A9-9BC7-600719076006-506-0000039D91B266C1</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>6</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -13245,7 +13243,7 @@ function showWaffleBalls(hypeDocument, element, event) {
 								<key>uuid</key>
 								<string>98000190-DD10-4237-B1F7-E02BBD117FF9-506-000003AA7823FEB1</string>
 								<key>zIndex</key>
-								<integer>1</integer>
+								<integer>17</integer>
 							</dict>
 						</array>
 						<key>firstKeyframeIsRelative</key>
